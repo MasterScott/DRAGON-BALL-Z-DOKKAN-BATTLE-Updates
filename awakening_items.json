@@ -1210,6 +1210,17 @@
         "zeni": "20000"
     },
     {
+        "created_at": "2019-01-30 02:02:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "5252",
+        "name": "超サイヤ人4孫悟空",
+        "rarity": "3",
+        "selling_exchange_point": "12",
+        "updated_at": "2019-01-30 02:02:39",
+        "zeni": "20000"
+    },
+    {
         "created_at": "2018-11-20 01:21:32",
         "description": "特定のキャラクターの覚醒に必要",
         "event_jumpable": "1",
@@ -1218,6 +1229,17 @@
         "rarity": "3",
         "selling_exchange_point": "12",
         "updated_at": "2018-11-20 01:21:32",
+        "zeni": "20000"
+    },
+    {
+        "created_at": "2019-01-30 02:02:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "5262",
+        "name": "超サイヤ人4ベジータ",
+        "rarity": "3",
+        "selling_exchange_point": "12",
+        "updated_at": "2019-01-30 02:02:39",
         "zeni": "20000"
     },
     {

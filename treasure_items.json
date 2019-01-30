@@ -324,12 +324,21 @@
         "updated_at": "2017-06-27 02:14:03"
     },
     {
+        "created_at": "2019-01-30 02:09:15",
+        "description": "対象のガシャから手に入る秘宝\n占いババの交換所で交換が可能",
+        "id": "7000",
+        "image_suffix_number": "7000",
+        "name": "DOKKANフェスコイン",
+        "rarity": "3",
+        "updated_at": "2019-01-30 07:02:25"
+    },
+    {
         "created_at": "2019-01-28 02:10:09",
-        "description": "ガシャで手に入る秘宝",
+        "description": "対象のガシャから手に入る秘宝\n占いババの交換所で交換が可能",
         "id": "7002",
         "image_suffix_number": "7002",
         "name": "ガシャコイン",
         "rarity": "3",
-        "updated_at": "2019-01-28 02:10:09"
+        "updated_at": "2019-01-30 07:02:25"
     }
 ]

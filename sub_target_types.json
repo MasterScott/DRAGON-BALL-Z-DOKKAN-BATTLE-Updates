@@ -470,5 +470,37 @@
         "target_value": "17",
         "target_value_type": "2",
         "updated_at": "2018-12-26 02:12:43"
+    },
+    {
+        "created_at": "2019-01-30 02:04:47",
+        "id": "72",
+        "sub_target_type_set_id": "65",
+        "target_value": "30",
+        "target_value_type": "1",
+        "updated_at": "2019-01-30 02:04:47"
+    },
+    {
+        "created_at": "2019-01-30 02:04:47",
+        "id": "73",
+        "sub_target_type_set_id": "66",
+        "target_value": "30",
+        "target_value_type": "2",
+        "updated_at": "2019-01-30 02:04:47"
+    },
+    {
+        "created_at": "2019-01-30 02:04:47",
+        "id": "74",
+        "sub_target_type_set_id": "67",
+        "target_value": "31",
+        "target_value_type": "1",
+        "updated_at": "2019-01-30 02:04:47"
+    },
+    {
+        "created_at": "2019-01-30 02:04:47",
+        "id": "75",
+        "sub_target_type_set_id": "68",
+        "target_value": "31",
+        "target_value_type": "2",
+        "updated_at": "2019-01-30 02:04:47"
     }
 ]

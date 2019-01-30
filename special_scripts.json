@@ -2570,7 +2570,25 @@
     {
         "attack_attributes": "1",
         "energy_color": "",
+        "id": "435",
+        "script_name": "sp0526"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
         "id": "436",
         "script_name": "sp0525"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "437",
+        "script_name": "ut0001"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "438",
+        "script_name": "ut0002"
     }
 ]

@@ -12946,6 +12946,22 @@
     {
         "all_clear_bonus_stones": "",
         "any_clear_bonus_stones": "1",
+        "area_id": "525",
+        "can_ignore_difficulty_order": "1",
+        "created_at": "2019-01-30 02:04:25",
+        "icon_x": "1",
+        "icon_y": "1",
+        "id": "525002",
+        "interval_reset_visited_days": "",
+        "name": "最強パワーの超サイヤ人4!!",
+        "prev_quest_id": "525001",
+        "start_at": "2015-10-30 00:00:00",
+        "updated_at": "2019-01-30 02:04:25",
+        "visit_count_max": ""
+    },
+    {
+        "all_clear_bonus_stones": "",
+        "any_clear_bonus_stones": "1",
         "area_id": "526",
         "can_ignore_difficulty_order": "1",
         "created_at": "2018-11-20 01:27:36",
@@ -12957,6 +12973,22 @@
         "prev_quest_id": "",
         "start_at": "2015-10-30 00:00:00",
         "updated_at": "2018-11-20 01:27:36",
+        "visit_count_max": ""
+    },
+    {
+        "all_clear_bonus_stones": "",
+        "any_clear_bonus_stones": "1",
+        "area_id": "526",
+        "can_ignore_difficulty_order": "1",
+        "created_at": "2019-01-30 02:04:25",
+        "icon_x": "1",
+        "icon_y": "1",
+        "id": "526002",
+        "interval_reset_visited_days": "",
+        "name": "無敵を誇る超サイヤ人4!!",
+        "prev_quest_id": "526001",
+        "start_at": "2015-10-30 00:00:00",
+        "updated_at": "2019-01-30 02:04:25",
         "visit_count_max": ""
     },
     {

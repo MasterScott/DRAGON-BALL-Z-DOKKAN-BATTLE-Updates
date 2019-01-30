@@ -13,5 +13,35 @@
         "turn": "1",
         "ultimate_special_id": "",
         "updated_at": "2019-01-28 02:01:55"
+    },
+    {
+        "bgm_id": "58",
+        "condition_description": "バトル開始から4ターン目以降に発動可能\n(1回のみ)",
+        "created_at": "2019-01-30 02:02:38",
+        "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
+        "exec_limit": "1",
+        "id": "14",
+        "name": "10倍かめはめ波",
+        "skill_causality_set_id": "5",
+        "special_view_id": "4821",
+        "thumb_effect_se_id": "",
+        "turn": "1",
+        "ultimate_special_id": "2",
+        "updated_at": "2019-01-30 02:02:38"
+    },
+    {
+        "bgm_id": "76",
+        "condition_description": "バトル開始から4ターン目以降に発動可能\n(1回のみ)",
+        "created_at": "2019-01-30 02:02:38",
+        "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
+        "exec_limit": "1",
+        "id": "15",
+        "name": "ファイナルシャインアタック",
+        "skill_causality_set_id": "5",
+        "special_view_id": "4822",
+        "thumb_effect_se_id": "",
+        "turn": "1",
+        "ultimate_special_id": "2",
+        "updated_at": "2019-01-30 02:02:38"
     }
 ]
