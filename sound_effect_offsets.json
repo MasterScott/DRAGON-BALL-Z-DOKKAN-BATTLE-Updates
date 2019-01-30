@@ -1,0 +1,1002 @@
+[
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "1",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "1000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "2",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "2000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "3",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "3000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "4",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "4000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "5",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "5000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "6",
+        "sound_effect_id": "1036",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "7",
+        "sound_effect_id": "1036",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "8",
+        "sound_effect_id": "1026",
+        "sound_effect_set_id": "1",
+        "start_offset_millisecond": "7000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "9",
+        "sound_effect_id": "0",
+        "sound_effect_set_id": "2",
+        "start_offset_millisecond": "0",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "10",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "1000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "11",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "2000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "12",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "3000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "13",
+        "sound_effect_id": "1036",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "4000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "14",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "5000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "15",
+        "sound_effect_id": "1036",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "5500",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "16",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "17",
+        "sound_effect_id": "40",
+        "sound_effect_set_id": "3",
+        "start_offset_millisecond": "7000",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-01-27 00:16:48",
+        "id": "18",
+        "sound_effect_id": "0",
+        "sound_effect_set_id": "4",
+        "start_offset_millisecond": "0",
+        "updated_at": "2018-01-27 00:16:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "19",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "500",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "20",
+        "sound_effect_id": "9",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "2000",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "21",
+        "sound_effect_id": "3",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "3500",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "22",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "4100",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "23",
+        "sound_effect_id": "8",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "5000",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-18 02:13:48",
+        "id": "24",
+        "sound_effect_id": "13",
+        "sound_effect_set_id": "5",
+        "start_offset_millisecond": "6800",
+        "updated_at": "2018-03-18 02:13:48"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "25",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "6",
+        "start_offset_millisecond": "500",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "26",
+        "sound_effect_id": "1041",
+        "sound_effect_set_id": "6",
+        "start_offset_millisecond": "2000",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "27",
+        "sound_effect_id": "19",
+        "sound_effect_set_id": "6",
+        "start_offset_millisecond": "3000",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "28",
+        "sound_effect_id": "20",
+        "sound_effect_set_id": "6",
+        "start_offset_millisecond": "3800",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "29",
+        "sound_effect_id": "1060",
+        "sound_effect_set_id": "6",
+        "start_offset_millisecond": "5000",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-03-31 14:16:18",
+        "id": "30",
+        "sound_effect_id": "9",
+        "sound_effect_set_id": "7",
+        "start_offset_millisecond": "200",
+        "updated_at": "2018-03-31 14:16:18"
+    },
+    {
+        "created_at": "2018-04-25 01:52:46",
+        "id": "31",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "8",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-04-25 01:52:46"
+    },
+    {
+        "created_at": "2018-04-25 01:52:46",
+        "id": "32",
+        "sound_effect_id": "1030",
+        "sound_effect_set_id": "8",
+        "start_offset_millisecond": "1250",
+        "updated_at": "2018-04-25 01:52:46"
+    },
+    {
+        "created_at": "2018-04-25 01:52:46",
+        "id": "33",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "8",
+        "start_offset_millisecond": "2000",
+        "updated_at": "2018-04-25 01:52:46"
+    },
+    {
+        "created_at": "2018-04-25 01:52:46",
+        "id": "34",
+        "sound_effect_id": "15",
+        "sound_effect_set_id": "8",
+        "start_offset_millisecond": "3200",
+        "updated_at": "2018-04-25 01:52:46"
+    },
+    {
+        "created_at": "2018-04-25 01:52:46",
+        "id": "35",
+        "sound_effect_id": "3",
+        "sound_effect_set_id": "8",
+        "start_offset_millisecond": "4800",
+        "updated_at": "2018-04-25 01:52:46"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "36",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "37",
+        "sound_effect_id": "1015",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "38",
+        "sound_effect_id": "1064",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "1400",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "39",
+        "sound_effect_id": "31",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "1900",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "40",
+        "sound_effect_id": "1070",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "3300",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "41",
+        "sound_effect_id": "9",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "4200",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "42",
+        "sound_effect_id": "8",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "5300",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-07-30 02:07:55",
+        "id": "43",
+        "sound_effect_id": "1068",
+        "sound_effect_set_id": "9",
+        "start_offset_millisecond": "6900",
+        "updated_at": "2018-07-30 02:07:55"
+    },
+    {
+        "created_at": "2018-08-27 02:09:38",
+        "id": "44",
+        "sound_effect_id": "17",
+        "sound_effect_set_id": "10",
+        "start_offset_millisecond": "660",
+        "updated_at": "2018-08-27 02:09:38"
+    },
+    {
+        "created_at": "2018-08-27 02:09:38",
+        "id": "45",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "10",
+        "start_offset_millisecond": "1330",
+        "updated_at": "2018-08-27 02:09:38"
+    },
+    {
+        "created_at": "2018-08-27 02:09:38",
+        "id": "46",
+        "sound_effect_id": "9",
+        "sound_effect_set_id": "10",
+        "start_offset_millisecond": "1930",
+        "updated_at": "2018-08-27 02:09:38"
+    },
+    {
+        "created_at": "2018-08-27 02:09:38",
+        "id": "47",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "10",
+        "start_offset_millisecond": "2700",
+        "updated_at": "2018-08-27 02:09:38"
+    },
+    {
+        "created_at": "2018-08-27 02:09:38",
+        "id": "48",
+        "sound_effect_id": "3",
+        "sound_effect_set_id": "10",
+        "start_offset_millisecond": "3560",
+        "updated_at": "2018-08-27 02:09:38"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "49",
+        "sound_effect_id": "1047",
+        "sound_effect_set_id": "11",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "50",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "11",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "51",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "11",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "52",
+        "sound_effect_id": "1050",
+        "sound_effect_set_id": "12",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "53",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "12",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "54",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "12",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "55",
+        "sound_effect_id": "1049",
+        "sound_effect_set_id": "13",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "56",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "13",
+        "start_offset_millisecond": "750",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "57",
+        "sound_effect_id": "1060",
+        "sound_effect_set_id": "13",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "58",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "13",
+        "start_offset_millisecond": "2200",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "59",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "60",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "61",
+        "sound_effect_id": "17",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "2150",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "62",
+        "sound_effect_id": "1040",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "3350",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "63",
+        "sound_effect_id": "1026",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "4350",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "64",
+        "sound_effect_id": "40",
+        "sound_effect_set_id": "14",
+        "start_offset_millisecond": "5500",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "65",
+        "sound_effect_id": "1047",
+        "sound_effect_set_id": "15",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "66",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "15",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "67",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "15",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "68",
+        "sound_effect_id": "1050",
+        "sound_effect_set_id": "16",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "69",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "16",
+        "start_offset_millisecond": "1100",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "70",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "16",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "71",
+        "sound_effect_id": "1064",
+        "sound_effect_set_id": "17",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "72",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "17",
+        "start_offset_millisecond": "750",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "73",
+        "sound_effect_id": "1060",
+        "sound_effect_set_id": "17",
+        "start_offset_millisecond": "1650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "74",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "17",
+        "start_offset_millisecond": "2200",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "75",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "76",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "1250",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "77",
+        "sound_effect_id": "1049",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "2150",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "78",
+        "sound_effect_id": "1040",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "3700",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "79",
+        "sound_effect_id": "1042",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "4400",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-08-31 00:09:29",
+        "id": "80",
+        "sound_effect_id": "1068",
+        "sound_effect_set_id": "18",
+        "start_offset_millisecond": "5650",
+        "updated_at": "2018-08-31 00:09:29"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "81",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "82",
+        "sound_effect_id": "44",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "1300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "83",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "2060",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "84",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "2640",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "85",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "3220",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "86",
+        "sound_effect_id": "8",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "3800",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "87",
+        "sound_effect_id": "1072",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "4700",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "88",
+        "sound_effect_id": "31",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "5400",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "89",
+        "sound_effect_id": "17",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "90",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "19",
+        "start_offset_millisecond": "7000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "91",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "92",
+        "sound_effect_id": "44",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "1300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "93",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "2060",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "94",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "2640",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "95",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "3220",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "96",
+        "sound_effect_id": "8",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "3800",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "97",
+        "sound_effect_id": "1072",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "4700",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "98",
+        "sound_effect_id": "31",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "5400",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "99",
+        "sound_effect_id": "17",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "100",
+        "sound_effect_id": "1035",
+        "sound_effect_set_id": "20",
+        "start_offset_millisecond": "7000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "101",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "102",
+        "sound_effect_id": "44",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "1300",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "103",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "2060",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "104",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "2640",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "105",
+        "sound_effect_id": "49",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "3220",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "106",
+        "sound_effect_id": "8",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "3800",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "107",
+        "sound_effect_id": "1072",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "4700",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "108",
+        "sound_effect_id": "31",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "5400",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "109",
+        "sound_effect_id": "17",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "6000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-10-03 02:09:18",
+        "id": "110",
+        "sound_effect_id": "1060",
+        "sound_effect_set_id": "21",
+        "start_offset_millisecond": "7000",
+        "updated_at": "2018-10-03 02:09:18"
+    },
+    {
+        "created_at": "2018-11-28 02:04:06",
+        "id": "111",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "22",
+        "start_offset_millisecond": "466",
+        "updated_at": "2018-11-28 02:04:06"
+    },
+    {
+        "created_at": "2018-11-28 02:04:06",
+        "id": "112",
+        "sound_effect_id": "1037",
+        "sound_effect_set_id": "22",
+        "start_offset_millisecond": "1500",
+        "updated_at": "2018-11-28 02:04:06"
+    },
+    {
+        "created_at": "2018-11-28 02:04:06",
+        "id": "113",
+        "sound_effect_id": "1022",
+        "sound_effect_set_id": "22",
+        "start_offset_millisecond": "3033",
+        "updated_at": "2018-11-28 02:04:06"
+    },
+    {
+        "created_at": "2018-11-28 02:04:06",
+        "id": "114",
+        "sound_effect_id": "1019",
+        "sound_effect_set_id": "22",
+        "start_offset_millisecond": "4300",
+        "updated_at": "2018-11-28 02:04:06"
+    },
+    {
+        "created_at": "2018-11-28 02:04:06",
+        "id": "115",
+        "sound_effect_id": "3",
+        "sound_effect_set_id": "22",
+        "start_offset_millisecond": "5633",
+        "updated_at": "2018-11-28 02:04:06"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "116",
+        "sound_effect_id": "1044",
+        "sound_effect_set_id": "23",
+        "start_offset_millisecond": "0",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "117",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "23",
+        "start_offset_millisecond": "698",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "118",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "23",
+        "start_offset_millisecond": "2128",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "119",
+        "sound_effect_id": "1072",
+        "sound_effect_set_id": "23",
+        "start_offset_millisecond": "2760",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "120",
+        "sound_effect_id": "1067",
+        "sound_effect_set_id": "23",
+        "start_offset_millisecond": "4084",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "121",
+        "sound_effect_id": "1044",
+        "sound_effect_set_id": "24",
+        "start_offset_millisecond": "0",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "122",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "24",
+        "start_offset_millisecond": "698",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "123",
+        "sound_effect_id": "1018",
+        "sound_effect_set_id": "24",
+        "start_offset_millisecond": "2128",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "124",
+        "sound_effect_id": "1072",
+        "sound_effect_set_id": "24",
+        "start_offset_millisecond": "2760",
+        "updated_at": "2018-12-26 02:12:36"
+    },
+    {
+        "created_at": "2018-12-26 02:12:36",
+        "id": "125",
+        "sound_effect_id": "1024",
+        "sound_effect_set_id": "24",
+        "start_offset_millisecond": "4084",
+        "updated_at": "2018-12-26 02:12:36"
+    }
+]
