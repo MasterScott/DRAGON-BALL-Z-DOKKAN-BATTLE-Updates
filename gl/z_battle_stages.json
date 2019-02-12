@@ -111,42 +111,42 @@
     },
     {
         "announcement_id": "200326",
-        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/event/eve_banner/zbattle_list_banner_12.png",
+        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_banner/zbattle_list_banner_12.png",
         "end_at": "2030-12-31 05:59:59",
         "id": "12",
-        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/home/myp_banner_event_zbattle_012.png",
+        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_listbutton/myp_banner_event_zbattle_012.png",
         "priority": "0",
         "start_at": "2030-01-01 06:30:00",
         "z_battle_stage_effect_escalation_type": "12"
     },
     {
         "announcement_id": "200331",
-        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/event/eve_banner/zbattle_list_banner_13.png",
+        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_banner/zbattle_list_banner_13.png",
         "end_at": "2030-12-31 05:59:59",
         "id": "13",
-        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/home/myp_banner_event_zbattle_013.png",
+        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_listbutton/myp_banner_event_zbattle_013.png",
         "priority": "0",
         "start_at": "2030-01-01 06:30:00",
         "z_battle_stage_effect_escalation_type": "13"
     },
     {
         "announcement_id": "200337",
-        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/event/eve_banner/zbattle_list_banner_14.png",
+        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_banner/zbattle_list_banner_14.png",
         "end_at": "2030-12-31 05:59:59",
         "id": "14",
-        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/home/myp_banner_event_zbattle_014.png",
+        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_listbutton/myp_banner_event_zbattle_014.png",
         "priority": "0",
         "start_at": "2030-01-01 06:30:00",
         "z_battle_stage_effect_escalation_type": "14"
     },
     {
-        "announcement_id": "200348",
-        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/event/eve_banner/zbattle_list_banner_15.png",
-        "end_at": "2030-12-31 05:59:59",
+        "announcement_id": "101213",
+        "banner_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_banner/zbattle_list_banner_15.png",
+        "end_at": "2019-03-05 05:59:59",
         "id": "15",
-        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/https://d3bb21colkb6no.cloudfront.net/images/home/myp_banner_event_zbattle_015.png",
+        "listbutton_image": "http://d1rogo3tpc9ikq.cloudfront.net/banners/en/event/eve_listbutton/myp_banner_event_zbattle_015.png",
         "priority": "0",
-        "start_at": "2030-01-01 06:30:00",
+        "start_at": "2019-02-13 05:30:00",
         "z_battle_stage_effect_escalation_type": "15"
     }
 ]

@@ -1,7 +1,7 @@
 [
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -18,11 +18,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -39,11 +39,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +1000",
         "eff_value1": "1000",
         "eff_value2": "0",
@@ -60,11 +60,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -81,11 +81,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +500",
         "eff_value1": "500",
         "eff_value2": "0",
@@ -102,11 +102,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -123,11 +123,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -144,11 +144,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK & DEF +10%",
         "eff_value1": "10",
         "eff_value2": "10",
@@ -165,11 +165,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1, enemy DEF -2000",
         "eff_value1": "2000",
         "eff_value2": "1",
@@ -186,11 +186,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "5",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -207,11 +207,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -228,11 +228,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1 when HP is 30% or below",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -249,11 +249,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "3",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Enemy DEF -10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -270,11 +270,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "4",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +300",
         "eff_value1": "300",
         "eff_value2": "0",
@@ -291,11 +291,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF + 20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -312,11 +312,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -333,11 +333,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -354,11 +354,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -375,11 +375,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +500",
         "eff_value1": "500",
         "eff_value2": "0",
@@ -396,11 +396,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +300",
         "eff_value1": "300",
         "eff_value2": "0",
@@ -417,11 +417,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +200",
         "eff_value1": "200",
         "eff_value2": "0",
@@ -438,11 +438,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +700",
         "eff_value1": "700",
         "eff_value2": "0",
@@ -459,11 +459,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -480,11 +480,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -501,11 +501,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +500",
         "eff_value1": "500",
         "eff_value2": "0",
@@ -522,11 +522,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -543,11 +543,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -564,11 +564,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Recover 5% HP",
         "eff_value1": "5",
         "eff_value2": "0",
@@ -585,11 +585,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -606,11 +606,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -627,11 +627,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -648,11 +648,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -669,11 +669,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -690,11 +690,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -711,11 +711,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +1000",
         "eff_value1": "1000",
         "eff_value2": "0",
@@ -732,11 +732,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +500, DEF+500",
         "eff_value1": "500",
         "eff_value2": "500",
@@ -753,11 +753,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%, attacked enemy's DEF -15%",
         "eff_value1": "15",
         "eff_value2": "10",
@@ -774,11 +774,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "5",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -795,11 +795,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -816,11 +816,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -837,11 +837,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK + 25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -858,11 +858,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%, attacked enemy's DEF -10%",
         "eff_value1": "10",
         "eff_value2": "10",
@@ -879,11 +879,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "5",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +300",
         "eff_value1": "300",
         "eff_value2": "0",
@@ -900,11 +900,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -921,11 +921,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -942,11 +942,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +2000 when Super Attack is launched",
         "eff_value1": "2000",
         "eff_value2": "0",
@@ -963,11 +963,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +2500 when Super Attack is launched",
         "eff_value1": "2500",
         "eff_value2": "0",
@@ -984,11 +984,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Recover 5% HP",
         "eff_value1": "5",
         "eff_value2": "0",
@@ -1005,11 +1005,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +20% when HP is 50% or below",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -1026,11 +1026,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK & DEF +25% when HP is 80% or below",
         "eff_value1": "25",
         "eff_value2": "25",
@@ -1047,11 +1047,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +1000",
         "eff_value1": "1000",
         "eff_value2": "0",
@@ -1068,11 +1068,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "DEF +1500",
         "eff_value1": "1500",
         "eff_value2": "0",
@@ -1089,11 +1089,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +300",
         "eff_value1": "300",
         "eff_value2": "0",
@@ -1110,11 +1110,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +500",
         "eff_value1": "500",
         "eff_value2": "0",
@@ -1131,11 +1131,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +300",
         "eff_value1": "300",
         "eff_value2": "0",
@@ -1152,11 +1152,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1173,11 +1173,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1194,11 +1194,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -1215,11 +1215,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1236,11 +1236,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1257,11 +1257,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1278,11 +1278,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1299,11 +1299,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1320,11 +1320,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1341,11 +1341,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1362,11 +1362,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1383,11 +1383,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1404,11 +1404,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +700",
         "eff_value1": "700",
         "eff_value2": "0",
@@ -1425,11 +1425,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1446,11 +1446,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -1467,11 +1467,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1488,11 +1488,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +1000, DEF +1000",
         "eff_value1": "1000",
         "eff_value2": "1000",
@@ -1509,11 +1509,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1530,11 +1530,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1551,11 +1551,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1572,11 +1572,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1593,11 +1593,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1614,11 +1614,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +1000",
         "eff_value1": "1000",
         "eff_value2": "0",
@@ -1635,11 +1635,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Recover 5% HP",
         "eff_value1": "5",
         "eff_value2": "0",
@@ -1656,11 +1656,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1677,11 +1677,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1698,11 +1698,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -1719,11 +1719,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK & DEF +10%",
         "eff_value1": "10",
         "eff_value2": "10",
@@ -1740,11 +1740,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1761,11 +1761,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1782,11 +1782,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -1803,11 +1803,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1824,11 +1824,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -1845,11 +1845,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +3",
         "eff_value1": "3",
         "eff_value2": "0",
@@ -1866,11 +1866,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1887,11 +1887,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -1908,11 +1908,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -1929,11 +1929,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -1950,11 +1950,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1971,11 +1971,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -1992,11 +1992,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Recover 3% HP",
         "eff_value1": "3",
         "eff_value2": "0",
@@ -2013,11 +2013,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2034,11 +2034,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "ATK +25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -2055,11 +2055,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -2076,11 +2076,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.110889",
+        "created_at": "2019-02-12 02:07:07.890419",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -2097,11 +2097,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.110889"
+        "updated_at": "2019-02-12 02:07:07.890419"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2118,11 +2118,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -2139,11 +2139,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +2500 when Super Attack is launched",
         "eff_value1": "2500",
         "eff_value2": "0",
@@ -2160,11 +2160,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -2181,11 +2181,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Recover 3% HP",
         "eff_value1": "3",
         "eff_value2": "0",
@@ -2202,11 +2202,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2223,11 +2223,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2244,11 +2244,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2265,11 +2265,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2286,11 +2286,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2307,11 +2307,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -2328,11 +2328,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2349,11 +2349,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Recover 3% HP",
         "eff_value1": "3",
         "eff_value2": "0",
@@ -2370,11 +2370,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2391,11 +2391,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2412,11 +2412,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +2000 when Super Attack is launched",
         "eff_value1": "2000",
         "eff_value2": "0",
@@ -2433,11 +2433,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -2454,11 +2454,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2475,11 +2475,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +10%",
         "eff_value1": "10",
         "eff_value2": "0",
@@ -2496,11 +2496,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2517,11 +2517,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -2538,11 +2538,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -2559,11 +2559,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2580,11 +2580,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +25%",
         "eff_value1": "25",
         "eff_value2": "0",
@@ -2601,11 +2601,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +5000 when Super Attack is launched",
         "eff_value1": "5000",
         "eff_value2": "0",
@@ -2622,11 +2622,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2643,11 +2643,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2664,11 +2664,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2685,11 +2685,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "ATK +20%",
         "eff_value1": "20",
         "eff_value2": "0",
@@ -2706,11 +2706,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +3",
         "eff_value1": "3",
         "eff_value2": "0",
@@ -2727,11 +2727,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Disables enemy's Rampage, and ATK +15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2748,11 +2748,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Weakens Regeneration and Ki +1",
         "eff_value1": "1",
         "eff_value2": "0",
@@ -2769,11 +2769,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Ki +2",
         "eff_value1": "2",
         "eff_value2": "0",
@@ -2790,11 +2790,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "0",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Activate Penetration, ATK & DEF + 1000",
         "eff_value1": "1000",
         "eff_value2": "1000",
@@ -2811,11 +2811,11 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     },
     {
         "calc_option": "2",
-        "created_at": "2019-01-29 09:55:38.141835",
+        "created_at": "2019-02-12 02:07:07.919795",
         "description": "Foils enemy's \"True Power\" and boosts ATK \nby 15%",
         "eff_value1": "15",
         "eff_value2": "0",
@@ -2832,6 +2832,6 @@
         "sub_target_type_set_id": "0",
         "target_type": "1",
         "turn": "1",
-        "updated_at": "2019-01-29 09:55:38.141835"
+        "updated_at": "2019-02-12 02:07:07.919795"
     }
 ]

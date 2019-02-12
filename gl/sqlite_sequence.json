@@ -181,11 +181,11 @@
     },
     {
         "name": "enemy_skills",
-        "seq": "1000185"
+        "seq": "1000203"
     },
     {
         "name": "forced_scripts",
-        "seq": "404"
+        "seq": "411"
     },
     {
         "name": "help_bodies",
@@ -201,7 +201,7 @@
     },
     {
         "name": "leader_skills",
-        "seq": "1014682"
+        "seq": "1016121"
     },
     {
         "name": "level_bgs",
@@ -233,7 +233,7 @@
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": "91"
+        "seq": "168"
     },
     {
         "name": "passive_skill_set_relations",
@@ -369,7 +369,7 @@
     },
     {
         "name": "sound_effect_offsets",
-        "seq": "115"
+        "seq": "125"
     },
     {
         "name": "special_bonuses",
@@ -433,7 +433,7 @@
     },
     {
         "name": "transformation_descriptions",
-        "seq": "53"
+        "seq": "57"
     },
     {
         "name": "treasure_items",

@@ -1,7 +1,7 @@
 [
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×1",
         "gift_description": "Enter an Ultimate Clash.",
         "id": "1001",
@@ -9,11 +9,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "1001",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Battlefield Memory ×1500",
         "gift_description": "[Weekly] Clear 3 stages.",
         "id": "1002",
@@ -21,11 +21,11 @@
         "item_type": "TreasureItem",
         "quantity": "1500",
         "rmbattle_mission_id": "1002",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Gravity Chamber (150G) ×3",
         "gift_description": "Clear 1 stage.",
         "id": "1003",
@@ -33,11 +33,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "1003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×3",
         "gift_description": "Clear 2 stages.",
         "id": "1004",
@@ -45,11 +45,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "1004",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[1 Million Zeni] Hercule Statue (Gold) ×1",
         "gift_description": "Clear 3 stages.",
         "id": "1005",
@@ -57,11 +57,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1005",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[1 Million Zeni] Hercule Statue (Gold) ×1",
         "gift_description": "Clear 4 stages.",
         "id": "1006",
@@ -69,11 +69,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1006",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×5",
         "gift_description": "Clear 5 stages.",
         "id": "1007",
@@ -81,11 +81,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "1007",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (S) ×500",
         "gift_description": "Clear 6 stages.",
         "id": "1008",
@@ -93,11 +93,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "1008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (S) ×500",
         "gift_description": "Clear 6 stages.",
         "id": "1009",
@@ -105,11 +105,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "1008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (S) ×500",
         "gift_description": "Clear 6 stages.",
         "id": "1010",
@@ -117,11 +117,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "1008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (S) ×500",
         "gift_description": "Clear 6 stages.",
         "id": "1011",
@@ -129,11 +129,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "1008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (S) ×500",
         "gift_description": "Clear 6 stages.",
         "id": "1012",
@@ -141,11 +141,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "1008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (M) ×300",
         "gift_description": "Clear 7 stages.",
         "id": "1013",
@@ -153,11 +153,11 @@
         "item_type": "PotentialItem",
         "quantity": "300",
         "rmbattle_mission_id": "1009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (M) ×300",
         "gift_description": "Clear 7 stages.",
         "id": "1014",
@@ -165,11 +165,11 @@
         "item_type": "PotentialItem",
         "quantity": "300",
         "rmbattle_mission_id": "1009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (M) ×300",
         "gift_description": "Clear 7 stages.",
         "id": "1015",
@@ -177,11 +177,11 @@
         "item_type": "PotentialItem",
         "quantity": "300",
         "rmbattle_mission_id": "1009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (M) ×300",
         "gift_description": "Clear 7 stages.",
         "id": "1016",
@@ -189,11 +189,11 @@
         "item_type": "PotentialItem",
         "quantity": "300",
         "rmbattle_mission_id": "1009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (M) ×300",
         "gift_description": "Clear 7 stages.",
         "id": "1017",
@@ -201,11 +201,11 @@
         "item_type": "PotentialItem",
         "quantity": "300",
         "rmbattle_mission_id": "1009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (L) ×50",
         "gift_description": "Clear 8 stages.",
         "id": "1018",
@@ -213,11 +213,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "1010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (L) ×50",
         "gift_description": "Clear 8 stages.",
         "id": "1019",
@@ -225,11 +225,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "1010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (L) ×50",
         "gift_description": "Clear 8 stages.",
         "id": "1020",
@@ -237,11 +237,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "1010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (L) ×50",
         "gift_description": "Clear 8 stages.",
         "id": "1021",
@@ -249,11 +249,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "1010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (L) ×50",
         "gift_description": "Clear 8 stages.",
         "id": "1022",
@@ -261,11 +261,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "1010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Kami ×20",
         "gift_description": "Clear Level 1.",
         "id": "1023",
@@ -273,11 +273,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "1011",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Grand Elder Guru ×20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "1024",
@@ -285,11 +285,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "1012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Babidi ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "1025",
@@ -297,11 +297,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "1013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Bibidi ×20",
         "gift_description": "Clear Level 1 for 4 times.",
         "id": "1026",
@@ -309,11 +309,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "1014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Korin ×20",
         "gift_description": "Clear Level 1 for 5 times.",
         "id": "1027",
@@ -321,11 +321,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "1015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[1 Million Zeni] Hercule Statue (Gold) ×1",
         "gift_description": "Clear Level 2.",
         "id": "1028",
@@ -333,11 +333,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[1 Million Zeni] Hercule Statue (Gold) ×1",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "1029",
@@ -345,11 +345,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1017",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(1.5 Million) Hercule Statue (Platinum) × 1",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "1030",
@@ -357,11 +357,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1018",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Supreme Kai ×1",
         "gift_description": "Clear Level 2 for 4 times.",
         "id": "1031",
@@ -369,11 +369,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "1019",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Elder Kai ×1",
         "gift_description": "Clear Level 2 for 5 times.",
         "id": "1032",
@@ -381,11 +381,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "1020",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×10",
         "gift_description": "Clear Level 3.",
         "id": "1033",
@@ -393,11 +393,11 @@
         "item_type": "Point::Stone",
         "quantity": "10",
         "rmbattle_mission_id": "1021",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Elder Kai ×1",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "1034",
@@ -405,11 +405,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "1022",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Supreme Kai ×1",
         "gift_description": "Clear Level 3 for 3 times.",
         "id": "1035",
@@ -417,11 +417,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "1023",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Elder Kai ×1",
         "gift_description": "Clear Level 3 for 4 times.",
         "id": "1036",
@@ -429,11 +429,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "1024",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[Mysterious Ritual] Elder Kai ×1",
         "gift_description": "Clear Level 3 for 5 times.",
         "id": "1037",
@@ -441,11 +441,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "1025",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×1",
         "gift_description": "Enter an Ultimate Clash.",
         "id": "2001",
@@ -453,11 +453,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "2001",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Battlefield Memory ×5000",
         "gift_description": "[Weekly] Clear 3 stages.",
         "id": "2002",
@@ -465,11 +465,11 @@
         "item_type": "TreasureItem",
         "quantity": "5000",
         "rmbattle_mission_id": "2002",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [AGL] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "2003",
@@ -477,11 +477,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "2003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [TEQ] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "2004",
@@ -489,11 +489,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "2003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [INT] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "2005",
@@ -501,11 +501,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "2003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [STR] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "2006",
@@ -513,11 +513,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "2003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [PHY] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "2007",
@@ -525,11 +525,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "2003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×3",
         "gift_description": "Clear 2 stages.",
         "id": "2008",
@@ -537,11 +537,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "2004",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(1 Million Zeni) Hercule Statue (Gold) ×1",
         "gift_description": "Clear 3 stages.",
         "id": "2009",
@@ -549,11 +549,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "2005",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(1.5 Million) Hercule Statue (Platinum) × 1",
         "gift_description": "Clear 4 stages.",
         "id": "2010",
@@ -561,11 +561,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "2006",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×5",
         "gift_description": "Clear 5 stages.",
         "id": "2011",
@@ -573,11 +573,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "2007",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Supreme Kai ×1",
         "gift_description": "Clear 6 stages.",
         "id": "2012",
@@ -585,11 +585,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "2008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Elder Kai ×1",
         "gift_description": "Clear 7 stages.",
         "id": "2013",
@@ -597,11 +597,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "2009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Gravity Chamber (150G) ×3",
         "gift_description": "Clear 8 stages.",
         "id": "2014",
@@ -609,11 +609,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "2010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Gregory × 20",
         "gift_description": "Clear Level 1.",
         "id": "2015",
@@ -621,11 +621,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2011",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Bubbles × 20",
         "gift_description": "Clear Level 1.",
         "id": "2016",
@@ -633,11 +633,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2011",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Dr. Gero × 20",
         "gift_description": "Clear Level 1.",
         "id": "2017",
@@ -645,11 +645,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2011",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Mr. Popo × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "2018",
@@ -657,11 +657,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Master Shen × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "2019",
@@ -669,11 +669,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Master Roshi × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "2020",
@@ -681,11 +681,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Mutaito × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "2021",
@@ -693,11 +693,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Grandpa Gohan × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "2022",
@@ -705,11 +705,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Kami ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "2023",
@@ -717,11 +717,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Grand Elder Guru ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "2024",
@@ -729,11 +729,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Babidi ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "2025",
@@ -741,11 +741,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Bibidi ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "2026",
@@ -753,11 +753,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Korin ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "2027",
@@ -765,11 +765,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "2013",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "2028",
@@ -777,11 +777,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "2014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "2029",
@@ -789,11 +789,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "2014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "2030",
@@ -801,11 +801,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "2014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "2031",
@@ -813,11 +813,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "2014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "2032",
@@ -825,11 +825,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "2014",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "2033",
@@ -837,11 +837,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "2015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "2034",
@@ -849,11 +849,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "2015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "2035",
@@ -861,11 +861,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "2015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "2036",
@@ -873,11 +873,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "2015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "2037",
@@ -885,11 +885,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "2015",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "AGL Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "2038",
@@ -897,11 +897,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "2016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "TEQ Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "2039",
@@ -909,11 +909,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "2016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "INT Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "2040",
@@ -921,11 +921,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "2016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "STR Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "2041",
@@ -933,11 +933,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "2016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "PHY Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "2042",
@@ -945,11 +945,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "2016",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×10",
         "gift_description": "Clear Level 3.",
         "id": "2043",
@@ -957,11 +957,11 @@
         "item_type": "Point::Stone",
         "quantity": "10",
         "rmbattle_mission_id": "2017",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Supreme Kai ×2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "2044",
@@ -969,11 +969,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "2018",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Elder Kai ×2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "2045",
@@ -981,11 +981,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "2018",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[Mysterious Ritual] Elder Kai ×1",
         "gift_description": "Clear Level 3 for 3 times.",
         "id": "2046",
@@ -993,11 +993,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "2019",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×1",
         "gift_description": "Enter an Ultimate Clash.",
         "id": "3001",
@@ -1005,11 +1005,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "3001",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Battlefield Memory ×5000",
         "gift_description": "[Weekly] Clear 3 stages.",
         "id": "3002",
@@ -1017,11 +1017,11 @@
         "item_type": "TreasureItem",
         "quantity": "5000",
         "rmbattle_mission_id": "3002",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [AGL] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "3003",
@@ -1029,11 +1029,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "3003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [TEQ] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "3004",
@@ -1041,11 +1041,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "3003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [INT] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "3005",
@@ -1053,11 +1053,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "3003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [STR] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "3006",
@@ -1065,11 +1065,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "3003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Z-Sword [PHY] × 1",
         "gift_description": "Clear 1 stage.",
         "id": "3007",
@@ -1077,11 +1077,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "3003",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×3",
         "gift_description": "Clear 2 stages.",
         "id": "3008",
@@ -1089,11 +1089,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "3004",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(1 Million Zeni) Hercule Statue (Gold) ×1",
         "gift_description": "Clear 3 stages.",
         "id": "3009",
@@ -1101,11 +1101,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "3005",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(1.5 Million) Hercule Statue (Platinum) × 1",
         "gift_description": "Clear 4 stages.",
         "id": "3010",
@@ -1113,11 +1113,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "3006",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Dragon Stone ×5",
         "gift_description": "Clear 5 stages.",
         "id": "3011",
@@ -1125,11 +1125,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "3007",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Supreme Kai ×1",
         "gift_description": "Clear 6 stages.",
         "id": "3012",
@@ -1137,11 +1137,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "3008",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medal) Elder Kai ×1",
         "gift_description": "Clear 7 stages.",
         "id": "3013",
@@ -1149,11 +1149,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "3009",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "Gravity Chamber (150G) ×3",
         "gift_description": "Clear 8 stages.",
         "id": "3014",
@@ -1161,11 +1161,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "3010",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "[Light Doze] Elder Kai (Dozing) x3",
         "gift_description": "Clear 9 stages.",
         "id": "3015",
@@ -1173,11 +1173,11 @@
         "item_type": "Card",
         "quantity": "3",
         "rmbattle_mission_id": "3011",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Gregory × 20",
         "gift_description": "Clear Level 1.",
         "id": "3016",
@@ -1185,11 +1185,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.204113",
+        "created_at": "2019-02-12 02:07:22.598501",
         "description": "(Awakening Medals) Bubbles × 20",
         "gift_description": "Clear Level 1.",
         "id": "3017",
@@ -1197,11 +1197,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3012",
-        "updated_at": "2019-01-29 09:55:52.204113"
+        "updated_at": "2019-02-12 02:07:22.598501"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Dr. Gero × 20",
         "gift_description": "Clear Level 1.",
         "id": "3018",
@@ -1209,11 +1209,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3012",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Mr. Popo × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "3019",
@@ -1221,11 +1221,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Master Shen × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "3020",
@@ -1233,11 +1233,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Master Roshi × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "3021",
@@ -1245,11 +1245,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Mutaito × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "3022",
@@ -1257,11 +1257,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Grandpa Gohan × 20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "3023",
@@ -1269,11 +1269,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Kami ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "3024",
@@ -1281,11 +1281,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Grand Elder Guru ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "3025",
@@ -1293,11 +1293,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Babidi ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "3026",
@@ -1305,11 +1305,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Bibidi ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "3027",
@@ -1317,11 +1317,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Korin ×20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "3028",
@@ -1329,11 +1329,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "3014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "3029",
@@ -1341,11 +1341,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "3015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "3030",
@@ -1353,11 +1353,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "3015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "3031",
@@ -1365,11 +1365,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "3015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "3032",
@@ -1377,11 +1377,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "3015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (S) ×1000",
         "gift_description": "Clear Level 2.",
         "id": "3033",
@@ -1389,11 +1389,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "3015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "3034",
@@ -1401,11 +1401,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "3016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "3035",
@@ -1413,11 +1413,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "3016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "3036",
@@ -1425,11 +1425,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "3016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "3037",
@@ -1437,11 +1437,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "3016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (M) ×500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "3038",
@@ -1449,11 +1449,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "3016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "3039",
@@ -1461,11 +1461,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "3017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "3040",
@@ -1473,11 +1473,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "3017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "3041",
@@ -1485,11 +1485,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "3017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "3042",
@@ -1497,11 +1497,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "3017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (L) ×50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "3043",
@@ -1509,11 +1509,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "3017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone ×10",
         "gift_description": "Clear Level 3.",
         "id": "3044",
@@ -1521,11 +1521,11 @@
         "item_type": "Point::Stone",
         "quantity": "10",
         "rmbattle_mission_id": "3018",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Supreme Kai ×2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "3045",
@@ -1533,11 +1533,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "3019",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "(Awakening Medals) Elder Kai ×2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "3046",
@@ -1545,11 +1545,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "3019",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Mysterious Ritual] Elder Kai ×1",
         "gift_description": "Clear Level 3 for 3 times.",
         "id": "3047",
@@ -1557,11 +1557,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "3020",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x1",
         "gift_description": "Enter an Ultimate Clash.",
         "id": "4001",
@@ -1569,11 +1569,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "4001",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Battlefield Memory x5000",
         "gift_description": "[Weekly] Clear a stage 3 times.",
         "id": "4002",
@@ -1581,11 +1581,11 @@
         "item_type": "TreasureItem",
         "quantity": "5000",
         "rmbattle_mission_id": "4002",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [AGL] x1",
         "gift_description": "Clear a stage once.",
         "id": "4003",
@@ -1593,11 +1593,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "4003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [TEQ] x1",
         "gift_description": "Clear a stage once.",
         "id": "4004",
@@ -1605,11 +1605,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "4003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [INT] x1",
         "gift_description": "Clear a stage once.",
         "id": "4005",
@@ -1617,11 +1617,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "4003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [STR] x1",
         "gift_description": "Clear a stage once.",
         "id": "4006",
@@ -1629,11 +1629,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "4003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [PHY] x1",
         "gift_description": "Clear a stage once.",
         "id": "4007",
@@ -1641,11 +1641,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "4003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x3",
         "gift_description": "Clear a stage 2 times.",
         "id": "4008",
@@ -1653,11 +1653,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "4004",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[1 Million Zeni] Hercule Statue (Gold) x1",
         "gift_description": "Clear a stage 3 times.",
         "id": "4009",
@@ -1665,11 +1665,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "4005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[1.5 Million Zeni] Hercule Statue (Platinum) x 1",
         "gift_description": "Clear a stage 4 times.",
         "id": "4010",
@@ -1677,11 +1677,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "4006",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x5",
         "gift_description": "Clear a stage 5 times.",
         "id": "4011",
@@ -1689,11 +1689,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "4007",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Supreme Kai x1",
         "gift_description": "Clear a stage 6 times.",
         "id": "4012",
@@ -1701,11 +1701,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "4008",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Elder Kai x1",
         "gift_description": "Clear a stage 7 times.",
         "id": "4013",
@@ -1713,11 +1713,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "4009",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Gravity Chamber (150G) x3",
         "gift_description": "Clear a stage 8 times.",
         "id": "4014",
@@ -1725,11 +1725,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "4010",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Light Doze] Elder Kai (Dozing) x3",
         "gift_description": "Clear a stage 9 times.",
         "id": "4015",
@@ -1737,11 +1737,11 @@
         "item_type": "Card",
         "quantity": "3",
         "rmbattle_mission_id": "4011",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Gregory x20",
         "gift_description": "Clear Level 1.",
         "id": "4016",
@@ -1749,11 +1749,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4012",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Bubbles x20",
         "gift_description": "Clear Level 1.",
         "id": "4017",
@@ -1761,11 +1761,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4012",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Dr. Gero x20",
         "gift_description": "Clear Level 1.",
         "id": "4018",
@@ -1773,11 +1773,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4012",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Mr. Popo x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "4019",
@@ -1785,11 +1785,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Master Shen x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "4020",
@@ -1797,11 +1797,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Master Roshi x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "4021",
@@ -1809,11 +1809,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Mutaito x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "4022",
@@ -1821,11 +1821,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Grandpa Gohan x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "4023",
@@ -1833,11 +1833,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Kami x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "4024",
@@ -1845,11 +1845,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Grand Elder Guru x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "4025",
@@ -1857,11 +1857,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Babidi x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "4026",
@@ -1869,11 +1869,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Bibidi x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "4027",
@@ -1881,11 +1881,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Korin x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "4028",
@@ -1893,11 +1893,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "4014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "4029",
@@ -1905,11 +1905,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "4015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "4030",
@@ -1917,11 +1917,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "4015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "4031",
@@ -1929,11 +1929,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "4015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "4032",
@@ -1941,11 +1941,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "4015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "4033",
@@ -1953,11 +1953,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "4015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "4034",
@@ -1965,11 +1965,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "4016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "4035",
@@ -1977,11 +1977,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "4016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "4036",
@@ -1989,11 +1989,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "4016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "4037",
@@ -2001,11 +2001,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "4016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "4038",
@@ -2013,11 +2013,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "4016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "AGL Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "4039",
@@ -2025,11 +2025,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "4017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "TEQ Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "4040",
@@ -2037,11 +2037,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "4017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "INT Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "4041",
@@ -2049,11 +2049,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "4017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "STR Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "4042",
@@ -2061,11 +2061,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "4017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "PHY Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "4043",
@@ -2073,11 +2073,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "4017",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x10",
         "gift_description": "Clear Level 3.",
         "id": "4044",
@@ -2085,11 +2085,11 @@
         "item_type": "Point::Stone",
         "quantity": "10",
         "rmbattle_mission_id": "4018",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Supreme Kai x2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "4045",
@@ -2097,11 +2097,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "4019",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Elder Kai x2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "4046",
@@ -2109,11 +2109,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "4019",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Mysterious Ritual] Elder Kai x1",
         "gift_description": "Clear Level 3 for 3 times.",
         "id": "4047",
@@ -2121,11 +2121,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "4020",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x1",
         "gift_description": "Enter an Ultimate Clash.",
         "id": "5001",
@@ -2133,11 +2133,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "5001",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Battlefield Memory x1000",
         "gift_description": "[Weekly] Clear a stage once.",
         "id": "5002",
@@ -2145,11 +2145,11 @@
         "item_type": "TreasureItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5002",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Battlefield Memory x2000",
         "gift_description": "[Weekly] Clear a stage 2 times.",
         "id": "5003",
@@ -2157,11 +2157,11 @@
         "item_type": "TreasureItem",
         "quantity": "2000",
         "rmbattle_mission_id": "5003",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Battlefield Memory x3000",
         "gift_description": "[Weekly] Clear a stage 3 times.",
         "id": "5004",
@@ -2169,11 +2169,11 @@
         "item_type": "TreasureItem",
         "quantity": "3000",
         "rmbattle_mission_id": "5004",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [AGL] x1",
         "gift_description": "Clear a stage once.",
         "id": "5005",
@@ -2181,11 +2181,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "5005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [TEQ] x1",
         "gift_description": "Clear a stage once.",
         "id": "5006",
@@ -2193,11 +2193,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "5005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [INT] x1",
         "gift_description": "Clear a stage once.",
         "id": "5007",
@@ -2205,11 +2205,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "5005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [STR] x1",
         "gift_description": "Clear a stage once.",
         "id": "5008",
@@ -2217,11 +2217,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "5005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Z-Sword [PHY] x1",
         "gift_description": "Clear a stage once.",
         "id": "5009",
@@ -2229,11 +2229,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "5005",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x3",
         "gift_description": "Clear a stage 2 times.",
         "id": "5010",
@@ -2241,11 +2241,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "5006",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[1 Million Zeni] Hercule Statue (Gold) x1",
         "gift_description": "Clear a stage 3 times.",
         "id": "5011",
@@ -2253,11 +2253,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "5007",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[1.5 Million Zeni] Hercule Statue (Platinum) x1",
         "gift_description": "Clear a stage 4 times.",
         "id": "5012",
@@ -2265,11 +2265,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "5008",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Dragon Stone x5",
         "gift_description": "Clear a stage 5 times.",
         "id": "5013",
@@ -2277,11 +2277,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "5009",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Supreme Kai x1",
         "gift_description": "Clear a stage 6 times.",
         "id": "5014",
@@ -2289,11 +2289,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "5010",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Elder Kai x1",
         "gift_description": "Clear a stage 7 times.",
         "id": "5015",
@@ -2301,11 +2301,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "5011",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "Gravity Chamber (150G) x3",
         "gift_description": "Clear a stage 8 times.",
         "id": "5016",
@@ -2313,11 +2313,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "5012",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Light Doze] Elder Kai (Dozing) x3",
         "gift_description": "Clear a stage 9 times.",
         "id": "5017",
@@ -2325,11 +2325,11 @@
         "item_type": "Card",
         "quantity": "3",
         "rmbattle_mission_id": "5013",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Mysterious Ritual] Elder Kai x1",
         "gift_description": "Clear a stage 10 times.",
         "id": "5018",
@@ -2337,11 +2337,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "5014",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Gregory x20",
         "gift_description": "Clear Level 1.",
         "id": "5019",
@@ -2349,11 +2349,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Bubbles x20",
         "gift_description": "Clear Level 1.",
         "id": "5020",
@@ -2361,11 +2361,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Dr. Gero x20",
         "gift_description": "Clear Level 1.",
         "id": "5021",
@@ -2373,11 +2373,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5015",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Mr. Popo x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "5022",
@@ -2385,11 +2385,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.230561",
+        "created_at": "2019-02-12 02:07:22.626424",
         "description": "[Awakening Medal] Master Shen x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "5023",
@@ -2397,11 +2397,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5016",
-        "updated_at": "2019-01-29 09:55:52.230561"
+        "updated_at": "2019-02-12 02:07:22.626424"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Master Roshi x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "5024",
@@ -2409,11 +2409,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Mutaito x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "5025",
@@ -2421,11 +2421,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Grandpa Gohan x20",
         "gift_description": "Clear Level 1 for 2 times.",
         "id": "5026",
@@ -2433,11 +2433,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Kami x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "5027",
@@ -2445,11 +2445,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Grand Elder Guru x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "5028",
@@ -2457,11 +2457,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Babidi x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "5029",
@@ -2469,11 +2469,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Bibidi x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "5030",
@@ -2481,11 +2481,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Korin x20",
         "gift_description": "Clear Level 1 for 3 times.",
         "id": "5031",
@@ -2493,11 +2493,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "5017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "AGL Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "5032",
@@ -2505,11 +2505,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "TEQ Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "5033",
@@ -2517,11 +2517,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "INT Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "5034",
@@ -2529,11 +2529,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "STR Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "5035",
@@ -2541,11 +2541,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "PHY Potential Orb (S) x1000",
         "gift_description": "Clear Level 2.",
         "id": "5036",
@@ -2553,11 +2553,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "5018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "AGL Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "5037",
@@ -2565,11 +2565,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "5019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "TEQ Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "5038",
@@ -2577,11 +2577,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "5019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "INT Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "5039",
@@ -2589,11 +2589,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "5019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "STR Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "5040",
@@ -2601,11 +2601,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "5019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "PHY Potential Orb (M) x500",
         "gift_description": "Clear Level 2 for 2 times.",
         "id": "5041",
@@ -2613,11 +2613,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "5019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "AGL Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "5042",
@@ -2625,11 +2625,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "5020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "TEQ Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "5043",
@@ -2637,11 +2637,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "5020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "INT Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "5044",
@@ -2649,11 +2649,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "5020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "STR Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "5045",
@@ -2661,11 +2661,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "5020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "PHY Potential Orb (L) x50",
         "gift_description": "Clear Level 2 for 3 times.",
         "id": "5046",
@@ -2673,11 +2673,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "5020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "Dragon Stone x12",
         "gift_description": "Clear Level 3.",
         "id": "5047",
@@ -2685,11 +2685,11 @@
         "item_type": "Point::Stone",
         "quantity": "12",
         "rmbattle_mission_id": "5021",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Supreme Kai x2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "5048",
@@ -2697,11 +2697,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "5022",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Awakening Medal] Elder Kai x2",
         "gift_description": "Clear Level 3 for 2 times.",
         "id": "5049",
@@ -2709,11 +2709,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "5022",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "[Mysterious Ritual] Elder Kai x1",
         "gift_description": "Clear Level 3 for 3 times.",
         "id": "5050",
@@ -2721,11 +2721,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "5023",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "龍石1個",
         "gift_description": "大乱戦に参加しよう",
         "id": "6001",
@@ -2733,11 +2733,11 @@
         "item_type": "Point::Stone",
         "quantity": "1",
         "rmbattle_mission_id": "6001",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "激闘の記憶1000個",
         "gift_description": "[ウィークリー]ステージ1回クリア",
         "id": "6002",
@@ -2745,11 +2745,11 @@
         "item_type": "TreasureItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6002",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "激闘の記憶2000個",
         "gift_description": "[ウィークリー]ステージ2回クリア",
         "id": "6003",
@@ -2757,11 +2757,11 @@
         "item_type": "TreasureItem",
         "quantity": "2000",
         "rmbattle_mission_id": "6003",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "激闘の記憶3000個",
         "gift_description": "[ウィークリー]ステージ3回クリア",
         "id": "6004",
@@ -2769,11 +2769,11 @@
         "item_type": "TreasureItem",
         "quantity": "3000",
         "rmbattle_mission_id": "6004",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "ゼットソード[速] ×1",
         "gift_description": "ステージ1回クリア",
         "id": "6005",
@@ -2781,11 +2781,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "6005",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "ゼットソード[技] ×1",
         "gift_description": "ステージ1回クリア",
         "id": "6006",
@@ -2793,11 +2793,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "6005",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "ゼットソード[知] ×1",
         "gift_description": "ステージ1回クリア",
         "id": "6007",
@@ -2805,11 +2805,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "6005",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "ゼットソード[力] ×1",
         "gift_description": "ステージ1回クリア",
         "id": "6008",
@@ -2817,11 +2817,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "6005",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "ゼットソード[体] ×1",
         "gift_description": "ステージ1回クリア",
         "id": "6009",
@@ -2829,11 +2829,11 @@
         "item_type": "TrainingItem",
         "quantity": "1",
         "rmbattle_mission_id": "6005",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "龍石3個",
         "gift_description": "ステージ2回クリア",
         "id": "6010",
@@ -2841,11 +2841,11 @@
         "item_type": "Point::Stone",
         "quantity": "3",
         "rmbattle_mission_id": "6006",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【100万ゼニー】サタン像(金) ×1",
         "gift_description": "ステージ3回クリア",
         "id": "6011",
@@ -2853,11 +2853,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "6007",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "765122",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【150万ゼニー】サタン像(プラチナ) ×1",
         "gift_description": "ステージ4回クリア",
         "id": "6012",
@@ -2865,11 +2865,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "6008",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "龍石5個",
         "gift_description": "ステージ5回クリア",
         "id": "6013",
@@ -2877,11 +2877,11 @@
         "item_type": "Point::Stone",
         "quantity": "5",
         "rmbattle_mission_id": "6009",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】東の界王神 ×1",
         "gift_description": "ステージ6回クリア",
         "id": "6014",
@@ -2889,11 +2889,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "6010",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】老界王神 ×1",
         "gift_description": "ステージ7回クリア",
         "id": "6015",
@@ -2901,11 +2901,11 @@
         "item_type": "AwakeningItem",
         "quantity": "1",
         "rmbattle_mission_id": "6011",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "重力室(150倍) ×3",
         "gift_description": "ステージ8回クリア",
         "id": "6016",
@@ -2913,11 +2913,11 @@
         "item_type": "TrainingField",
         "quantity": "3",
         "rmbattle_mission_id": "6012",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【かすかな寝息】老界王神(居眠り) ×3",
         "gift_description": "ステージ9回クリア",
         "id": "6017",
@@ -2925,11 +2925,11 @@
         "item_type": "Card",
         "quantity": "3",
         "rmbattle_mission_id": "6013",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【不思議な儀式】老界王神 ×1",
         "gift_description": "ステージ10回クリア",
         "id": "6018",
@@ -2937,11 +2937,11 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "6014",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】グレゴリー ×20",
         "gift_description": "LEVEL1をクリア",
         "id": "6019",
@@ -2949,11 +2949,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6015",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】バブルス ×20",
         "gift_description": "LEVEL1をクリア",
         "id": "6020",
@@ -2961,11 +2961,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6015",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】ドクターゲロ ×20",
         "gift_description": "LEVEL1をクリア",
         "id": "6021",
@@ -2973,11 +2973,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6015",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】ミスター・ポポ ×20",
         "gift_description": "LEVEL1を2回クリア",
         "id": "6022",
@@ -2985,11 +2985,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】鶴仙人 ×20",
         "gift_description": "LEVEL1を2回クリア",
         "id": "6023",
@@ -2997,11 +2997,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】亀仙人 ×20",
         "gift_description": "LEVEL1を2回クリア",
         "id": "6024",
@@ -3009,11 +3009,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】武泰斗 ×20",
         "gift_description": "LEVEL1を2回クリア",
         "id": "6025",
@@ -3021,11 +3021,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】孫悟飯(じいちゃん) ×20",
         "gift_description": "LEVEL1を2回クリア",
         "id": "6026",
@@ -3033,11 +3033,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6016",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】神様 ×20",
         "gift_description": "LEVEL1を3回クリア",
         "id": "6027",
@@ -3045,11 +3045,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】最長老 ×20",
         "gift_description": "LEVEL1を3回クリア",
         "id": "6028",
@@ -3057,11 +3057,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】バビディ ×20",
         "gift_description": "LEVEL1を3回クリア",
         "id": "6029",
@@ -3069,11 +3069,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】ビビディ ×20",
         "gift_description": "LEVEL1を3回クリア",
         "id": "6030",
@@ -3081,11 +3081,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】カリン ×20",
         "gift_description": "LEVEL1を3回クリア",
         "id": "6031",
@@ -3093,11 +3093,11 @@
         "item_type": "AwakeningItem",
         "quantity": "20",
         "rmbattle_mission_id": "6017",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "速の潜在能力玉(小) ×1000",
         "gift_description": "LEVEL2をクリア",
         "id": "6032",
@@ -3105,11 +3105,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "技の潜在能力玉(小) ×1000",
         "gift_description": "LEVEL2をクリア",
         "id": "6033",
@@ -3117,11 +3117,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "知の潜在能力玉(小) ×1000",
         "gift_description": "LEVEL2をクリア",
         "id": "6034",
@@ -3129,11 +3129,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "力の潜在能力玉(小) ×1000",
         "gift_description": "LEVEL2をクリア",
         "id": "6035",
@@ -3141,11 +3141,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "体の潜在能力玉(小) ×1000",
         "gift_description": "LEVEL2をクリア",
         "id": "6036",
@@ -3153,11 +3153,11 @@
         "item_type": "PotentialItem",
         "quantity": "1000",
         "rmbattle_mission_id": "6018",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "速の潜在能力玉(中) ×500",
         "gift_description": "LEVEL2を2回クリア",
         "id": "6037",
@@ -3165,11 +3165,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "6019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "技の潜在能力玉(中) ×500",
         "gift_description": "LEVEL2を2回クリア",
         "id": "6038",
@@ -3177,11 +3177,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "6019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "知の潜在能力玉(中) ×500",
         "gift_description": "LEVEL2を2回クリア",
         "id": "6039",
@@ -3189,11 +3189,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "6019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "力の潜在能力玉(中) ×500",
         "gift_description": "LEVEL2を2回クリア",
         "id": "6040",
@@ -3201,11 +3201,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "6019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "体の潜在能力玉(中) ×500",
         "gift_description": "LEVEL2を2回クリア",
         "id": "6041",
@@ -3213,11 +3213,11 @@
         "item_type": "PotentialItem",
         "quantity": "500",
         "rmbattle_mission_id": "6019",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "速の潜在能力玉(大) ×50",
         "gift_description": "LEVEL2を3回クリア",
         "id": "6042",
@@ -3225,11 +3225,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "6020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "技の潜在能力玉(大) ×50",
         "gift_description": "LEVEL2を3回クリア",
         "id": "6043",
@@ -3237,11 +3237,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "6020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "知の潜在能力玉(大) ×50",
         "gift_description": "LEVEL2を3回クリア",
         "id": "6044",
@@ -3249,11 +3249,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "6020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "力の潜在能力玉(大) ×50",
         "gift_description": "LEVEL2を3回クリア",
         "id": "6045",
@@ -3261,11 +3261,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "6020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "体の潜在能力玉(大) ×50",
         "gift_description": "LEVEL2を3回クリア",
         "id": "6046",
@@ -3273,11 +3273,11 @@
         "item_type": "PotentialItem",
         "quantity": "50",
         "rmbattle_mission_id": "6020",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "龍石12個",
         "gift_description": "LEVEL3をクリア",
         "id": "6047",
@@ -3285,11 +3285,11 @@
         "item_type": "Point::Stone",
         "quantity": "12",
         "rmbattle_mission_id": "6021",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】東の界王神 ×2",
         "gift_description": "LEVEL3を2回クリア",
         "id": "6048",
@@ -3297,11 +3297,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "6022",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【覚醒メダル】老界王神 ×2",
         "gift_description": "LEVEL3を2回クリア",
         "id": "6049",
@@ -3309,11 +3309,11 @@
         "item_type": "AwakeningItem",
         "quantity": "2",
         "rmbattle_mission_id": "6022",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     },
     {
         "card_exp_init": "0",
-        "created_at": "2019-01-29 09:55:52.254721",
+        "created_at": "2019-02-12 02:07:22.651360",
         "description": "【不思議な儀式】老界王神 ×1",
         "gift_description": "LEVEL3を3回クリア",
         "id": "6050",
@@ -3321,6 +3321,6 @@
         "item_type": "Card",
         "quantity": "1",
         "rmbattle_mission_id": "6023",
-        "updated_at": "2019-01-29 09:55:52.254721"
+        "updated_at": "2019-02-12 02:07:22.651360"
     }
 ]
