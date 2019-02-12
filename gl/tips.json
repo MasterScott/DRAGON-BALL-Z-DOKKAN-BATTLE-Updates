@@ -1,0 +1,345 @@
+[
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Rank Up to raise your Stamina and Cost Limit.",
+        "id": "1",
+        "title": "Rank Up",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "The Leader Skill of the character you choose as your Friend will \nactivate automatically when the quest begins !",
+        "id": "2",
+        "title": "Friends",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "The Leader Skill of the character you choose as the Leader \nduring Team Formation will activate automatically!",
+        "id": "3",
+        "title": "Leader Skills",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Cause heavy damage to your opponent by attacking\nwith the Type it is weak against.\nIf you attack with the Type it is strong against,\nyour opponent will guard against it.",
+        "id": "4",
+        "title": "Type",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Instead of choosing only powerful fighters,\nrethink the balance of your Team Formation with\nthe different Types in mind!",
+        "id": "5",
+        "title": "Team Formation",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Your Link Skills will activate according to your attack order.\nUse this power to your advantage!",
+        "id": "6",
+        "title": "Link Skills",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "It never hurts to have more Ki. Build up as much as you can.",
+        "id": "7",
+        "title": "Ki Spheres",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Once a certain amount of Ki is built up,\na Super Attack will be unleashed. Keep them coming!",
+        "id": "8",
+        "title": "Super Attacks",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Log in every day to receive Zeni and Dragon Stones. \nIf you log in 7 days in a row, you will get a Chain Login Bonus.",
+        "id": "9",
+        "title": "Chain Login Bonus",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Log in once a day and get a Total Login Bonus.",
+        "id": "10",
+        "title": "Total Login Bonus",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Once even a single type of Awakening Item\nreaches the required amount,\nyou can activate an Awakening.\nIt will drastically raise your stats!",
+        "id": "11",
+        "title": "Awakening",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Get more EXP Points by training against identical characters\nto the one you want to level up.\nYour Super Attack level will also go up!",
+        "id": "12",
+        "title": "Training",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Fight a specific opponent by tapping on them.\nChoose an opponent with a Type that gives you the best advantage.",
+        "id": "13",
+        "title": "Targets",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Use your Friend Points to obtain Cards! Make friends and save up!",
+        "id": "14",
+        "title": "Friend Points",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Get more EXP Points by training against characters\nthat are the same Type.",
+        "id": "15",
+        "title": "Enhance Super Attack",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Set your most important characters as favorites\nso that you don't accidentally sell them.",
+        "id": "16",
+        "title": "Favorites",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "If you delete the app, your data will disappear!\nBe sure to create a Device Transfer Code from the Menu.",
+        "id": "17",
+        "title": "Don't Delete!",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Are you guarded against your opponent's attacks?\nGuard yourself by using the Type that is strongest\nagainst your opponent's Type!",
+        "id": "18",
+        "title": "Guard",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Use your Super Attack with a full Dokkan meter\nto activate Dokkan Mode.\nTime your taps to deal massive damage!",
+        "id": "19",
+        "title": "Dokkan Mode",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "When in trouble go to Help! You can find it in the Menu.",
+        "id": "20",
+        "title": "Help",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Good things will happen when you gather all 7 Dragon Balls!\nIf you find one, be sure to pick it up!",
+        "id": "21",
+        "title": "Dragon Balls",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Quest with a Friend instead of a Guest,\nand you will receive more Friend Points!",
+        "id": "22",
+        "title": "Friend Points",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "When your opponents grow strong,\ntake advantage of Support Items!\nDifferent Items will give different effects,\nso be sure to try them out.",
+        "id": "23",
+        "title": "Support Items",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Ki Spheres of the same color will give you double the Ki.\nTry aiming for them when you want to use your Super Attack!",
+        "id": "24",
+        "title": "Super Attacks",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "On the Shenron Screen,\ntap and hold your finger over a Dragon Ball\nnot yet in your collection to reveal its stage location!",
+        "id": "25",
+        "title": "Dragon Radar",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "The first character in the enemy lineup\nwill aim for the member at the head of your party.\nDon't forget to think about Types before you battle!",
+        "id": "26",
+        "title": "First Attack Guard",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Enemies will target the character from your party\nwho attacked directly before them. Remember,\nTypes play a crucial role in defense too!",
+        "id": "27",
+        "title": "Attack & Defense",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Collect Ki Spheres that match your Type to recover a little HP.",
+        "id": "28",
+        "title": "HP Recovery",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "When a boss brings along reinforcements,\nfocus your attacks on the non-boss characters first.\nThis will reduce the number of attacks you receive.",
+        "id": "29",
+        "title": "Boss Battles",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "The amount of Ki required for a full-powered\nattack varies from fighter to fighter.\nMake sure to check the Character Details thoroughly.",
+        "id": "30",
+        "title": "Ki Amount",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "This page contains helpful game hints.\nView it by tapping the banner on the Home page.",
+        "id": "31",
+        "title": "Master Roshi's Teachings",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Pinch in or out on the map screen to control the zoom.",
+        "id": "32",
+        "title": "Map Zoom",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Picking up gold capsules scattered around the map\nto get rare items and Medals.\nThere are white, bronze, silver, and gold capsules,\nwith gold offering the best rewards.",
+        "id": "33",
+        "title": "Hoi-Poi Capsules Colors",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Capsule labels indicate their contents.\nRed is for Training Items, blue is for Support Items,\nand purple is for Awakening Medals.",
+        "id": "34",
+        "title": "Hoi-Poi Capsules Labels",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Downloading all data can reduce individual load times.\nTap \"Download All\" from the title screen and give it a try!",
+        "id": "35",
+        "title": "Download All",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Awakening a character adds a \"Super\" or \"Extreme\" prefix\nto their Type and makes them stronger!",
+        "id": "36",
+        "title": "Awakened Types",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Tap and hold a Ki Sphere on the first row to preview the route.\nChecking the route before making your move\nis a powerful battle strategy!",
+        "id": "37",
+        "title": "Check Ki Spheres",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Baba's Shop is home to a diverse stock of goods.\nDrop by often to pick up useful items.",
+        "id": "38",
+        "title": "Baba's Shop",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Characters with rarity of UR or higher can have their\n\"Hidden Potential\" activated to become even stronger!\nStay on top of things by tapping into \nyour characters' full potential!",
+        "id": "39",
+        "title": "Hidden Potential Activation",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Facebook linking is another way to recover your game data.\nGive it a thought — just in case\nsomething happens to your device!",
+        "id": "40",
+        "title": "Facebook Linking",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Activating Hidden Potential will make the stars on\nyour thumbnail icon sparkle. \nA rainbow-colored radiance is a sign that\nhidden potential has been fully unlocked!",
+        "id": "41",
+        "title": "Thumbnail Icon",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Tapping the top/bottom section of the character list screen\nwill instantly jump to the first/last row.",
+        "id": "43",
+        "title": "Character List",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Status Effects appear as icons over the affected character.\nVisit the Help section to view the list of Status Effects.",
+        "id": "44",
+        "title": "Status Icon",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Baba's Shop features sales every once in a while.\nDrop by to grab nifty items for a bargain!",
+        "id": "45",
+        "title": "Baba's Shop",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Training Items boost Training efficiency.\nSome events make them especially easy to come by.\nTrain smarter and forge your team into\nan invincible fighting force!",
+        "id": "46",
+        "title": "Training",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "After losing a battle, you can use Dragon Stones to\npick up where you left off.\nIf you're having trouble winning on the first attempt,\ntry using a Continue!",
+        "id": "47",
+        "title": "Continues",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Make Super Attacks even fiercer by boosting their level!\nSome characters will even feature special effects upon\nreaching a certain Super Attack Level.\nPower up Super Attacks to make your team\nthe strongest they can be!",
+        "id": "48",
+        "title": "Super Attack Level",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "Dokkan Awakening is a special type of Awakening that\nelevates your characters to even greater heights of strength!\nAfter acquiring an Awakenable character,\ngo for a Dokkan Awakening to really up the ante!",
+        "id": "49",
+        "title": "Dokkan Awaken",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    },
+    {
+        "created_at": "2019-01-29 09:55:55.480000",
+        "description": "There's a range of different Hercule Statues—and they all\nfetch a good price! Trade them in for Zeni and\nyou'll be rolling in it in no time!",
+        "id": "50",
+        "title": "Hercule Statue",
+        "updated_at": "2019-01-29 09:55:55.480000"
+    }
+]
