@@ -168,5 +168,15 @@
         "special_atk": "10",
         "updated_at": "2019-01-11 05:17:23",
         "z_battle_stage_id": "17"
+    },
+    {
+        "atk": "5000",
+        "created_at": "2019-02-05 09:22:37",
+        "def": "10000",
+        "hp": "240000",
+        "id": "20",
+        "special_atk": "10",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_stage_id": "18"
     }
 ]

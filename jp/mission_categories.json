@@ -117,6 +117,15 @@
         "updated_at": "2018-12-11 01:35:15"
     },
     {
+        "created_at": "2019-02-14 03:05:58",
+        "dragonball_session_id": "2001",
+        "id": "15",
+        "name": "黒煙の龍",
+        "required_rank": "1",
+        "type": "MissionCategory::PorungaMissionCategory",
+        "updated_at": "2019-02-14 03:05:58"
+    },
+    {
         "created_at": "2018-12-11 01:35:15",
         "dragonball_session_id": "",
         "id": "1000",

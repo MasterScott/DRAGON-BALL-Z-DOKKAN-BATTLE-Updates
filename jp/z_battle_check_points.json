@@ -1087,5 +1087,71 @@
         "updated_at": "2019-01-11 05:17:23",
         "z_battle_normal_reward_table_group_id": "98",
         "z_battle_stage_id": "17"
+    },
+    {
+        "act": "3",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "1",
+        "id": "110",
+        "level": "5",
+        "main_reward_id": "151",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "99",
+        "z_battle_stage_id": "18"
+    },
+    {
+        "act": "5",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "2",
+        "id": "111",
+        "level": "10",
+        "main_reward_id": "152",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "100",
+        "z_battle_stage_id": "18"
+    },
+    {
+        "act": "5",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "2",
+        "id": "112",
+        "level": "15",
+        "main_reward_id": "153",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "101",
+        "z_battle_stage_id": "18"
+    },
+    {
+        "act": "7",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "3",
+        "id": "113",
+        "level": "20",
+        "main_reward_id": "154",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "102",
+        "z_battle_stage_id": "18"
+    },
+    {
+        "act": "10",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "3",
+        "id": "114",
+        "level": "25",
+        "main_reward_id": "155",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "103",
+        "z_battle_stage_id": "18"
+    },
+    {
+        "act": "15",
+        "created_at": "2019-02-05 09:22:37",
+        "eventkagi_num": "3",
+        "id": "115",
+        "level": "30",
+        "main_reward_id": "156",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_normal_reward_table_group_id": "104",
+        "z_battle_stage_id": "18"
     }
 ]

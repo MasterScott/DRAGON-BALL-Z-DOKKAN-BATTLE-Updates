@@ -2590,5 +2590,29 @@
         "energy_color": "",
         "id": "438",
         "script_name": "ut0002"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "439",
+        "script_name": "sp0528"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "440",
+        "script_name": "sp0529"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "441",
+        "script_name": "sp0530"
+    },
+    {
+        "attack_attributes": "1",
+        "energy_color": "",
+        "id": "447",
+        "script_name": "sp0527"
     }
 ]

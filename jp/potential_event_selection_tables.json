@@ -166,5 +166,12 @@
         "id": "24",
         "required_stone_for_unrelease": "10",
         "updated_at": "2018-02-20 02:15:31"
+    },
+    {
+        "comment": "選択可能スキル: 属性防御UP+5, 必殺威力UP+5",
+        "created_at": "2019-02-14 03:06:21",
+        "id": "25",
+        "required_stone_for_unrelease": "10",
+        "updated_at": "2019-02-14 03:06:21"
     }
 ]

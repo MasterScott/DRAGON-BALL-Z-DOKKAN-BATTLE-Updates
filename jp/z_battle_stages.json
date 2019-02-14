@@ -219,5 +219,18 @@
         "priority": "0",
         "start_at": "2019-01-30 01:00:00",
         "z_battle_stage_effect_escalation_type": "17"
+    },
+    {
+        "announcement_id": "200366",
+        "banner_image": "https://d3bb21colkb6no.cloudfront.net/images/event/eve_banner/zbattle_list_banner_18.png",
+        "end_at": "2019-03-05 07:59:59",
+        "eventkagi_end_at": "",
+        "eventkagi_start_at": "",
+        "id": "18",
+        "listbutton_image": "https://d3bb21colkb6no.cloudfront.net/images/home/myp_banner_event_zbattle_018.png",
+        "locked_by": "",
+        "priority": "0",
+        "start_at": "2019-02-15 06:00:00",
+        "z_battle_stage_effect_escalation_type": "18"
     }
 ]

@@ -321,5 +321,24 @@
         "start_level": "1",
         "updated_at": "2019-01-11 05:17:24",
         "z_battle_stage_id": "17"
+    },
+    {
+        "attack_escalation_type": "135",
+        "base_attack": "32000",
+        "base_defence": "3000",
+        "base_hp": "1600000",
+        "card_escalation_type": "138",
+        "created_at": "2019-02-05 09:22:37",
+        "defence_escalation_type": "136",
+        "end_level": "",
+        "hp_escalation_type": "134",
+        "id": "20",
+        "ordinal_num": "1",
+        "performance_escalation_type": "139",
+        "skill_escalation_type": "140",
+        "special_attack_escalation_type": "137",
+        "start_level": "1",
+        "updated_at": "2019-02-05 09:22:37",
+        "z_battle_stage_id": "18"
     }
 ]

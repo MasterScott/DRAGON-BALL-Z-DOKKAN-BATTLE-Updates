@@ -168,5 +168,15 @@
         "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-6,\"y\":112,\"scale\":0.89},\"anime_start\":{\"x\":-6,\"y\":112,\"scale\":0.89},\"anime_end\":{\"x\":134,\"y\":6,\"scale\":0.92},\"shadow\":{\"x\":-180,\"y\":828,\"scale\":0.6},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.2}}}",
         "updated_at": "2019-01-25 04:50:23",
         "z_battle_stage_id": "17"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "enemy_name": "超サイヤ人ベジータJr.",
+        "enemy_nickname": "サイヤを継承する少年",
+        "enemy_resource_id": "1011341",
+        "id": "20",
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-2,\"y\":204,\"scale\":0.8},\"anime_start\":{\"x\":-2,\"y\":204,\"scale\":0.8},\"anime_end\":{\"x\":140,\"y\":112,\"scale\":0.8},\"shadow\":{\"x\":-182,\"y\":1004,\"scale\":0.45},\"start_chara\":{\"x\":-14,\"y\":-30,\"scale\":1.14}}}",
+        "updated_at": "2019-02-06 05:57:35",
+        "z_battle_stage_id": "18"
     }
 ]

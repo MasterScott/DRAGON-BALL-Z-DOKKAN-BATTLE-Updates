@@ -2830,5 +2830,221 @@
         "id": "354",
         "type": "PotentialSquareCondition::PotentialItem",
         "updated_at": "2019-01-28 02:04:13"
+    },
+    {
+        "comment": "素材ID=49:20個",
+        "conditions": "{\"item_id\":49,\"quantity\":20}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "355",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:10個",
+        "conditions": "{\"item_id\":50,\"quantity\":10}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "356",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:1個",
+        "conditions": "{\"item_id\":51,\"quantity\":1}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "357",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:5個",
+        "conditions": "{\"item_id\":49,\"quantity\":5}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "358",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:40個",
+        "conditions": "{\"item_id\":49,\"quantity\":40}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "359",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:20個",
+        "conditions": "{\"item_id\":50,\"quantity\":20}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "360",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:2個",
+        "conditions": "{\"item_id\":51,\"quantity\":2}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "361",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:10個",
+        "conditions": "{\"item_id\":49,\"quantity\":10}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "362",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:5個",
+        "conditions": "{\"item_id\":50,\"quantity\":5}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "363",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:250個",
+        "conditions": "{\"item_id\":49,\"quantity\":250}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "364",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:100個",
+        "conditions": "{\"item_id\":50,\"quantity\":100}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "365",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:15個",
+        "conditions": "{\"item_id\":51,\"quantity\":15}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "366",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:100個",
+        "conditions": "{\"item_id\":49,\"quantity\":100}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "367",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:50個",
+        "conditions": "{\"item_id\":50,\"quantity\":50}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "368",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:5個",
+        "conditions": "{\"item_id\":51,\"quantity\":5}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "369",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:80個",
+        "conditions": "{\"item_id\":49,\"quantity\":80}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "370",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:40個",
+        "conditions": "{\"item_id\":50,\"quantity\":40}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "371",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:4個",
+        "conditions": "{\"item_id\":51,\"quantity\":4}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "372",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:15個",
+        "conditions": "{\"item_id\":50,\"quantity\":15}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "373",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:30個",
+        "conditions": "{\"item_id\":49,\"quantity\":30}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "374",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:3個",
+        "conditions": "{\"item_id\":51,\"quantity\":3}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "375",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:75個",
+        "conditions": "{\"item_id\":49,\"quantity\":75}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "376",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:30個",
+        "conditions": "{\"item_id\":50,\"quantity\":30}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "377",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:15個",
+        "conditions": "{\"item_id\":49,\"quantity\":15}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "378",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=49:500個",
+        "conditions": "{\"item_id\":49,\"quantity\":500}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "379",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=50:250個",
+        "conditions": "{\"item_id\":50,\"quantity\":250}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "380",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
+    },
+    {
+        "comment": "素材ID=51:30個",
+        "conditions": "{\"item_id\":51,\"quantity\":30}",
+        "created_at": "2019-02-14 03:06:24",
+        "id": "381",
+        "type": "PotentialSquareCondition::PotentialItem",
+        "updated_at": "2019-02-14 03:06:24"
     }
 ]

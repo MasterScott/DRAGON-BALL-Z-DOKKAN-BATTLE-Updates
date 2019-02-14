@@ -4028,5 +4028,25 @@
         "name": "ギル",
         "priority": "96350",
         "updated_at": "2019-01-28 02:02:35"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011330",
+        "collection_category_id": "6",
+        "created_at": "2019-02-14 03:05:29",
+        "id": "412",
+        "name": "ベジータJr.",
+        "priority": "66750",
+        "updated_at": "2019-02-14 03:05:29"
+    },
+    {
+        "background_id": "4",
+        "card_id": "1011341",
+        "collection_category_id": "3",
+        "created_at": "2019-02-14 03:05:29",
+        "id": "413",
+        "name": "超サイヤ人\nベジータJr.",
+        "priority": "83650",
+        "updated_at": "2019-02-14 03:05:29"
     }
 ]

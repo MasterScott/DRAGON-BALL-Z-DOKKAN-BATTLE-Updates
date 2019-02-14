@@ -3478,5 +3478,165 @@
         "id": "513",
         "level": "30",
         "updated_at": "2019-01-11 05:17:24"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "100",
+        "id": "514",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "225",
+        "id": "515",
+        "level": "7",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "263",
+        "id": "516",
+        "level": "15",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "325",
+        "id": "517",
+        "level": "18",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "372",
+        "id": "518",
+        "level": "30",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "134",
+        "escalation_value": "378",
+        "id": "519",
+        "level": "31",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "135",
+        "escalation_value": "100",
+        "id": "520",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "135",
+        "escalation_value": "100",
+        "id": "521",
+        "level": "2",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "135",
+        "escalation_value": "159",
+        "id": "522",
+        "level": "30",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "135",
+        "escalation_value": "163",
+        "id": "523",
+        "level": "31",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "136",
+        "escalation_value": "100",
+        "id": "524",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "136",
+        "escalation_value": "100",
+        "id": "525",
+        "level": "3",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "136",
+        "escalation_value": "567",
+        "id": "526",
+        "level": "30",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "136",
+        "escalation_value": "633",
+        "id": "527",
+        "level": "31",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "100",
+        "id": "528",
+        "level": "1",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "100",
+        "id": "529",
+        "level": "17",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "110",
+        "id": "530",
+        "level": "18",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "110",
+        "id": "531",
+        "level": "25",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "120",
+        "id": "532",
+        "level": "26",
+        "updated_at": "2019-02-05 09:22:37"
+    },
+    {
+        "created_at": "2019-02-05 09:22:37",
+        "escalation_type": "137",
+        "escalation_value": "120",
+        "id": "533",
+        "level": "30",
+        "updated_at": "2019-02-05 09:22:37"
     }
 ]

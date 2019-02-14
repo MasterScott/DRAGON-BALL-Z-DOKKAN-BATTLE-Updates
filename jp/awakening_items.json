@@ -2805,6 +2805,17 @@
         "zeni": "20000"
     },
     {
+        "created_at": "2019-02-14 03:04:50",
+        "description": "特定のキャラクターの覚醒に必要\n「ドラゴンボールGT ~七匹の邪悪龍編~」の\nミッションで入手可能",
+        "event_jumpable": "1",
+        "id": "35701",
+        "name": "ベジータJr.",
+        "rarity": "3",
+        "selling_exchange_point": "12",
+        "updated_at": "2019-02-14 03:04:50",
+        "zeni": "20000"
+    },
+    {
         "created_at": "2018-11-20 01:21:32",
         "description": "特定のキャラクターの覚醒に必要",
         "event_jumpable": "1",
@@ -3759,6 +3770,50 @@
         "rarity": "3",
         "selling_exchange_point": "20",
         "updated_at": "2019-01-28 02:01:56",
+        "zeni": "400000"
+    },
+    {
+        "created_at": "2019-02-14 03:04:50",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "100191",
+        "name": "超サイヤ人ベジータJr.[銅]",
+        "rarity": "0",
+        "selling_exchange_point": "20",
+        "updated_at": "2019-02-14 03:04:50",
+        "zeni": "100000"
+    },
+    {
+        "created_at": "2019-02-14 03:04:50",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "100192",
+        "name": "超サイヤ人ベジータJr.[銀]",
+        "rarity": "1",
+        "selling_exchange_point": "20",
+        "updated_at": "2019-02-14 03:04:50",
+        "zeni": "200000"
+    },
+    {
+        "created_at": "2019-02-14 03:04:50",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "100193",
+        "name": "超サイヤ人ベジータJr.[金]",
+        "rarity": "2",
+        "selling_exchange_point": "20",
+        "updated_at": "2019-02-14 03:04:50",
+        "zeni": "300000"
+    },
+    {
+        "created_at": "2019-02-14 03:04:50",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": "1",
+        "id": "100194",
+        "name": "超サイヤ人ベジータJr.[虹]",
+        "rarity": "3",
+        "selling_exchange_point": "20",
+        "updated_at": "2019-02-14 03:04:50",
         "zeni": "400000"
     },
     {
