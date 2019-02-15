@@ -55477,7 +55477,7 @@
     },
     {
         "area_id": "",
-        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_eq\":5}",
+        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_gteq\":5}",
         "created_at": "2019-02-14 03:06:12",
         "description": "どの相手でも\n構いません。\n極限Zバトルで\nLv5以上の相手に\n勝利しましょう！",
         "end_at": "2019-03-05 14:59:59",
@@ -55490,12 +55490,12 @@
         "start_at": "2019-02-15 06:00:00",
         "target_value": "1",
         "type": "Mission::QuestAndZBattleClearMission::CountMission",
-        "updated_at": "2019-02-14 03:06:12",
+        "updated_at": "2019-02-15 07:47:25",
         "z_battle_stage_id": ""
     },
     {
         "area_id": "",
-        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_eq\":10}",
+        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_gteq\":10}",
         "created_at": "2019-02-14 03:06:12",
         "description": "どの相手でも\n構いません。\n極限Zバトルで\nLv10以上の相手に\n勝利しましょう！",
         "end_at": "2019-03-05 14:59:59",
@@ -55508,12 +55508,12 @@
         "start_at": "2019-02-15 06:00:00",
         "target_value": "1",
         "type": "Mission::QuestAndZBattleClearMission::CountMission",
-        "updated_at": "2019-02-14 03:06:12",
+        "updated_at": "2019-02-15 07:47:25",
         "z_battle_stage_id": ""
     },
     {
         "area_id": "",
-        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_eq\":15}",
+        "conditions": "{\"battle_types\":[\"z_battle\"],\"z_battle_level_gteq\":15}",
         "created_at": "2019-02-14 03:06:12",
         "description": "どの相手でも\n構いません。\n極限Zバトルで\nLv15以上の相手に\n勝利しましょう！",
         "end_at": "2019-03-05 14:59:59",
@@ -55526,7 +55526,7 @@
         "start_at": "2019-02-15 06:00:00",
         "target_value": "1",
         "type": "Mission::QuestAndZBattleClearMission::CountMission",
-        "updated_at": "2019-02-14 03:06:12",
+        "updated_at": "2019-02-15 07:47:25",
         "z_battle_stage_id": ""
     },
     {
