@@ -1,22 +1,82 @@
 [
     {
-        "cau_val1": "2",
-        "cau_val2": "0",
-        "cau_val3": "0",
-        "causality_type": "5",
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 5,
         "created_at": "2019-01-28 02:05:07",
-        "id": "4",
-        "skill_causality_set_id": "4",
+        "id": 4,
+        "skill_causality_set_id": 4,
         "updated_at": "2019-01-28 02:05:07"
     },
     {
-        "cau_val1": "3",
-        "cau_val2": "0",
-        "cau_val3": "0",
-        "causality_type": "5",
+        "cau_val1": 3,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 5,
         "created_at": "2019-01-30 02:04:41",
-        "id": "5",
-        "skill_causality_set_id": "5",
+        "id": 5,
+        "skill_causality_set_id": 5,
         "updated_at": "2019-01-30 02:04:41"
+    },
+    {
+        "cau_val1": 59,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 2,
+        "created_at": "2019-03-05 02:37:35",
+        "id": 6,
+        "skill_causality_set_id": 6,
+        "updated_at": "2019-03-05 02:37:35"
+    },
+    {
+        "cau_val1": 100,
+        "cau_val2": 1,
+        "cau_val3": 0,
+        "causality_type": 37,
+        "created_at": "2019-04-25 02:04:16",
+        "id": 11,
+        "skill_causality_set_id": 11,
+        "updated_at": "2019-04-25 02:04:16"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 5,
+        "created_at": "2019-05-30 02:08:49",
+        "id": 198,
+        "skill_causality_set_id": 198,
+        "updated_at": "2019-05-30 02:08:49"
+    },
+    {
+        "cau_val1": 3,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 15,
+        "created_at": "2019-05-30 02:08:49",
+        "id": 199,
+        "skill_causality_set_id": 198,
+        "updated_at": "2019-05-30 02:08:49"
+    },
+    {
+        "cau_val1": 4,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 5,
+        "created_at": "2019-05-30 02:08:49",
+        "id": 200,
+        "skill_causality_set_id": 200,
+        "updated_at": "2019-05-30 02:08:49"
+    },
+    {
+        "cau_val1": 50,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 2,
+        "created_at": "2019-05-30 02:08:49",
+        "id": 201,
+        "skill_causality_set_id": 200,
+        "updated_at": "2019-05-30 02:08:49"
     }
 ]

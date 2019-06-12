@@ -1,752 +1,1034 @@
 [
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "1",
+        "id": 1,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "1"
+        "z_battle_normal_reward_table_group_id": 1
     },
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "2",
+        "id": 2,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "2"
+        "z_battle_normal_reward_table_group_id": 2
     },
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "3",
+        "id": 3,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "3"
+        "z_battle_normal_reward_table_group_id": 3
     },
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "4",
+        "id": 4,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "4"
+        "z_battle_normal_reward_table_group_id": 4
     },
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "5",
+        "id": 5,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "5"
+        "z_battle_normal_reward_table_group_id": 5
     },
     {
         "created_at": "2017-11-08 10:30:55",
-        "id": "6",
+        "id": 6,
         "updated_at": "2017-11-08 10:30:55",
-        "z_battle_normal_reward_table_group_id": "6"
+        "z_battle_normal_reward_table_group_id": 6
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "8",
+        "id": 8,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "8"
+        "z_battle_normal_reward_table_group_id": 8
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "9",
+        "id": 9,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "9"
+        "z_battle_normal_reward_table_group_id": 9
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "10",
+        "id": 10,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "10"
+        "z_battle_normal_reward_table_group_id": 10
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "11",
+        "id": 11,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "11"
+        "z_battle_normal_reward_table_group_id": 11
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "12",
+        "id": 12,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "12"
+        "z_battle_normal_reward_table_group_id": 12
     },
     {
         "created_at": "2017-11-28 04:30:57",
-        "id": "13",
+        "id": 13,
         "updated_at": "2017-11-28 04:30:57",
-        "z_battle_normal_reward_table_group_id": "13"
+        "z_battle_normal_reward_table_group_id": 13
     },
     {
         "created_at": "2018-01-12 01:44:29",
-        "id": "14",
+        "id": 14,
         "updated_at": "2018-01-12 01:44:29",
-        "z_battle_normal_reward_table_group_id": "14"
+        "z_battle_normal_reward_table_group_id": 14
     },
     {
         "created_at": "2018-01-12 01:44:29",
-        "id": "15",
+        "id": 15,
         "updated_at": "2018-01-12 01:44:29",
-        "z_battle_normal_reward_table_group_id": "15"
+        "z_battle_normal_reward_table_group_id": 15
     },
     {
         "created_at": "2018-01-12 01:44:29",
-        "id": "16",
+        "id": 16,
         "updated_at": "2018-01-12 01:44:29",
-        "z_battle_normal_reward_table_group_id": "16"
+        "z_battle_normal_reward_table_group_id": 16
     },
     {
         "created_at": "2018-01-12 01:44:29",
-        "id": "17",
+        "id": 17,
         "updated_at": "2018-01-12 01:44:29",
-        "z_battle_normal_reward_table_group_id": "17"
+        "z_battle_normal_reward_table_group_id": 17
     },
     {
         "created_at": "2018-01-12 01:44:30",
-        "id": "18",
+        "id": 18,
         "updated_at": "2018-01-12 01:44:30",
-        "z_battle_normal_reward_table_group_id": "18"
+        "z_battle_normal_reward_table_group_id": 18
     },
     {
         "created_at": "2018-01-12 01:44:30",
-        "id": "19",
+        "id": 19,
         "updated_at": "2018-01-12 01:44:30",
-        "z_battle_normal_reward_table_group_id": "19"
+        "z_battle_normal_reward_table_group_id": 19
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "20",
+        "id": 20,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "20"
+        "z_battle_normal_reward_table_group_id": 20
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "21",
+        "id": 21,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "21"
+        "z_battle_normal_reward_table_group_id": 21
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "22",
+        "id": 22,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "22"
+        "z_battle_normal_reward_table_group_id": 22
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "23",
+        "id": 23,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "23"
+        "z_battle_normal_reward_table_group_id": 23
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "24",
+        "id": 24,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "24"
+        "z_battle_normal_reward_table_group_id": 24
     },
     {
         "created_at": "2018-02-13 09:58:42",
-        "id": "25",
+        "id": 25,
         "updated_at": "2018-02-13 09:58:42",
-        "z_battle_normal_reward_table_group_id": "25"
+        "z_battle_normal_reward_table_group_id": 25
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "32",
+        "id": 32,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "32"
+        "z_battle_normal_reward_table_group_id": 32
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "33",
+        "id": 33,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "33"
+        "z_battle_normal_reward_table_group_id": 33
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "34",
+        "id": 34,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "34"
+        "z_battle_normal_reward_table_group_id": 34
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "35",
+        "id": 35,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "35"
+        "z_battle_normal_reward_table_group_id": 35
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "36",
+        "id": 36,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "36"
+        "z_battle_normal_reward_table_group_id": 36
     },
     {
         "created_at": "2018-04-09 09:04:51",
-        "id": "37",
+        "id": 37,
         "updated_at": "2018-04-09 09:04:51",
-        "z_battle_normal_reward_table_group_id": "37"
+        "z_battle_normal_reward_table_group_id": 37
     },
     {
         "created_at": "2018-04-17 06:17:51",
-        "id": "38",
+        "id": 38,
         "updated_at": "2018-04-17 06:17:51",
-        "z_battle_normal_reward_table_group_id": "38"
+        "z_battle_normal_reward_table_group_id": 38
     },
     {
         "created_at": "2018-04-17 06:17:52",
-        "id": "39",
+        "id": 39,
         "updated_at": "2018-04-17 06:17:52",
-        "z_battle_normal_reward_table_group_id": "39"
+        "z_battle_normal_reward_table_group_id": 39
     },
     {
         "created_at": "2018-04-17 06:17:52",
-        "id": "40",
+        "id": 40,
         "updated_at": "2018-04-17 06:17:52",
-        "z_battle_normal_reward_table_group_id": "40"
+        "z_battle_normal_reward_table_group_id": 40
     },
     {
         "created_at": "2018-04-17 06:17:52",
-        "id": "41",
+        "id": 41,
         "updated_at": "2018-04-17 06:17:52",
-        "z_battle_normal_reward_table_group_id": "41"
+        "z_battle_normal_reward_table_group_id": 41
     },
     {
         "created_at": "2018-04-17 06:17:52",
-        "id": "42",
+        "id": 42,
         "updated_at": "2018-04-17 06:17:52",
-        "z_battle_normal_reward_table_group_id": "42"
+        "z_battle_normal_reward_table_group_id": 42
     },
     {
         "created_at": "2018-04-17 06:17:52",
-        "id": "43",
+        "id": 43,
         "updated_at": "2018-04-17 06:17:52",
-        "z_battle_normal_reward_table_group_id": "43"
+        "z_battle_normal_reward_table_group_id": 43
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "44",
+        "id": 44,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "32"
+        "z_battle_normal_reward_table_group_id": 32
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "45",
+        "id": 45,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "32"
+        "z_battle_normal_reward_table_group_id": 32
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "46",
+        "id": 46,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "33"
+        "z_battle_normal_reward_table_group_id": 33
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "47",
+        "id": 47,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "33"
+        "z_battle_normal_reward_table_group_id": 33
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "48",
+        "id": 48,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "34"
+        "z_battle_normal_reward_table_group_id": 34
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "49",
+        "id": 49,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "34"
+        "z_battle_normal_reward_table_group_id": 34
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "50",
+        "id": 50,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "35"
+        "z_battle_normal_reward_table_group_id": 35
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "51",
+        "id": 51,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "35"
+        "z_battle_normal_reward_table_group_id": 35
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "52",
+        "id": 52,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "36"
+        "z_battle_normal_reward_table_group_id": 36
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "53",
+        "id": 53,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "36"
+        "z_battle_normal_reward_table_group_id": 36
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "54",
+        "id": 54,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "37"
+        "z_battle_normal_reward_table_group_id": 37
     },
     {
         "created_at": "2018-04-27 01:45:08",
-        "id": "55",
+        "id": 55,
         "updated_at": "2018-04-27 01:45:08",
-        "z_battle_normal_reward_table_group_id": "37"
+        "z_battle_normal_reward_table_group_id": 37
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "56",
+        "id": 56,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "44"
+        "z_battle_normal_reward_table_group_id": 44
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "57",
+        "id": 57,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "45"
+        "z_battle_normal_reward_table_group_id": 45
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "58",
+        "id": 58,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "46"
+        "z_battle_normal_reward_table_group_id": 46
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "59",
+        "id": 59,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "47"
+        "z_battle_normal_reward_table_group_id": 47
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "60",
+        "id": 60,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "48"
+        "z_battle_normal_reward_table_group_id": 48
     },
     {
         "created_at": "2018-05-21 05:40:26",
-        "id": "61",
+        "id": 61,
         "updated_at": "2018-05-21 05:40:26",
-        "z_battle_normal_reward_table_group_id": "49"
+        "z_battle_normal_reward_table_group_id": 49
     },
     {
         "created_at": "2018-07-22 00:44:13",
-        "id": "62",
+        "id": 62,
         "updated_at": "2018-07-22 00:44:13",
-        "z_battle_normal_reward_table_group_id": "50"
+        "z_battle_normal_reward_table_group_id": 50
     },
     {
         "created_at": "2018-07-22 00:44:13",
-        "id": "63",
+        "id": 63,
         "updated_at": "2018-07-22 00:44:13",
-        "z_battle_normal_reward_table_group_id": "51"
+        "z_battle_normal_reward_table_group_id": 51
     },
     {
         "created_at": "2018-07-22 00:44:13",
-        "id": "64",
+        "id": 64,
         "updated_at": "2018-07-22 00:44:13",
-        "z_battle_normal_reward_table_group_id": "52"
+        "z_battle_normal_reward_table_group_id": 52
     },
     {
         "created_at": "2018-07-22 00:44:13",
-        "id": "65",
+        "id": 65,
         "updated_at": "2018-07-22 00:44:13",
-        "z_battle_normal_reward_table_group_id": "53"
+        "z_battle_normal_reward_table_group_id": 53
     },
     {
         "created_at": "2018-07-22 00:44:14",
-        "id": "66",
+        "id": 66,
         "updated_at": "2018-07-22 00:44:14",
-        "z_battle_normal_reward_table_group_id": "54"
+        "z_battle_normal_reward_table_group_id": 54
     },
     {
         "created_at": "2018-07-22 00:44:14",
-        "id": "67",
+        "id": 67,
         "updated_at": "2018-07-22 00:44:14",
-        "z_battle_normal_reward_table_group_id": "55"
+        "z_battle_normal_reward_table_group_id": 55
     },
     {
         "created_at": "2018-08-22 10:58:01",
-        "id": "68",
+        "id": 68,
         "updated_at": "2018-08-22 10:58:01",
-        "z_battle_normal_reward_table_group_id": "56"
+        "z_battle_normal_reward_table_group_id": 56
     },
     {
         "created_at": "2018-08-22 10:58:01",
-        "id": "69",
+        "id": 69,
         "updated_at": "2018-08-22 10:58:01",
-        "z_battle_normal_reward_table_group_id": "56"
+        "z_battle_normal_reward_table_group_id": 56
     },
     {
         "created_at": "2018-08-22 10:58:01",
-        "id": "70",
+        "id": 70,
         "updated_at": "2018-08-22 10:58:01",
-        "z_battle_normal_reward_table_group_id": "56"
+        "z_battle_normal_reward_table_group_id": 56
     },
     {
         "created_at": "2018-08-22 10:58:01",
-        "id": "71",
+        "id": 71,
         "updated_at": "2018-08-22 10:58:01",
-        "z_battle_normal_reward_table_group_id": "56"
+        "z_battle_normal_reward_table_group_id": 56
     },
     {
         "created_at": "2018-08-22 10:58:01",
-        "id": "72",
+        "id": 72,
         "updated_at": "2018-08-22 10:58:01",
-        "z_battle_normal_reward_table_group_id": "56"
+        "z_battle_normal_reward_table_group_id": 56
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "73",
+        "id": 73,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "57"
+        "z_battle_normal_reward_table_group_id": 57
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "74",
+        "id": 74,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "58"
+        "z_battle_normal_reward_table_group_id": 58
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "75",
+        "id": 75,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "59"
+        "z_battle_normal_reward_table_group_id": 59
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "76",
+        "id": 76,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "60"
+        "z_battle_normal_reward_table_group_id": 60
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "77",
+        "id": 77,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "61"
+        "z_battle_normal_reward_table_group_id": 61
     },
     {
         "created_at": "2018-09-03 01:44:26",
-        "id": "78",
+        "id": 78,
         "updated_at": "2018-09-03 01:44:26",
-        "z_battle_normal_reward_table_group_id": "62"
+        "z_battle_normal_reward_table_group_id": 62
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "79",
+        "id": 79,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "63"
+        "z_battle_normal_reward_table_group_id": 63
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "80",
+        "id": 80,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "64"
+        "z_battle_normal_reward_table_group_id": 64
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "81",
+        "id": 81,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "65"
+        "z_battle_normal_reward_table_group_id": 65
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "82",
+        "id": 82,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "66"
+        "z_battle_normal_reward_table_group_id": 66
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "83",
+        "id": 83,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "67"
+        "z_battle_normal_reward_table_group_id": 67
     },
     {
         "created_at": "2018-09-18 02:29:53",
-        "id": "84",
+        "id": 84,
         "updated_at": "2018-09-18 02:29:53",
-        "z_battle_normal_reward_table_group_id": "68"
+        "z_battle_normal_reward_table_group_id": 68
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "85",
+        "id": 85,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "69"
+        "z_battle_normal_reward_table_group_id": 69
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "86",
+        "id": 86,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "70"
+        "z_battle_normal_reward_table_group_id": 70
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "87",
+        "id": 87,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "71"
+        "z_battle_normal_reward_table_group_id": 71
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "88",
+        "id": 88,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "72"
+        "z_battle_normal_reward_table_group_id": 72
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "89",
+        "id": 89,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "73"
+        "z_battle_normal_reward_table_group_id": 73
     },
     {
         "created_at": "2018-10-23 04:02:40",
-        "id": "90",
+        "id": 90,
         "updated_at": "2018-10-23 04:02:40",
-        "z_battle_normal_reward_table_group_id": "74"
+        "z_battle_normal_reward_table_group_id": 74
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "91",
+        "id": 91,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "75"
+        "z_battle_normal_reward_table_group_id": 75
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "92",
+        "id": 92,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "76"
+        "z_battle_normal_reward_table_group_id": 76
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "93",
+        "id": 93,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "77"
+        "z_battle_normal_reward_table_group_id": 77
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "94",
+        "id": 94,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "78"
+        "z_battle_normal_reward_table_group_id": 78
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "95",
+        "id": 95,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "79"
+        "z_battle_normal_reward_table_group_id": 79
     },
     {
         "created_at": "2018-10-30 07:15:27",
-        "id": "96",
+        "id": 96,
         "updated_at": "2018-10-30 07:15:27",
-        "z_battle_normal_reward_table_group_id": "80"
+        "z_battle_normal_reward_table_group_id": 80
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "97",
+        "id": 97,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "81"
+        "z_battle_normal_reward_table_group_id": 81
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "98",
+        "id": 98,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "81"
+        "z_battle_normal_reward_table_group_id": 81
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "99",
+        "id": 99,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "81"
+        "z_battle_normal_reward_table_group_id": 81
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "100",
+        "id": 100,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "82"
+        "z_battle_normal_reward_table_group_id": 82
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "101",
+        "id": 101,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "82"
+        "z_battle_normal_reward_table_group_id": 82
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "102",
+        "id": 102,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "82"
+        "z_battle_normal_reward_table_group_id": 82
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "103",
+        "id": 103,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "83"
+        "z_battle_normal_reward_table_group_id": 83
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "104",
+        "id": 104,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "83"
+        "z_battle_normal_reward_table_group_id": 83
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "105",
+        "id": 105,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "83"
+        "z_battle_normal_reward_table_group_id": 83
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "106",
+        "id": 106,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "84"
+        "z_battle_normal_reward_table_group_id": 84
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "107",
+        "id": 107,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "84"
+        "z_battle_normal_reward_table_group_id": 84
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "108",
+        "id": 108,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "84"
+        "z_battle_normal_reward_table_group_id": 84
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "109",
+        "id": 109,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "85"
+        "z_battle_normal_reward_table_group_id": 85
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "110",
+        "id": 110,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "85"
+        "z_battle_normal_reward_table_group_id": 85
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "111",
+        "id": 111,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "85"
+        "z_battle_normal_reward_table_group_id": 85
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "112",
+        "id": 112,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "86"
+        "z_battle_normal_reward_table_group_id": 86
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "113",
+        "id": 113,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "86"
+        "z_battle_normal_reward_table_group_id": 86
     },
     {
         "created_at": "2018-12-14 01:56:42",
-        "id": "114",
+        "id": 114,
         "updated_at": "2018-12-14 01:56:42",
-        "z_battle_normal_reward_table_group_id": "86"
+        "z_battle_normal_reward_table_group_id": 86
     },
     {
         "created_at": "2018-12-20 07:49:28",
-        "id": "115",
+        "id": 115,
         "updated_at": "2018-12-20 07:49:28",
-        "z_battle_normal_reward_table_group_id": "87"
+        "z_battle_normal_reward_table_group_id": 87
     },
     {
         "created_at": "2018-12-20 07:49:28",
-        "id": "116",
+        "id": 116,
         "updated_at": "2018-12-20 07:49:28",
-        "z_battle_normal_reward_table_group_id": "88"
+        "z_battle_normal_reward_table_group_id": 88
     },
     {
         "created_at": "2018-12-20 07:49:28",
-        "id": "117",
+        "id": 117,
         "updated_at": "2018-12-20 07:49:28",
-        "z_battle_normal_reward_table_group_id": "89"
+        "z_battle_normal_reward_table_group_id": 89
     },
     {
         "created_at": "2018-12-20 07:49:29",
-        "id": "118",
+        "id": 118,
         "updated_at": "2018-12-20 07:49:29",
-        "z_battle_normal_reward_table_group_id": "90"
+        "z_battle_normal_reward_table_group_id": 90
     },
     {
         "created_at": "2018-12-20 07:49:29",
-        "id": "119",
+        "id": 119,
         "updated_at": "2018-12-20 07:49:29",
-        "z_battle_normal_reward_table_group_id": "91"
+        "z_battle_normal_reward_table_group_id": 91
     },
     {
         "created_at": "2018-12-20 07:49:29",
-        "id": "120",
+        "id": 120,
         "updated_at": "2018-12-20 07:49:29",
-        "z_battle_normal_reward_table_group_id": "92"
+        "z_battle_normal_reward_table_group_id": 92
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "121",
+        "id": 121,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "93"
+        "z_battle_normal_reward_table_group_id": 93
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "122",
+        "id": 122,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "94"
+        "z_battle_normal_reward_table_group_id": 94
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "123",
+        "id": 123,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "95"
+        "z_battle_normal_reward_table_group_id": 95
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "124",
+        "id": 124,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "96"
+        "z_battle_normal_reward_table_group_id": 96
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "125",
+        "id": 125,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "97"
+        "z_battle_normal_reward_table_group_id": 97
     },
     {
         "created_at": "2019-01-11 05:17:23",
-        "id": "126",
+        "id": 126,
         "updated_at": "2019-01-11 05:17:23",
-        "z_battle_normal_reward_table_group_id": "98"
+        "z_battle_normal_reward_table_group_id": 98
     },
     {
         "created_at": "2019-02-05 09:22:36",
-        "id": "127",
+        "id": 127,
         "updated_at": "2019-02-05 09:22:36",
-        "z_battle_normal_reward_table_group_id": "99"
+        "z_battle_normal_reward_table_group_id": 99
     },
     {
         "created_at": "2019-02-05 09:22:36",
-        "id": "128",
+        "id": 128,
         "updated_at": "2019-02-05 09:22:36",
-        "z_battle_normal_reward_table_group_id": "100"
+        "z_battle_normal_reward_table_group_id": 100
     },
     {
         "created_at": "2019-02-05 09:22:36",
-        "id": "129",
+        "id": 129,
         "updated_at": "2019-02-05 09:22:36",
-        "z_battle_normal_reward_table_group_id": "101"
+        "z_battle_normal_reward_table_group_id": 101
     },
     {
         "created_at": "2019-02-05 09:22:36",
-        "id": "130",
+        "id": 130,
         "updated_at": "2019-02-05 09:22:36",
-        "z_battle_normal_reward_table_group_id": "102"
+        "z_battle_normal_reward_table_group_id": 102
     },
     {
         "created_at": "2019-02-05 09:22:37",
-        "id": "131",
+        "id": 131,
         "updated_at": "2019-02-05 09:22:37",
-        "z_battle_normal_reward_table_group_id": "103"
+        "z_battle_normal_reward_table_group_id": 103
     },
     {
         "created_at": "2019-02-05 09:22:37",
-        "id": "132",
+        "id": 132,
         "updated_at": "2019-02-05 09:22:37",
-        "z_battle_normal_reward_table_group_id": "104"
+        "z_battle_normal_reward_table_group_id": 104
+    },
+    {
+        "created_at": "2019-02-05 09:22:38",
+        "id": 133,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_normal_reward_table_group_id": 105
+    },
+    {
+        "created_at": "2019-02-05 09:22:38",
+        "id": 134,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_normal_reward_table_group_id": 105
+    },
+    {
+        "created_at": "2019-02-05 09:22:38",
+        "id": 135,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_normal_reward_table_group_id": 105
+    },
+    {
+        "created_at": "2019-02-05 09:22:38",
+        "id": 136,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_normal_reward_table_group_id": 105
+    },
+    {
+        "created_at": "2019-02-05 09:22:38",
+        "id": 137,
+        "updated_at": "2019-02-05 09:22:38",
+        "z_battle_normal_reward_table_group_id": 105
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 138,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 106
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 139,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 106
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 140,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 107
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 141,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 107
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 142,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 108
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 143,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 108
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 144,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 109
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 145,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 109
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 146,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 110
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 147,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 110
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 148,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 111
+    },
+    {
+        "created_at": "2019-02-14 06:16:46",
+        "id": 149,
+        "updated_at": "2019-02-14 06:16:46",
+        "z_battle_normal_reward_table_group_id": 111
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 150,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 112
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 151,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 113
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 152,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 114
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 153,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 115
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 154,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 116
+    },
+    {
+        "created_at": "2019-02-21 05:51:49",
+        "id": 155,
+        "updated_at": "2019-02-21 05:51:49",
+        "z_battle_normal_reward_table_group_id": 117
+    },
+    {
+        "created_at": "2019-03-06 06:15:17",
+        "id": 156,
+        "updated_at": "2019-03-06 06:15:17",
+        "z_battle_normal_reward_table_group_id": 118
+    },
+    {
+        "created_at": "2019-03-06 06:15:17",
+        "id": 157,
+        "updated_at": "2019-03-06 06:15:17",
+        "z_battle_normal_reward_table_group_id": 119
+    },
+    {
+        "created_at": "2019-03-06 06:15:17",
+        "id": 158,
+        "updated_at": "2019-03-06 06:15:17",
+        "z_battle_normal_reward_table_group_id": 120
+    },
+    {
+        "created_at": "2019-03-06 06:15:17",
+        "id": 159,
+        "updated_at": "2019-03-06 06:15:17",
+        "z_battle_normal_reward_table_group_id": 121
+    },
+    {
+        "created_at": "2019-03-06 06:15:18",
+        "id": 160,
+        "updated_at": "2019-03-06 06:15:18",
+        "z_battle_normal_reward_table_group_id": 122
+    },
+    {
+        "created_at": "2019-03-06 06:15:18",
+        "id": 161,
+        "updated_at": "2019-03-06 06:15:18",
+        "z_battle_normal_reward_table_group_id": 123
+    },
+    {
+        "created_at": "2019-03-26 10:02:56",
+        "id": 162,
+        "updated_at": "2019-03-26 10:02:56",
+        "z_battle_normal_reward_table_group_id": 124
+    },
+    {
+        "created_at": "2019-03-26 10:02:57",
+        "id": 163,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_normal_reward_table_group_id": 125
+    },
+    {
+        "created_at": "2019-03-26 10:02:57",
+        "id": 164,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_normal_reward_table_group_id": 126
+    },
+    {
+        "created_at": "2019-03-26 10:02:57",
+        "id": 165,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_normal_reward_table_group_id": 127
+    },
+    {
+        "created_at": "2019-03-26 10:02:57",
+        "id": 166,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_normal_reward_table_group_id": 128
+    },
+    {
+        "created_at": "2019-03-26 10:02:57",
+        "id": 167,
+        "updated_at": "2019-03-26 10:02:57",
+        "z_battle_normal_reward_table_group_id": 129
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 168,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 130
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 169,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 131
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 170,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 132
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 171,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 133
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 172,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 134
+    },
+    {
+        "created_at": "2019-05-14 02:51:24",
+        "id": 173,
+        "updated_at": "2019-05-14 02:51:24",
+        "z_battle_normal_reward_table_group_id": 135
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 174,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 136
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 175,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 137
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 176,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 138
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 177,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 139
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 178,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 140
+    },
+    {
+        "created_at": "2019-05-21 05:38:00",
+        "id": 179,
+        "updated_at": "2019-05-21 05:38:00",
+        "z_battle_normal_reward_table_group_id": 141
     }
 ]

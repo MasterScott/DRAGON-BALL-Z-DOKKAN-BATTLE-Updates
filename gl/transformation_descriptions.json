@@ -1,324 +1,450 @@
 [
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Perform Potara fusion when HP is 50% \nor below starting from the 6th turn \nfrom the start of battle",
-        "id": "8",
-        "passive_skill_id": "2001090",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 8,
+        "skill_id": 2001090,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Perform Potara fusion when HP is 50% \nor below starting from the 6th turn \nfrom the start of battle",
-        "id": "9",
-        "passive_skill_id": "2001091",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 9,
+        "skill_id": 2001091,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Fuse when HP is 50% or below starting \nfrom the 6th turn from the start of battle",
-        "id": "10",
-        "passive_skill_id": "2001095",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 10,
+        "skill_id": 2001095,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Fuse when HP is 50% or below starting \nfrom the 6th turn from the start of battle",
-        "id": "11",
-        "passive_skill_id": "2001096",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 11,
+        "skill_id": 2001096,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Awaken when HP is 50% or below",
-        "id": "16",
-        "passive_skill_id": "1001126",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 16,
+        "skill_id": 1001126,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Awaken when HP is 50% or below",
-        "id": "17",
-        "passive_skill_id": "1001127",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 17,
+        "skill_id": 1001127,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "25% of chance to activate \n\"Fruit of the Tree of Might Boost\" \nfor 3 turns when HP is 80% or below",
-        "id": "18",
-        "passive_skill_id": "3001133",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 18,
+        "skill_id": 3001133,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "25% of chance to activate \n\"Fruit of the Tree of Might Boost\" \nfor 3 turns when HP is 80% or below",
-        "id": "19",
-        "passive_skill_id": "3001134",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 19,
+        "skill_id": 3001134,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "30% chance to Evolve starting from the 4th turn \nfrom the start of battle",
-        "id": "20",
-        "passive_skill_id": "3001154",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 20,
+        "skill_id": 3001154,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "30% chance to Evolve starting from the 4th turn \nfrom the start of battle",
-        "id": "21",
-        "passive_skill_id": "3001155",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 21,
+        "skill_id": 3001155,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "30% of chance to consume Cell and Transform \nwhen HP is 50% or above starting from \nthe 4th turn from the start of battle",
-        "id": "22",
-        "passive_skill_id": "3001226",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 22,
+        "skill_id": 3001226,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "30% of chance to consume Cell and Transform \nwhen HP is 50% or above starting from \nthe 4th turn from the start of battle",
-        "id": "23",
-        "passive_skill_id": "3001227",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 23,
+        "skill_id": 3001227,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "24",
-        "passive_skill_id": "3001254",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 24,
+        "skill_id": 3001254,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "25",
-        "passive_skill_id": "3001255",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 25,
+        "skill_id": 3001255,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "26",
-        "passive_skill_id": "3001256",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 26,
+        "skill_id": 3001256,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "27",
-        "passive_skill_id": "3001257",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 27,
+        "skill_id": 3001257,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "28",
-        "passive_skill_id": "3001258",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 28,
+        "skill_id": 3001258,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Assimilate with Nail starting from \nthe 5th turn from the start of battle",
-        "id": "29",
-        "passive_skill_id": "3001259",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 29,
+        "skill_id": 3001259,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 3rd turn \nfrom the start of battle",
-        "id": "30",
-        "passive_skill_id": "2001264",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 30,
+        "skill_id": 2001264,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 3rd turn \nfrom the start of battle",
-        "id": "31",
-        "passive_skill_id": "2001265",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 31,
+        "skill_id": 2001265,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "32",
-        "passive_skill_id": "2001266",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 32,
+        "skill_id": 2001266,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "33",
-        "passive_skill_id": "2001267",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 33,
+        "skill_id": 2001267,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "34",
-        "passive_skill_id": "2001268",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 34,
+        "skill_id": 2001268,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "35",
-        "passive_skill_id": "2001269",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 35,
+        "skill_id": 2001269,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "36",
-        "passive_skill_id": "2001270",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 36,
+        "skill_id": 2001270,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "37",
-        "passive_skill_id": "2001271",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 37,
+        "skill_id": 2001271,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 3rd turn \nfrom the start of battle",
-        "id": "38",
-        "passive_skill_id": "2001274",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 38,
+        "skill_id": 2001274,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 3rd turn \nfrom the start of battle",
-        "id": "39",
-        "passive_skill_id": "2001275",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 39,
+        "skill_id": 2001275,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "40",
-        "passive_skill_id": "2001276",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 40,
+        "skill_id": 2001276,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "41",
-        "passive_skill_id": "2001277",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 41,
+        "skill_id": 2001277,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "42",
-        "passive_skill_id": "2001278",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 42,
+        "skill_id": 2001278,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "43",
-        "passive_skill_id": "2001279",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 43,
+        "skill_id": 2001279,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "44",
-        "passive_skill_id": "2001280",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 44,
+        "skill_id": 2001280,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform upon entering next attacking turn",
-        "id": "45",
-        "passive_skill_id": "2001281",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 45,
+        "skill_id": 2001281,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Ultimate Gohan when HP is \nbetween 80% and 100% starting from \nthe 5th turn from the start of battle",
-        "id": "46",
-        "passive_skill_id": "1001296",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 46,
+        "skill_id": 1001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Super Saiyan 3 Gotenks when HP is \nbetween 50% and 79% starting from \nthe 5th turn from the start of battle",
-        "id": "47",
-        "passive_skill_id": "2001296",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 47,
+        "skill_id": 2001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Piccolo when HP is \n49% or below starting from \nthe 5th turn from the start of battle",
-        "id": "48",
-        "passive_skill_id": "3001296",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 48,
+        "skill_id": 3001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Ultimate Gohan when HP is \nbetween 80% and 100% starting from \nthe 5th turn from the start of battle",
-        "id": "49",
-        "passive_skill_id": "1001297",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 49,
+        "skill_id": 1001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Super Saiyan 3 Gotenks when HP is \nbetween 50% and 79% starting from \nthe 5th turn from the start of battle",
-        "id": "50",
-        "passive_skill_id": "2001297",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 50,
+        "skill_id": 2001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Absorb Piccolo when HP is \n49% or below starting from \nthe 5th turn from the start of battle",
-        "id": "51",
-        "passive_skill_id": "3001297",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 51,
+        "skill_id": 3001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
-        "description": "バトル開始から6ターン以降\n&HP80%以上のとき変身する",
-        "id": "52",
-        "passive_skill_id": "2001354",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform when HP is 80% or above starting \nfrom the 6th turn from the start of battle",
+        "id": 52,
+        "skill_id": 2001354,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
-        "description": "バトル開始から6ターン以降\n&HP80%以上のとき変身する",
-        "id": "53",
-        "passive_skill_id": "2001355",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform when HP is 80% or above starting \nfrom the 6th turn from the start of battle",
+        "id": 53,
+        "skill_id": 2001355,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 5th turn \nfrom the start of battle",
-        "id": "54",
-        "passive_skill_id": "3001390",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 54,
+        "skill_id": 3001390,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform starting from the 5th turn \nfrom the start of battle",
-        "id": "55",
-        "passive_skill_id": "3001391",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 55,
+        "skill_id": 3001391,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform into Full Power state starting \nfrom the 4th turn from the start of battle",
-        "id": "56",
-        "passive_skill_id": "2001398",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 56,
+        "skill_id": 2001398,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     },
     {
-        "created_at": "2019-02-12 02:07:25.887796",
+        "created_at": "2019-06-06 05:43:48.761523",
         "description": "Transform into Full Power state starting \nfrom the 4th turn from the start of battle",
-        "id": "57",
-        "passive_skill_id": "2001399",
-        "updated_at": "2019-02-12 02:07:25.887796"
+        "id": 57,
+        "skill_id": 2001399,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform starting from the 3rd turn \nfrom the start of battle",
+        "id": 60,
+        "skill_id": 2001453,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform starting from the 3rd turn \nfrom the start of battle",
+        "id": 61,
+        "skill_id": 2001454,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 62,
+        "skill_id": 2001455,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 63,
+        "skill_id": 2001456,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 64,
+        "skill_id": 2001457,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 65,
+        "skill_id": 2001458,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 66,
+        "skill_id": 2001459,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform upon entering next attacking turn",
+        "id": 67,
+        "skill_id": 2001460,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform starting from the 4th turn \nfrom the start of battle",
+        "id": 68,
+        "skill_id": 3001496,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.761523",
+        "description": "Transform starting from the 4th turn \nfrom the start of battle",
+        "id": 69,
+        "skill_id": 3001497,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-06 05:43:48.761523"
     }
 ]

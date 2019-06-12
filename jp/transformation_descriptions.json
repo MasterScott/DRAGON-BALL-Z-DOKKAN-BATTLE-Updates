@@ -1,324 +1,514 @@
 [
     {
-        "created_at": "2018-01-27 00:28:56",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン目以降&HP50%以下のときポタラで合体する",
-        "id": "8",
-        "passive_skill_id": "2001090",
-        "updated_at": "2018-01-27 00:28:56"
+        "id": 8,
+        "skill_id": 2001090,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-01-27 00:28:56",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン目以降&HP50%以下のときポタラで合体する",
-        "id": "9",
-        "passive_skill_id": "2001091",
-        "updated_at": "2018-01-27 00:28:56"
+        "id": 9,
+        "skill_id": 2001091,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-01-27 00:28:56",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン目以降&HP50%以下のときフュージョンする",
-        "id": "10",
-        "passive_skill_id": "2001095",
-        "updated_at": "2018-01-27 00:28:56"
+        "id": 10,
+        "skill_id": 2001095,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-01-27 00:28:56",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン目以降&HP50%以下のときフュージョンする",
-        "id": "11",
-        "passive_skill_id": "2001096",
-        "updated_at": "2018-01-27 00:28:56"
+        "id": 11,
+        "skill_id": 2001096,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-03-18 02:25:44",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP50%以下のとき覚醒する",
-        "id": "16",
-        "passive_skill_id": "1001126",
-        "updated_at": "2018-03-18 02:25:44"
+        "id": 16,
+        "skill_id": 1001126,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-03-18 02:25:44",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP50%以下のとき覚醒する",
-        "id": "17",
-        "passive_skill_id": "1001127",
-        "updated_at": "2018-03-18 02:25:44"
+        "id": 17,
+        "skill_id": 1001127,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-03-31 14:28:12",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP80%以下のとき25%の確率で、3ターン神精樹の実で強化する",
-        "id": "18",
-        "passive_skill_id": "3001133",
-        "updated_at": "2018-03-31 14:28:12"
+        "id": 18,
+        "skill_id": 3001133,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-03-31 14:28:12",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP80%以下のとき25%の確率で、3ターン神精樹の実で強化する",
-        "id": "19",
-        "passive_skill_id": "3001134",
-        "updated_at": "2018-03-31 14:28:12"
+        "id": 19,
+        "skill_id": 3001134,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-04-25 02:05:08",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降&30%の確率で進化する",
-        "id": "20",
-        "passive_skill_id": "3001154",
-        "updated_at": "2018-04-25 02:05:08"
+        "id": 20,
+        "skill_id": 3001154,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-04-25 02:05:08",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降&30%の確率で進化する",
-        "id": "21",
-        "passive_skill_id": "3001155",
-        "updated_at": "2018-04-25 02:05:08"
+        "id": 21,
+        "skill_id": 3001155,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-07-30 02:20:00",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降\n&HP50%以上のとき30%の確率でセルを捕食し変身する",
-        "id": "22",
-        "passive_skill_id": "3001226",
-        "updated_at": "2018-07-30 02:20:00"
+        "id": 22,
+        "skill_id": 3001226,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-07-30 02:20:00",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降\n&HP50%以上のとき30%の確率でセルを捕食し変身する",
-        "id": "23",
-        "passive_skill_id": "3001227",
-        "updated_at": "2018-07-30 02:20:00"
+        "id": 23,
+        "skill_id": 3001227,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-27 02:22:16",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降ネイルと同化する",
-        "id": "24",
-        "passive_skill_id": "3001254",
-        "updated_at": "2018-08-27 02:22:16"
+        "id": 24,
+        "skill_id": 3001254,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-27 02:22:16",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降ネイルと同化する",
-        "id": "25",
-        "passive_skill_id": "3001255",
-        "updated_at": "2018-08-27 02:22:16"
+        "id": 25,
+        "skill_id": 3001255,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-27 02:22:16",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降ネイルと同化する",
-        "id": "27",
-        "passive_skill_id": "3001257",
-        "updated_at": "2018-08-27 02:22:16"
+        "id": 27,
+        "skill_id": 3001257,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-27 02:22:16",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降ネイルと同化する",
-        "id": "29",
-        "passive_skill_id": "3001259",
-        "updated_at": "2018-08-27 02:22:16"
+        "id": 29,
+        "skill_id": 3001259,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から3ターン目以降変身する",
-        "id": "30",
-        "passive_skill_id": "2001264",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 30,
+        "skill_id": 2001264,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から3ターン目以降変身する",
-        "id": "31",
-        "passive_skill_id": "2001265",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 31,
+        "skill_id": 2001265,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "32",
-        "passive_skill_id": "2001266",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 32,
+        "skill_id": 2001266,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "33",
-        "passive_skill_id": "2001267",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 33,
+        "skill_id": 2001267,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "34",
-        "passive_skill_id": "2001268",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 34,
+        "skill_id": 2001268,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "35",
-        "passive_skill_id": "2001269",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 35,
+        "skill_id": 2001269,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "36",
-        "passive_skill_id": "2001270",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 36,
+        "skill_id": 2001270,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "37",
-        "passive_skill_id": "2001271",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 37,
+        "skill_id": 2001271,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から3ターン目以降変身する",
-        "id": "38",
-        "passive_skill_id": "2001274",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 38,
+        "skill_id": 2001274,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から3ターン目以降変身する",
-        "id": "39",
-        "passive_skill_id": "2001275",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 39,
+        "skill_id": 2001275,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "40",
-        "passive_skill_id": "2001276",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 40,
+        "skill_id": 2001276,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "41",
-        "passive_skill_id": "2001277",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 41,
+        "skill_id": 2001277,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "42",
-        "passive_skill_id": "2001278",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 42,
+        "skill_id": 2001278,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "43",
-        "passive_skill_id": "2001279",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 43,
+        "skill_id": 2001279,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "44",
-        "passive_skill_id": "2001280",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 44,
+        "skill_id": 2001280,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-08-31 00:21:36",
+        "created_at": "2019-04-22 01:12:42",
         "description": "次の攻撃参加ターンになるとさらに変身する",
-        "id": "45",
-        "passive_skill_id": "2001281",
-        "updated_at": "2018-08-31 00:21:36"
+        "id": 45,
+        "skill_id": 2001281,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP80~100%のとき\nアルティメット孫悟飯を吸収する",
-        "id": "46",
-        "passive_skill_id": "1001296",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 46,
+        "skill_id": 1001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP50~79%のとき\n超サイヤ人3ゴテンクスを吸収する",
-        "id": "47",
-        "passive_skill_id": "2001296",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 47,
+        "skill_id": 2001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP49%以下のときピッコロを吸収する",
-        "id": "48",
-        "passive_skill_id": "3001296",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 48,
+        "skill_id": 3001296,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP80~100%のとき\nアルティメット孫悟飯を吸収する",
-        "id": "49",
-        "passive_skill_id": "1001297",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 49,
+        "skill_id": 1001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP50~79%のとき\n超サイヤ人3ゴテンクスを吸収する",
-        "id": "50",
-        "passive_skill_id": "2001297",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 50,
+        "skill_id": 2001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-10-03 02:21:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン以降\n&HP49%以下のときピッコロを吸収する",
-        "id": "51",
-        "passive_skill_id": "3001297",
-        "updated_at": "2018-10-03 02:21:30"
+        "id": 51,
+        "skill_id": 3001297,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-11-28 02:08:26",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン以降\n&HP80%以上のとき変身する",
-        "id": "52",
-        "passive_skill_id": "2001354",
-        "updated_at": "2018-11-28 02:08:26"
+        "id": 52,
+        "skill_id": 2001354,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-11-28 02:08:26",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から6ターン以降\n&HP80%以上のとき変身する",
-        "id": "53",
-        "passive_skill_id": "2001355",
-        "updated_at": "2018-11-28 02:08:26"
+        "id": 53,
+        "skill_id": 2001355,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-12-26 02:17:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降変身する",
-        "id": "54",
-        "passive_skill_id": "3001390",
-        "updated_at": "2018-12-26 02:17:30"
+        "id": 54,
+        "skill_id": 3001390,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-12-26 02:17:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から5ターン目以降変身する",
-        "id": "55",
-        "passive_skill_id": "3001391",
-        "updated_at": "2018-12-26 02:17:30"
+        "id": 55,
+        "skill_id": 3001391,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-12-26 02:17:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降\nフルパワー状態に変身する",
-        "id": "56",
-        "passive_skill_id": "2001398",
-        "updated_at": "2018-12-26 02:17:30"
+        "id": 56,
+        "skill_id": 2001398,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2018-12-26 02:17:30",
+        "created_at": "2019-04-22 01:12:42",
         "description": "バトル開始から4ターン目以降\nフルパワー状態に変身する",
-        "id": "57",
-        "passive_skill_id": "2001399",
-        "updated_at": "2018-12-26 02:17:30"
+        "id": 57,
+        "skill_id": 2001399,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2019-02-14 03:12:13",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP40％以下のときミスター・ブウと合体する",
-        "id": "58",
-        "passive_skill_id": "6001434",
-        "updated_at": "2019-02-14 03:12:13"
+        "id": 58,
+        "skill_id": 6001434,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
     },
     {
-        "created_at": "2019-02-14 03:12:13",
+        "created_at": "2019-04-22 01:12:42",
         "description": "HP40％以下のときミスター・ブウと合体する",
-        "id": "59",
-        "passive_skill_id": "6001435",
-        "updated_at": "2019-02-14 03:12:13"
+        "id": 59,
+        "skill_id": 6001435,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "バトル開始から3ターン目以降変身する",
+        "id": 60,
+        "skill_id": 2001453,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "バトル開始から3ターン目以降変身する",
+        "id": 61,
+        "skill_id": 2001454,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 62,
+        "skill_id": 2001455,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 63,
+        "skill_id": 2001456,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 64,
+        "skill_id": 2001457,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 65,
+        "skill_id": 2001458,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 66,
+        "skill_id": 2001459,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-22 01:12:42",
+        "description": "次の攻撃参加ターンになるとさらに変身する",
+        "id": 67,
+        "skill_id": 2001460,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "バトル開始から3ターン目以降変身する",
+        "id": 70,
+        "skill_id": 1001506,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "バトル開始から3ターン目以降変身する",
+        "id": 71,
+        "skill_id": 1001507,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "バトル開始から3ターン目以降ポタラで合体する",
+        "id": 72,
+        "skill_id": 3001511,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "バトル開始から3ターン目以降ポタラで合体する",
+        "id": 73,
+        "skill_id": 3001512,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "次の攻撃参加ターンから発動可能(1回のみ)",
+        "id": 74,
+        "skill_id": 15,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "次の攻撃参加ターンから発動可能(1回のみ)",
+        "id": 75,
+        "skill_id": 16,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "次の攻撃参加ターンから発動可能(1回のみ)",
+        "id": 76,
+        "skill_id": 17,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-04-25 02:08:56",
+        "description": "次の攻撃参加ターンから発動可能(1回のみ)",
+        "id": 77,
+        "skill_id": 18,
+        "skill_type": "ActiveSkill",
+        "updated_at": "2019-04-25 02:08:56"
+    },
+    {
+        "created_at": "2019-05-30 02:14:19",
+        "description": "バトル開始から3ターン目以降\n&HP70%以下のとき変身する",
+        "id": 78,
+        "skill_id": 3001532,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-05-30 02:14:19"
+    },
+    {
+        "created_at": "2019-05-30 02:14:19",
+        "description": "バトル開始から3ターン目以降\n&HP70%以下のとき変身する",
+        "id": 79,
+        "skill_id": 3001533,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-05-30 02:14:19"
     }
 ]

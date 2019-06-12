@@ -1,502 +1,546 @@
 [
     {
         "name": "act_cure_schedules",
-        "seq": "1"
+        "seq": 1
+    },
+    {
+        "name": "active_skill_sets",
+        "seq": 18
+    },
+    {
+        "name": "active_skills",
+        "seq": 14
     },
     {
         "name": "area_conditions",
-        "seq": "13"
+        "seq": 13
     },
     {
         "name": "area_icons",
-        "seq": "201"
+        "seq": 201
     },
     {
         "name": "area_tabs",
-        "seq": "999"
+        "seq": 999
     },
     {
         "name": "areas",
-        "seq": "10001"
+        "seq": 10001
     },
     {
         "name": "awakening_items",
-        "seq": "900005"
+        "seq": 900005
     },
     {
         "name": "battle_params",
-        "seq": "1069"
+        "seq": 1222
     },
     {
         "name": "beginners_guides",
-        "seq": "1"
+        "seq": 1
+    },
+    {
+        "name": "bgm_schedules",
+        "seq": 2
+    },
+    {
+        "name": "boost_schedules",
+        "seq": 1
     },
     {
         "name": "budokai_box_ranking_reward_ranges",
-        "seq": "9231201"
+        "seq": 9231201
     },
     {
         "name": "budokai_box_ranking_rewards",
-        "seq": "92336"
+        "seq": 92336
     },
     {
         "name": "budokai_box_rankings",
-        "seq": "9231"
+        "seq": 9231
     },
     {
         "name": "budokai_help_bodies",
-        "seq": "58"
+        "seq": 58
     },
     {
         "name": "budokai_help_categories",
-        "seq": "4"
+        "seq": 4
     },
     {
         "name": "budokai_helps",
-        "seq": "21"
+        "seq": 21
     },
     {
         "name": "budokai_leagues",
-        "seq": "9233"
+        "seq": 9233
     },
     {
         "name": "budokai_mission_rewards",
-        "seq": "923078"
+        "seq": 923078
     },
     {
         "name": "budokai_missions",
-        "seq": "923078"
+        "seq": 923078
     },
     {
         "name": "budokai_motivation_unlock_conditions",
-        "seq": "92312"
+        "seq": 92312
     },
     {
         "name": "budokai_motivations",
-        "seq": "92312"
+        "seq": 92312
     },
     {
         "name": "budokai_opponent_attack_weight_lines",
-        "seq": "923412"
+        "seq": 923412
     },
     {
         "name": "budokai_opponent_attack_weights",
-        "seq": "9234"
+        "seq": 9234
     },
     {
         "name": "budokai_progress_selifs",
-        "seq": "9234"
+        "seq": 9234
     },
     {
         "name": "budokai_ranking_gift_sets",
-        "seq": "92320"
+        "seq": 92320
     },
     {
         "name": "budokai_ranking_gifts",
-        "seq": "9232001"
+        "seq": 9232001
     },
     {
         "name": "budokai_ranks",
-        "seq": "92312"
+        "seq": 92312
     },
     {
         "name": "budokais",
-        "seq": "923"
+        "seq": 923
+    },
+    {
+        "name": "card_active_skills",
+        "seq": 33
     },
     {
         "name": "card_awakening_routes",
-        "seq": "10004"
+        "seq": 10004
     },
     {
         "name": "card_awakening_sets",
-        "seq": "17501"
+        "seq": 17501
     },
     {
         "name": "card_awakenings",
-        "seq": "901005"
+        "seq": 901005
+    },
+    {
+        "name": "card_card_categories",
+        "seq": 56012991005
     },
     {
         "name": "card_categories",
-        "seq": "29"
+        "seq": 35
     },
     {
         "name": "card_exps",
-        "seq": "2340"
+        "seq": 2340
     },
     {
         "name": "card_growths",
-        "seq": "1170"
+        "seq": 1170
     },
     {
         "name": "card_motions",
-        "seq": "91580"
+        "seq": 91580
     },
     {
         "name": "card_specials",
-        "seq": "9008"
+        "seq": 9008
     },
     {
         "name": "card_training_field_exp_up_probs",
-        "seq": "3"
+        "seq": 3
     },
     {
         "name": "card_training_skill_lv_up_probs",
-        "seq": "6"
+        "seq": 6
     },
     {
         "name": "card_training_skill_lvs",
-        "seq": "14"
+        "seq": 14
     },
     {
         "name": "card_unique_infos",
-        "seq": "9999"
+        "seq": 9999
     },
     {
         "name": "cards",
-        "seq": "56012991"
+        "seq": 56012991
     },
     {
         "name": "characters",
-        "seq": "946"
+        "seq": 990
     },
     {
         "name": "collection_cards",
-        "seq": "3001150"
+        "seq": 3001150
     },
     {
         "name": "collection_categories",
-        "seq": "9"
+        "seq": 9
     },
     {
         "name": "collection_uniques",
-        "seq": "410"
+        "seq": 423
     },
     {
         "name": "effect_packs",
-        "seq": "200004"
+        "seq": 200004
     },
     {
         "name": "enemy_ai_conditions",
-        "seq": "8017"
+        "seq": 8017
     },
     {
         "name": "enemy_skills",
-        "seq": "1000203"
+        "seq": 1000274
+    },
+    {
+        "name": "eventkagi_items",
+        "seq": 5
     },
     {
         "name": "forced_scripts",
-        "seq": "411"
+        "seq": 2175
     },
     {
         "name": "help_bodies",
-        "seq": "201"
+        "seq": 228
     },
     {
         "name": "help_categories",
-        "seq": "10"
+        "seq": 11
     },
     {
         "name": "helps",
-        "seq": "59"
+        "seq": 66
     },
     {
         "name": "leader_skills",
-        "seq": "1016121"
+        "seq": 1016121
     },
     {
         "name": "level_bgs",
-        "seq": "2003"
+        "seq": 2003
     },
     {
         "name": "link_skills",
-        "seq": "1004"
+        "seq": 1004
     },
     {
         "name": "marquees",
-        "seq": "901"
+        "seq": 901
     },
     {
         "name": "mission_campaigns",
-        "seq": "2"
+        "seq": 2
     },
     {
         "name": "mission_categories",
-        "seq": "99"
+        "seq": 1000
+    },
+    {
+        "name": "mission_periods",
+        "seq": 911348
     },
     {
         "name": "mission_rewards",
-        "seq": "995226"
+        "seq": 995226
     },
     {
         "name": "missions",
-        "seq": "51500233"
+        "seq": 51500233
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": "168"
+        "seq": 217
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": "900699"
+        "seq": 900699
     },
     {
         "name": "passive_skill_sets",
-        "seq": "9002"
+        "seq": 9002
     },
     {
         "name": "passive_skills",
-        "seq": "13001307"
+        "seq": 26001501
     },
     {
         "name": "points",
-        "seq": "10000003"
+        "seq": 10000003
     },
     {
         "name": "potential_boards",
-        "seq": "210"
+        "seq": 214
     },
     {
         "name": "potential_event_selection_tables",
-        "seq": "24"
+        "seq": 25
     },
     {
         "name": "potential_event_selections",
-        "seq": "52"
+        "seq": 54
     },
     {
         "name": "potential_events",
-        "seq": "131"
+        "seq": 132
     },
     {
         "name": "potential_items",
-        "seq": "45"
+        "seq": 54
     },
     {
         "name": "potential_skill_lv_values",
-        "seq": "720"
+        "seq": 720
     },
     {
         "name": "potential_skills",
-        "seq": "7"
+        "seq": 7
     },
     {
         "name": "potential_square_condition_set_relations",
-        "seq": "1320"
+        "seq": 1593
     },
     {
         "name": "potential_square_condition_sets",
-        "seq": "415"
+        "seq": 501
     },
     {
         "name": "potential_square_conditions",
-        "seq": "327"
+        "seq": 405
     },
     {
         "name": "potential_square_relations",
-        "seq": "20240"
+        "seq": 22896
     },
     {
         "name": "potential_squares",
-        "seq": "21000335"
+        "seq": 21400335
     },
     {
         "name": "quest_category_bonus_groups",
-        "seq": "1"
+        "seq": 1
     },
     {
         "name": "quest_category_bonus_rarity_tables",
-        "seq": "27"
+        "seq": 30
     },
     {
         "name": "quest_category_bonuses",
-        "seq": "175003"
+        "seq": 175003
     },
     {
         "name": "quests",
-        "seq": "999999"
+        "seq": 999999
     },
     {
         "name": "rank_statuses",
-        "seq": "999"
+        "seq": 999
     },
     {
         "name": "related_card_categories",
-        "seq": "1000129"
+        "seq": 1000167
     },
     {
         "name": "related_link_skills",
-        "seq": "800700"
+        "seq": 800700
     },
     {
         "name": "related_passive_skill_sets",
-        "seq": "800700"
+        "seq": 800700
     },
     {
         "name": "rmbattle_bgm_patterns",
-        "seq": "1"
+        "seq": 1
     },
     {
         "name": "rmbattle_help_bodies",
-        "seq": "24"
+        "seq": 24
     },
     {
         "name": "rmbattle_help_categories",
-        "seq": "999"
+        "seq": 999
     },
     {
         "name": "rmbattle_helps",
-        "seq": "9"
+        "seq": 9
     },
     {
         "name": "rmbattle_mission_rewards",
-        "seq": "6050"
+        "seq": 12053
     },
     {
         "name": "rmbattle_missions",
-        "seq": "6023"
+        "seq": 12022
     },
     {
         "name": "shops",
-        "seq": "90"
+        "seq": 90
+    },
+    {
+        "name": "skill_causalities",
+        "seq": 10
+    },
+    {
+        "name": "skill_groups",
+        "seq": 32
     },
     {
         "name": "skill_labels",
-        "seq": "2"
+        "seq": 2
     },
     {
         "name": "skills",
-        "seq": "15"
+        "seq": 15
     },
     {
         "name": "sound_effect_offsets",
-        "seq": "125"
+        "seq": 178
     },
     {
         "name": "special_bonuses",
-        "seq": "11"
+        "seq": 11
     },
     {
         "name": "special_items",
-        "seq": "9999"
+        "seq": 9999
     },
     {
         "name": "special_scripts",
-        "seq": "432"
+        "seq": 466
     },
     {
         "name": "special_views",
-        "seq": "9008"
+        "seq": 9008
     },
     {
         "name": "specials",
-        "seq": "9999"
+        "seq": 9999
     },
     {
         "name": "status_extensions",
-        "seq": "3"
+        "seq": 4
     },
     {
         "name": "sub_target_type_sets",
-        "seq": "64"
+        "seq": 82
     },
     {
         "name": "sub_target_types",
-        "seq": "71"
+        "seq": 93
     },
     {
         "name": "sugoroku_map_puzzle_colors",
-        "seq": "18"
+        "seq": 18
     },
     {
         "name": "sugoroku_maps",
-        "seq": "9999992"
+        "seq": 9999992
     },
     {
         "name": "support_items",
-        "seq": "90001"
+        "seq": 90001
     },
     {
         "name": "tips",
-        "seq": "50"
+        "seq": 86
     },
     {
         "name": "title_screens",
-        "seq": "23"
+        "seq": 26
     },
     {
         "name": "training_fields",
-        "seq": "11"
+        "seq": 11
     },
     {
         "name": "training_items",
-        "seq": "9105"
+        "seq": 9105
     },
     {
         "name": "transformation_descriptions",
-        "seq": "57"
+        "seq": 69
     },
     {
         "name": "treasure_items",
-        "seq": "91002"
+        "seq": 91002
+    },
+    {
+        "name": "ultimate_specials",
+        "seq": 4
     },
     {
         "name": "worlds",
-        "seq": "1001"
+        "seq": 1001
     },
     {
         "name": "z_battle_check_points",
-        "seq": "97"
+        "seq": 136
     },
     {
         "name": "z_battle_enemies",
-        "seq": "17"
+        "seq": 24
     },
     {
         "name": "z_battle_enemy_card_escalations",
-        "seq": "51"
+        "seq": 71
     },
     {
         "name": "z_battle_enemy_skill_escalations",
-        "seq": "407"
+        "seq": 563
     },
     {
         "name": "z_battle_enemy_status_escalations",
-        "seq": "470"
+        "seq": 646
     },
     {
         "name": "z_battle_first_reward_level_ranges",
-        "seq": "493"
+        "seq": 674
     },
     {
         "name": "z_battle_first_rewards",
-        "seq": "1723"
+        "seq": 2327
     },
     {
         "name": "z_battle_normal_reward_tables",
-        "seq": "114"
+        "seq": 155
     },
     {
         "name": "z_battle_normal_rewards",
-        "seq": "138"
+        "seq": 179
     },
     {
         "name": "z_battle_powerup_thresholds",
-        "seq": "17"
+        "seq": 23
     },
     {
         "name": "z_battle_powerup_views",
-        "seq": "7"
+        "seq": 7
     },
     {
         "name": "z_battle_stage_levelup_views",
-        "seq": "5"
+        "seq": 5
     },
     {
         "name": "z_battle_stage_views",
-        "seq": "17"
+        "seq": 23
     },
     {
         "name": "z_battle_stages",
-        "seq": "15"
+        "seq": 21
     }
 ]

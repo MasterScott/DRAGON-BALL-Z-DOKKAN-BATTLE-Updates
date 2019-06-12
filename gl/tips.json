@@ -1,345 +1,684 @@
 [
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Rank Up to raise your Stamina and Cost Limit.",
-        "id": "1",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 1,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Rank Up",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "The Leader Skill of the character you choose as your Friend will \nactivate automatically when the quest begins !",
-        "id": "2",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 2,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Friends",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "The Leader Skill of the character you choose as the Leader \nduring Team Formation will activate automatically!",
-        "id": "3",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 3,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Leader Skills",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Cause heavy damage to your opponent by attacking\nwith the Type it is weak against.\nIf you attack with the Type it is strong against,\nyour opponent will guard against it.",
-        "id": "4",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 4,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Type",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Instead of choosing only powerful fighters,\nrethink the balance of your Team Formation with\nthe different Types in mind!",
-        "id": "5",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 5,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Team Formation",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Your Link Skills will activate according to your attack order.\nUse this power to your advantage!",
-        "id": "6",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 6,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Link Skills",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "It never hurts to have more Ki. Build up as much as you can.",
-        "id": "7",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 7,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Ki Spheres",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Once a certain amount of Ki is built up,\na Super Attack will be unleashed. Keep them coming!",
-        "id": "8",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 8,
+        "image_name": "tips_image_01",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Super Attacks",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Log in every day to receive Zeni and Dragon Stones. \nIf you log in 7 days in a row, you will get a Chain Login Bonus.",
-        "id": "9",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Log in every day to get Zeni and items. \nLog in 7 days in a row to get a Chain Login Bonus.",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 9,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Chain Login Bonus",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Log in once a day and get a Total Login Bonus.",
-        "id": "10",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 10,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Total Login Bonus",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Once even a single type of Awakening Item\nreaches the required amount,\nyou can activate an Awakening.\nIt will drastically raise your stats!",
-        "id": "11",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 11,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Awakening",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Get more EXP Points by training against identical characters\nto the one you want to level up.\nYour Super Attack level will also go up!",
-        "id": "12",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Training with an identical character \nwill raise the Super Attack Level! \nThe higher the Rarity, the higher the success rate!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 12,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Training",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Fight a specific opponent by tapping on them.\nChoose an opponent with a Type that gives you the best advantage.",
-        "id": "13",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 13,
+        "image_name": "tips_image_02",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Targets",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Use your Friend Points to obtain Cards! Make friends and save up!",
-        "id": "14",
-        "title": "Friend Points",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "end_at": "2030-12-31 23:59:59",
+        "id": 14,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Friend Summon",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Get more EXP Points by training against characters\nthat are the same Type.",
-        "id": "15",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 15,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Enhance Super Attack",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Set your most important characters as favorites\nso that you don't accidentally sell them.",
-        "id": "16",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 16,
+        "image_name": "tips_image_03",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Favorites",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "If you delete the app, your data will disappear!\nBe sure to create a Device Transfer Code from the Menu.",
-        "id": "17",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 17,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Don't Delete!",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Are you guarded against your opponent's attacks?\nGuard yourself by using the Type that is strongest\nagainst your opponent's Type!",
-        "id": "18",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 18,
+        "image_name": "tips_image_04",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Guard",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Use your Super Attack with a full Dokkan meter\nto activate Dokkan Mode.\nTime your taps to deal massive damage!",
-        "id": "19",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 19,
+        "image_name": "tips_image_05",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Dokkan Mode",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "When in trouble go to Help! You can find it in the Menu.",
-        "id": "20",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 20,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Help",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Good things will happen when you gather all 7 Dragon Balls!\nIf you find one, be sure to pick it up!",
-        "id": "21",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 21,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Dragon Balls",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Quest with a Friend instead of a Guest,\nand you will receive more Friend Points!",
-        "id": "22",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 22,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Friend Points",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "When your opponents grow strong,\ntake advantage of Support Items!\nDifferent Items will give different effects,\nso be sure to try them out.",
-        "id": "23",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 23,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Support Items",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Ki Spheres of the same color will give you double the Ki.\nTry aiming for them when you want to use your Super Attack!",
-        "id": "24",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 24,
+        "image_name": "tips_image_06",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Super Attacks",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "On the Shenron Screen,\ntap and hold your finger over a Dragon Ball\nnot yet in your collection to reveal its stage location!",
-        "id": "25",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 25,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Dragon Radar",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "The first character in the enemy lineup\nwill aim for the member at the head of your party.\nDon't forget to think about Types before you battle!",
-        "id": "26",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 26,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "First Attack Guard",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Enemies will target the character from your party\nwho attacked directly before them. Remember,\nTypes play a crucial role in defense too!",
-        "id": "27",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 27,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Attack & Defense",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Collect Ki Spheres that match your Type to recover a little HP.",
-        "id": "28",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 28,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "HP Recovery",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "When a boss brings along reinforcements,\nfocus your attacks on the non-boss characters first.\nThis will reduce the number of attacks you receive.",
-        "id": "29",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 29,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Boss Battles",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "The amount of Ki required for a full-powered\nattack varies from fighter to fighter.\nMake sure to check the Character Details thoroughly.",
-        "id": "30",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 30,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Ki Amount",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "This page contains helpful game hints.\nView it by tapping the banner on the Home page.",
-        "id": "31",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 31,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Master Roshi's Teachings",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Pinch in or out on the map screen to control the zoom.",
-        "id": "32",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 32,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Map Zoom",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Picking up gold capsules scattered around the map\nto get rare items and Medals.\nThere are white, bronze, silver, and gold capsules,\nwith gold offering the best rewards.",
-        "id": "33",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 33,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Hoi-Poi Capsules Colors",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Capsule labels indicate their contents.\nRed is for Training Items, blue is for Support Items,\nand purple is for Awakening Medals.",
-        "id": "34",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 34,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Hoi-Poi Capsules Labels",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Downloading all data can reduce individual load times.\nTap \"Download All\" from the title screen and give it a try!",
-        "id": "35",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 35,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Download All",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Awakening a character adds a \"Super\" or \"Extreme\" prefix\nto their Type and makes them stronger!",
-        "id": "36",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 36,
+        "image_name": "tips_image_07",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Awakened Types",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Tap and hold a Ki Sphere on the first row to preview the route.\nChecking the route before making your move\nis a powerful battle strategy!",
-        "id": "37",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 37,
+        "image_name": "tips_image_08",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Check Ki Spheres",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Baba's Shop is home to a diverse stock of goods.\nDrop by often to pick up useful items.",
-        "id": "38",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Baba's Shop is home to a diverse stock of goods. \nIt features sales every once in a while. \nDrop by to grab nifty items for a bargain!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 38,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Baba's Shop",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Characters with rarity of UR or higher can have their\n\"Hidden Potential\" activated to become even stronger!\nStay on top of things by tapping into \nyour characters' full potential!",
-        "id": "39",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 39,
+        "image_name": "tips_image_09",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Hidden Potential Activation",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Facebook linking is another way to recover your game data.\nGive it a thought — just in case\nsomething happens to your device!",
-        "id": "40",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 40,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Facebook Linking",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
+        "created_at": "2019-06-06 05:43:48.638292",
         "description": "Activating Hidden Potential will make the stars on\nyour thumbnail icon sparkle. \nA rainbow-colored radiance is a sign that\nhidden potential has been fully unlocked!",
-        "id": "41",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 41,
+        "image_name": "tips_image_10",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Thumbnail Icon",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Tapping the top/bottom section of the character list screen\nwill instantly jump to the first/last row.",
-        "id": "43",
-        "title": "Character List",
-        "updated_at": "2019-02-12 02:07:25.782841"
-    },
-    {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Status Effects appear as icons over the affected character.\nVisit the Help section to view the list of Status Effects.",
-        "id": "44",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Status Effects appear as icons over the affected character. \nVisit the Help section to view the list of Status Effects.",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 43,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Status Icon",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Baba's Shop features sales every once in a while.\nDrop by to grab nifty items for a bargain!",
-        "id": "45",
-        "title": "Baba's Shop",
-        "updated_at": "2019-02-12 02:07:25.782841"
-    },
-    {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Training Items boost Training efficiency.\nSome events make them especially easy to come by.\nTrain smarter and forge your team into\nan invincible fighting force!",
-        "id": "46",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Training Items and Training Locations boost Training efficiency. \nSome events make them especially easy to come by. \nTrain smarter and forge your team into \nan invincible fighting force!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 44,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Training",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "After losing a battle, you can use Dragon Stones to\npick up where you left off.\nIf you're having trouble winning on the first attempt,\ntry using a Continue!",
-        "id": "47",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "After losing a battle, you can use Dragon Stones \nto pick up where you left off. \nIf you're having trouble winning on the first attempt, \ntry using a Continue!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 45,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Continues",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Make Super Attacks even fiercer by boosting their level!\nSome characters will even feature special effects upon\nreaching a certain Super Attack Level.\nPower up Super Attacks to make your team\nthe strongest they can be!",
-        "id": "48",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Make Super Attacks even fiercer by boosting their level! \nSome characters will even feature special effects upon \nreaching a certain Super Attack Level. \nPower up Super Attacks to make your team \nthe strongest they can be!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 46,
+        "image_name": "tips_image_11",
+        "start_at": "2019-04-02 08:00:00",
         "title": "Super Attack Level",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "Dokkan Awakening is a special type of Awakening that\nelevates your characters to even greater heights of strength!\nAfter acquiring an Awakenable character,\ngo for a Dokkan Awakening to really up the ante!",
-        "id": "49",
-        "title": "Dokkan Awaken",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Dokkan Awakening is a special type of Awakening that\nelevates your characters to even greater heights of strength!\nAim for Dokkan Awakening after acquiring\nan awakenable character!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 47,
+        "image_name": "tips_image_12",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Dokkan Awakening",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     },
     {
-        "created_at": "2019-02-12 02:07:25.782841",
-        "description": "There's a range of different Hercule Statues—and they all\nfetch a good price! Trade them in for Zeni and\nyou'll be rolling in it in no time!",
-        "id": "50",
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "There's a range of different Hercule Statues—\nand they all fetch a good price! \nTrade them in for Zeni and you'll be rolling in it in no time!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 48,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
         "title": "Hercule Statue",
-        "updated_at": "2019-02-12 02:07:25.782841"
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Try training with Elder Kai if you want \nto raise a character's Super Attack level!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 49,
+        "image_name": "tips_image_13",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Elder Kai",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "There are stages where you can increase your chance of \ngetting bonus rewards by building a team with characters \nfrom a specific Category! Don't miss out on those special stages!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 50,
+        "image_name": "tips_image_14",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Category Special Effect",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "When you tap on a node in \"Hidden Potential\",\nthe nodes before it will also be automatically selected. \nYou can activate them one by one or all at once. \nThe choice is yours!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 51,
+        "image_name": "tips_image_15",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Mass Hidden Potential Activation",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Some characters can be Extreme Z-Awakened after clearing \nExtreme Z-Battles! Extreme Z-Awaken characters \nfor a power boost like never before!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 52,
+        "image_name": "tips_image_16",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "What Are Extreme Z-Battles?",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "You can view the items you own \nduring battles or while on the map\nby tapping the MENU button!",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 53,
+        "image_name": null,
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Viewing Items Owned",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Trade Points",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 54,
+        "image_name": "tips_image_17",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "How to Acquire Trade Points",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Recommended Characters",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 55,
+        "image_name": "tips_image_18",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Recommended Characters",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Growth Menu",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 56,
+        "image_name": "tips_image_19",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Growth Menu",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "Go to Events via Awakening Medal Details",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 57,
+        "image_name": "tips_image_20",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "Go to Events via Awakening Medal Details",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "報酬ブースト",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 81,
+        "image_name": "tips_image_22",
+        "start_at": "2019-05-20 06:30:00",
+        "title": "報酬ブースト",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "エイプリルフールCP_typeA_4/2",
+        "end_at": "2019-04-02 07:59:59",
+        "id": 82,
+        "image_name": "April_Fool_Tips_A",
+        "start_at": "2019-04-01 08:00:00",
+        "title": "エイプリルフールCP_typeA_4/2",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 50
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "エイプリルフールCP_typeB_4/2",
+        "end_at": "2019-04-02 07:59:59",
+        "id": 83,
+        "image_name": "April_Fool_Tips_B",
+        "start_at": "2019-04-01 08:00:00",
+        "title": "エイプリルフールCP_typeB_4/2",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 50
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "エイプリルフールCP_typeA_4/3以降",
+        "end_at": "2019-04-11 07:59:59",
+        "id": 84,
+        "image_name": "April_Fool_Tips_A",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "エイプリルフールCP_typeA_4/3以降",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "エイプリルフールCP_typeB_4/3以降",
+        "end_at": "2019-04-11 07:59:59",
+        "id": 85,
+        "image_name": "April_Fool_Tips_B",
+        "start_at": "2019-04-02 08:00:00",
+        "title": "エイプリルフールCP_typeB_4/3以降",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
+    },
+    {
+        "created_at": "2019-06-06 05:43:48.638292",
+        "description": "アクティブスキル",
+        "end_at": "2030-12-31 23:59:59",
+        "id": 86,
+        "image_name": "tips_image_21",
+        "start_at": "2019-05-08 06:30:00",
+        "title": "アクティブスキル",
+        "updated_at": "2019-06-06 05:43:48.638292",
+        "weight": 10
     }
 ]

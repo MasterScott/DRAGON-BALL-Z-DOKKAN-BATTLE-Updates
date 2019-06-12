@@ -1,0 +1,44 @@
+[
+    {
+        "bgm_id": 82,
+        "condition_description": "Can be activated when HP is 59% or less \n(once only)",
+        "created_at": "2019-06-06 05:43:00.513158",
+        "effect_description": "Causes ultimate damage to enemy",
+        "exec_limit": 1,
+        "id": 16,
+        "name": "Take This!",
+        "skill_causality_set_id": 6,
+        "special_view_id": 4945,
+        "turn": 1,
+        "ultimate_special_id": 3,
+        "updated_at": "2019-06-06 05:43:00.513158"
+    },
+    {
+        "bgm_id": 88,
+        "condition_description": "Can be activated when HP is 59% or less and \nfacing only 1 enemy starting from the 3rd turn \nfrom start of battle (once only)",
+        "created_at": "2019-06-06 05:43:00.513158",
+        "effect_description": "Massively raises ATK temporarily \nand causes ultimate damage to enemy",
+        "exec_limit": 1,
+        "id": 17,
+        "name": "Family Kamehameha",
+        "skill_causality_set_id": 7,
+        "special_view_id": 5044,
+        "turn": 1,
+        "ultimate_special_id": 4,
+        "updated_at": "2019-06-06 05:43:00.513158"
+    },
+    {
+        "bgm_id": 87,
+        "condition_description": "Can be activated after Transformation \n (once only)",
+        "created_at": "2019-06-06 05:43:00.513158",
+        "effect_description": "Ki +24 and ATK +48% for 1 turn",
+        "exec_limit": 1,
+        "id": 18,
+        "name": "Kakarot",
+        "skill_causality_set_id": 10,
+        "special_view_id": 5065,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-06-06 05:43:00.513158"
+    }
+]
