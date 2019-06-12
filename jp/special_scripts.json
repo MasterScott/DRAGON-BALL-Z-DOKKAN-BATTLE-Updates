@@ -2768,6 +2768,12 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 472,
+        "script_name": "sp0554"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 473,
         "script_name": "sp0560"
     },

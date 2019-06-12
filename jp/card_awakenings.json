@@ -11113,5 +11113,41 @@
         "num": 1,
         "quantity": 30,
         "updated_at": "2019-06-05 02:01:59"
+    },
+    {
+        "awakening_item_id": 5451,
+        "card_awakening_set_id": 811,
+        "created_at": "2019-06-12 02:05:38",
+        "id": 1315,
+        "num": 1,
+        "quantity": 21,
+        "updated_at": "2019-06-12 02:05:38"
+    },
+    {
+        "awakening_item_id": 5441,
+        "card_awakening_set_id": 811,
+        "created_at": "2019-06-12 02:05:38",
+        "id": 1316,
+        "num": 2,
+        "quantity": 21,
+        "updated_at": "2019-06-12 02:05:38"
+    },
+    {
+        "awakening_item_id": 5071,
+        "card_awakening_set_id": 812,
+        "created_at": "2019-06-12 02:05:38",
+        "id": 1317,
+        "num": 1,
+        "quantity": 35,
+        "updated_at": "2019-06-12 02:05:38"
+    },
+    {
+        "awakening_item_id": 5531,
+        "card_awakening_set_id": 812,
+        "created_at": "2019-06-12 02:05:38",
+        "id": 1318,
+        "num": 2,
+        "quantity": 35,
+        "updated_at": "2019-06-12 02:05:38"
     }
 ]

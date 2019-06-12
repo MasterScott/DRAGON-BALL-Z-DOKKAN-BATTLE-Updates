@@ -3807,6 +3807,15 @@
         "updated_at": "2019-03-10 16:17:16"
     },
     {
+        "card_id": 1005010,
+        "collection_unique_id": 214,
+        "created_at": "2019-06-12 02:06:14",
+        "event_id": null,
+        "id": 1005010,
+        "priority": 940,
+        "updated_at": "2019-06-12 02:06:14"
+    },
+    {
         "card_id": 1005020,
         "collection_unique_id": 101,
         "created_at": "2019-03-10 16:17:16",
@@ -10834,6 +10843,24 @@
         "id": 1015550,
         "priority": 1000,
         "updated_at": "2019-03-10 16:17:17"
+    },
+    {
+        "card_id": 1015561,
+        "collection_unique_id": 214,
+        "created_at": "2019-06-12 02:06:14",
+        "event_id": null,
+        "id": 1015561,
+        "priority": 930,
+        "updated_at": "2019-06-12 02:06:14"
+    },
+    {
+        "card_id": 1015571,
+        "collection_unique_id": 214,
+        "created_at": "2019-06-12 02:06:14",
+        "event_id": null,
+        "id": 1015571,
+        "priority": 920,
+        "updated_at": "2019-06-12 02:06:14"
     },
     {
         "card_id": 1015580,
