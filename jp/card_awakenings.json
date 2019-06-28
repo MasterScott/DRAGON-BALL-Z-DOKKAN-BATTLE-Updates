@@ -10458,6 +10458,60 @@
         "updated_at": "2019-03-31 13:30:38"
     },
     {
+        "awakening_item_id": 5521,
+        "card_awakening_set_id": 759,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1231,
+        "num": 1,
+        "quantity": 35,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 5521,
+        "card_awakening_set_id": 760,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1232,
+        "num": 1,
+        "quantity": 35,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 32601,
+        "card_awakening_set_id": 760,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1233,
+        "num": 2,
+        "quantity": 7,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 32602,
+        "card_awakening_set_id": 760,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1234,
+        "num": 3,
+        "quantity": 7,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 32603,
+        "card_awakening_set_id": 760,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1235,
+        "num": 4,
+        "quantity": 7,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 5521,
+        "card_awakening_set_id": 761,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1236,
+        "num": 1,
+        "quantity": 35,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
         "awakening_item_id": 100251,
         "card_awakening_set_id": 762,
         "created_at": "2019-04-08 02:03:53",
@@ -11275,5 +11329,32 @@
         "num": 1,
         "quantity": 20,
         "updated_at": "2019-06-21 00:02:50"
+    },
+    {
+        "awakening_item_id": 32602,
+        "card_awakening_set_id": 823,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1334,
+        "num": 1,
+        "quantity": 7,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 32604,
+        "card_awakening_set_id": 824,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1335,
+        "num": 1,
+        "quantity": 5,
+        "updated_at": "2019-06-28 02:05:48"
+    },
+    {
+        "awakening_item_id": 32603,
+        "card_awakening_set_id": 825,
+        "created_at": "2019-06-28 02:05:48",
+        "id": 1336,
+        "num": 1,
+        "quantity": 5,
+        "updated_at": "2019-06-28 02:05:48"
     }
 ]

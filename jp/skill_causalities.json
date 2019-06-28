@@ -30,6 +30,36 @@
         "updated_at": "2019-03-05 02:37:35"
     },
     {
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 5,
+        "created_at": "2019-06-28 02:08:27",
+        "id": 7,
+        "skill_causality_set_id": 7,
+        "updated_at": "2019-06-28 02:08:27"
+    },
+    {
+        "cau_val1": 59,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 2,
+        "created_at": "2019-06-28 02:08:27",
+        "id": 8,
+        "skill_causality_set_id": 7,
+        "updated_at": "2019-06-28 02:08:27"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 16,
+        "created_at": "2019-06-28 02:08:27",
+        "id": 9,
+        "skill_causality_set_id": 7,
+        "updated_at": "2019-06-28 02:08:27"
+    },
+    {
         "cau_val1": 100,
         "cau_val2": 1,
         "cau_val3": 0,

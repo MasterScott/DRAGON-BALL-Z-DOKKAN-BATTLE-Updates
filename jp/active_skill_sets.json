@@ -56,6 +56,20 @@
         "updated_at": "2019-04-22 01:12:21"
     },
     {
+        "bgm_id": 88,
+        "condition_description": "バトル開始から3ターン目以降\n&HP59%以下で敵が1体のとき発動可能\n(1回のみ)",
+        "created_at": "2019-06-28 02:05:42",
+        "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
+        "exec_limit": 1,
+        "id": 17,
+        "name": "親子三大かめはめ波",
+        "skill_causality_set_id": 7,
+        "special_view_id": 5044,
+        "turn": 1,
+        "ultimate_special_id": 4,
+        "updated_at": "2019-06-28 02:05:42"
+    },
+    {
         "bgm_id": 86,
         "condition_description": "次の攻撃参加ターンから発動可能\n(1回のみ)",
         "created_at": "2019-04-25 02:01:01",

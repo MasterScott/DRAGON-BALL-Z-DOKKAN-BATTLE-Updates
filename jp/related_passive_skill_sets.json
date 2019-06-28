@@ -70,6 +70,41 @@
         "updated_at": "2019-03-10 16:23:33"
     },
     {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 1,
+        "id": 110,
+        "passive_skill_set_id": 1487,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 1,
+        "id": 111,
+        "passive_skill_set_id": 1488,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 1,
+        "id": 112,
+        "passive_skill_set_id": 1489,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 1,
+        "id": 113,
+        "passive_skill_set_id": 1490,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 1,
+        "id": 114,
+        "passive_skill_set_id": 1491,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
         "created_at": "2019-03-10 16:23:32",
         "enemy_skill_id": 2,
         "id": 200,
@@ -1090,6 +1125,41 @@
         "id": 30009,
         "passive_skill_set_id": 1173,
         "updated_at": "2019-03-10 16:23:33"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 300,
+        "id": 30010,
+        "passive_skill_set_id": 1487,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 300,
+        "id": 30011,
+        "passive_skill_set_id": 1488,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 300,
+        "id": 30012,
+        "passive_skill_set_id": 1489,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 300,
+        "id": 30013,
+        "passive_skill_set_id": 1490,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 300,
+        "id": 30014,
+        "passive_skill_set_id": 1491,
+        "updated_at": "2019-06-28 02:08:06"
     },
     {
         "created_at": "2019-03-10 16:23:32",
@@ -11023,6 +11093,90 @@
         "id": 623005,
         "passive_skill_set_id": 1473,
         "updated_at": "2019-03-10 16:23:34"
+    },
+    {
+        "created_at": "2019-06-28 02:08:05",
+        "enemy_skill_id": 6300,
+        "id": 630000,
+        "passive_skill_set_id": 885,
+        "updated_at": "2019-06-28 02:08:05"
+    },
+    {
+        "created_at": "2019-06-28 02:08:05",
+        "enemy_skill_id": 6300,
+        "id": 630001,
+        "passive_skill_set_id": 886,
+        "updated_at": "2019-06-28 02:08:05"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6300,
+        "id": 630002,
+        "passive_skill_set_id": 887,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6310,
+        "id": 631000,
+        "passive_skill_set_id": 885,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6310,
+        "id": 631001,
+        "passive_skill_set_id": 886,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6310,
+        "id": 631002,
+        "passive_skill_set_id": 887,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6320,
+        "id": 632000,
+        "passive_skill_set_id": 885,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6320,
+        "id": 632001,
+        "passive_skill_set_id": 886,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6320,
+        "id": 632002,
+        "passive_skill_set_id": 887,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6350,
+        "id": 635000,
+        "passive_skill_set_id": 885,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6350,
+        "id": 635001,
+        "passive_skill_set_id": 886,
+        "updated_at": "2019-06-28 02:08:06"
+    },
+    {
+        "created_at": "2019-06-28 02:08:06",
+        "enemy_skill_id": 6350,
+        "id": 635002,
+        "passive_skill_set_id": 887,
+        "updated_at": "2019-06-28 02:08:06"
     },
     {
         "created_at": "2019-05-30 02:08:28",

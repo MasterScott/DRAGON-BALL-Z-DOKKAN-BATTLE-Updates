@@ -2738,6 +2738,36 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 460,
+        "script_name": "sp0545"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 461,
+        "script_name": "sp0546"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 462,
+        "script_name": "sp0547"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 463,
+        "script_name": "ut0004"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 464,
+        "script_name": "sp0555"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 467,
         "script_name": "sp0550"
     },
@@ -2824,5 +2854,29 @@
         "energy_color": null,
         "id": 481,
         "script_name": "sp0572"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 482,
+        "script_name": "sp0567"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 483,
+        "script_name": "sp0568"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 484,
+        "script_name": "sp0569"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 485,
+        "script_name": "sp0570"
     }
 ]

@@ -56,6 +56,20 @@
         "updated_at": "2019-03-05 02:35:06"
     },
     {
+        "active_skill_set_id": 17,
+        "card_id": 1016810,
+        "created_at": "2019-06-28 02:05:43",
+        "id": 30,
+        "updated_at": "2019-06-28 02:05:43"
+    },
+    {
+        "active_skill_set_id": 17,
+        "card_id": 1016811,
+        "created_at": "2019-06-28 02:05:43",
+        "id": 31,
+        "updated_at": "2019-06-28 02:05:43"
+    },
+    {
         "active_skill_set_id": 19,
         "card_id": 4017090,
         "created_at": "2019-04-25 02:01:04",

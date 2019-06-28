@@ -28,6 +28,13 @@
         "updated_at": "2019-04-22 01:12:41"
     },
     {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 17,
+        "target_type": "ActiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
         "created_at": "2019-04-25 02:04:26",
         "skill_group_id": 13,
         "target_id": 19,
@@ -30296,6 +30303,111 @@
         "updated_at": "2019-06-21 00:04:45"
     },
     {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 101679,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 101679,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 3,
+        "target_id": 101679,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 101679,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 101679,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 101680,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 101680,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 3,
+        "target_id": 101680,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 101680,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 101680,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 101681,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 101681,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 3,
+        "target_id": 101681,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 101681,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 101681,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
         "created_at": "2019-04-22 01:12:42",
         "skill_group_id": 1,
         "target_id": 101682,
@@ -30420,6 +30532,76 @@
         "target_id": 101684,
         "target_type": "LeaderSkill",
         "updated_at": "2019-04-22 01:12:42"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 101689,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 101689,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 3,
+        "target_id": 101689,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 101689,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 101689,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 101690,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 101690,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 3,
+        "target_id": 101690,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 101690,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 101690,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:37"
     },
     {
         "created_at": "2019-04-22 01:12:42",
@@ -31451,6 +31633,41 @@
         "updated_at": "2019-06-21 00:04:45"
     },
     {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 101732,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 101732,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 3,
+        "target_id": 101732,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 101732,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 9,
+        "target_id": 101732,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
         "created_at": "2019-06-21 00:04:45",
         "skill_group_id": 1,
         "target_id": 101736,
@@ -31589,6 +31806,62 @@
         "target_id": 101740,
         "target_type": "LeaderSkill",
         "updated_at": "2019-06-21 00:04:45"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 5,
+        "target_id": 101752,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 5,
+        "target_id": 101753,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 5,
+        "target_id": 101754,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 101755,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 101755,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 3,
+        "target_id": 101755,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 101755,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 8,
+        "target_id": 101755,
+        "target_type": "LeaderSkill",
+        "updated_at": "2019-06-28 02:08:38"
     },
     {
         "created_at": "2019-04-22 01:12:34",
@@ -55797,6 +56070,146 @@
         "updated_at": "2019-04-22 01:12:41"
     },
     {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 1487,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 1487,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 1487,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 28,
+        "target_id": 1487,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 1488,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 1488,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 1488,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 28,
+        "target_id": 1488,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 1489,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 1489,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 1489,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 28,
+        "target_id": 1489,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 1490,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 1490,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 1490,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 1490,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 1,
+        "target_id": 1491,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 2,
+        "target_id": 1491,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 4,
+        "target_id": 1491,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
+        "created_at": "2019-06-28 02:08:37",
+        "skill_group_id": 9,
+        "target_id": 1491,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:37"
+    },
+    {
         "created_at": "2019-04-22 01:12:41",
         "skill_group_id": 1,
         "target_id": 1492,
@@ -57044,13 +57457,6 @@
     },
     {
         "created_at": "2019-06-21 00:04:45",
-        "skill_group_id": 8,
-        "target_id": 1548,
-        "target_type": "PassiveSkillSet",
-        "updated_at": "2019-06-21 00:04:45"
-    },
-    {
-        "created_at": "2019-06-21 00:04:45",
         "skill_group_id": 9,
         "target_id": 1548,
         "target_type": "PassiveSkillSet",
@@ -57363,6 +57769,104 @@
         "target_id": 1559,
         "target_type": "PassiveSkillSet",
         "updated_at": "2019-06-21 00:04:45"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1560,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1560,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 1560,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 7,
+        "target_id": 1560,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1561,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1561,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 1561,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1562,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1563,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1563,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 1563,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1564,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1564,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 4,
+        "target_id": 1564,
+        "target_type": "PassiveSkillSet",
+        "updated_at": "2019-06-28 02:08:38"
     },
     {
         "created_at": "2019-04-22 01:12:39",
@@ -63826,6 +64330,48 @@
         "updated_at": "2019-04-22 01:12:41"
     },
     {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 1,
+        "target_id": 1711,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 1,
+        "target_id": 1712,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 1,
+        "target_id": 1713,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 1,
+        "target_id": 1714,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 5,
+        "target_id": 1715,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
+        "created_at": "2019-06-28 02:08:36",
+        "skill_group_id": 5,
+        "target_id": 1716,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:36"
+    },
+    {
         "created_at": "2019-04-22 01:12:41",
         "skill_group_id": 6,
         "target_id": 1727,
@@ -64139,6 +64685,48 @@
         "target_id": 1798,
         "target_type": "Special",
         "updated_at": "2019-06-05 02:03:44"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 6,
+        "target_id": 1799,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 2,
+        "target_id": 1800,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1802,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 5,
+        "target_id": 1803,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 1,
+        "target_id": 1804,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
+    },
+    {
+        "created_at": "2019-06-28 02:08:38",
+        "skill_group_id": 8,
+        "target_id": 1804,
+        "target_type": "Special",
+        "updated_at": "2019-06-28 02:08:38"
     },
     {
         "created_at": "2019-06-21 00:04:45",
