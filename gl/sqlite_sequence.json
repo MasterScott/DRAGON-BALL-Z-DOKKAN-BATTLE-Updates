@@ -253,7 +253,7 @@
     },
     {
         "name": "mission_periods",
-        "seq": 911348
+        "seq": 911345
     },
     {
         "name": "mission_rewards",
@@ -265,7 +265,7 @@
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": 217
+        "seq": 224
     },
     {
         "name": "passive_skill_set_relations",

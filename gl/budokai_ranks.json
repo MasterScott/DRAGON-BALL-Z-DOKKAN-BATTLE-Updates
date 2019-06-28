@@ -3,3960 +3,4092 @@
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 1,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 2,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 3,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 4,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 5,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 6,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 7,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 8,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 9,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 10,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 11,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 1,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 12,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 13,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 14,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 15,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 16,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 17,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 18,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 19,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 20,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 21,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 22,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 23,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 2,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 24,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 25,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 26,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 27,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 28,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 29,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 30,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 31,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 32,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 33,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 34,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 35,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 3,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 36,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 37,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 38,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 39,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 40,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 41,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 42,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 43,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 44,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 45,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 46,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 47,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 4,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 48,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 49,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 50,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 51,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 52,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 53,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 54,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 55,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 56,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 57,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 58,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 59,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 5,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 60,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 61,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 62,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 63,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 64,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 65,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 66,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 67,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 68,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 69,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 70,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 71,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 6,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 72,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 73,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 74,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 75,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 76,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 77,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 78,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 79,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 80,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 81,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 82,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 83,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 7,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 84,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 85,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 86,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 87,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 88,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 89,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 90,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 91,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 92,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 93,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 94,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 95,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 8,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 96,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 97,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 98,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 99,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.828997",
+        "created_at": "2019-06-26 06:57:19.702796",
         "id": 100,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.828997"
+        "updated_at": "2019-06-26 06:57:19.702796"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 101,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 102,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 103,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 104,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 105,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 106,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 107,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 9,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 108,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 109,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 110,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 111,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 112,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 113,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 114,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 115,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 116,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 117,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 118,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 119,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 10,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 120,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 121,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 122,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 123,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 124,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 125,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 126,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 127,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 128,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 129,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 130,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 131,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 11,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 132,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 133,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 134,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 135,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 136,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 137,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 138,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 139,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 140,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 141,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 142,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 143,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 12,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 144,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 145,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 146,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 147,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 148,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 149,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 150,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 151,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 152,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 153,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 154,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 155,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 13,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 156,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 157,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 158,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 159,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 160,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 161,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 162,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 163,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 164,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 165,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 166,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 167,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 14,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 168,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 169,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 170,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 171,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 172,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 173,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 174,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 175,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 176,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 177,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 178,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 179,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 15,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 180,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 181,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 182,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 183,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 184,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 185,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 186,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 187,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 188,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 189,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 190,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 191,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 16,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 192,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1701,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1702,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1703,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1704,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1705,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1706,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1707,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.856771",
+        "created_at": "2019-06-26 06:57:19.729583",
         "id": 1708,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.856771"
+        "updated_at": "2019-06-26 06:57:19.729583"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1709,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1710,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1711,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 17,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1712,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1801,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1802,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1803,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1804,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1805,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1806,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1807,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1808,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1809,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1810,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1811,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 18,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1812,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1901,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1902,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1903,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1904,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1905,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1906,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1907,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1908,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1909,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1910,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1911,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 19,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 1912,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2001,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2002,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2003,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2004,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2005,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2006,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2007,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2008,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2009,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2010,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2011,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 20,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2012,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2101,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2102,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2103,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2104,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2105,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2106,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2107,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2108,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2109,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2110,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2111,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 21,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2112,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2201,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2202,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2203,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2204,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2205,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2206,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2207,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2208,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2209,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2210,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2211,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 22,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2212,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2301,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2302,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2303,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2304,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2305,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2306,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2307,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2308,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2309,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2310,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2311,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 23,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2312,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2401,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2402,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2403,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2404,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2405,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2406,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2407,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2408,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2409,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2410,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2411,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 24,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2412,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2501,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2502,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2503,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2504,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2505,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2506,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2507,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2508,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2509,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2510,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2511,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 25,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.884766",
+        "created_at": "2019-06-26 06:57:19.758385",
         "id": 2512,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.884766"
+        "updated_at": "2019-06-26 06:57:19.758385"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2601,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2602,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2603,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2604,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2605,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2606,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2607,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2608,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2609,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2610,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2611,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 26,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2612,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2701,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2702,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2703,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2704,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2705,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2706,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2707,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2708,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2709,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2710,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2711,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 27,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 2712,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 1,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2801,
+        "name": "Pilaf Tier",
+        "point": 0,
+        "rank": 1,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 1,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2802,
+        "name": "King Chappa Tier",
+        "point": 5000,
+        "rank": 2,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 1,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2803,
+        "name": "Hercule Tier",
+        "point": 25000,
+        "rank": 3,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 2,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2804,
+        "name": "Videl Tier",
+        "point": 50000,
+        "rank": 4,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 2,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2805,
+        "name": "Master Roshi Tier",
+        "point": 100000,
+        "rank": 5,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 2,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2806,
+        "name": "Korin Tier",
+        "point": 150000,
+        "rank": 6,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 3,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2807,
+        "name": "Kami Tier",
+        "point": 250000,
+        "rank": 7,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 3,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2808,
+        "name": "King Yemma Tier",
+        "point": 500000,
+        "rank": 8,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 3,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2809,
+        "name": "King Kai Tier",
+        "point": 1000000,
+        "rank": 9,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 4,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2810,
+        "name": "Supreme Kai Tier",
+        "point": 1500000,
+        "rank": 10,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 4,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2811,
+        "name": "Elder Kai Tier",
+        "point": 2500000,
+        "rank": 11,
+        "updated_at": "2019-06-26 06:57:19.782323"
+    },
+    {
+        "bonus": 1,
+        "budokai_id": 28,
+        "budokai_league_id": 4,
+        "created_at": "2019-06-26 06:57:19.782323",
+        "id": 2812,
+        "name": "Beerus Tier",
+        "point": 5000000,
+        "rank": 12,
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92101,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92102,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92103,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92104,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92105,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92106,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92107,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92108,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92109,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92110,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92111,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 921,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92112,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92201,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92202,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92203,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92204,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92205,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92206,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92207,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92208,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92209,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92210,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92211,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 922,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92212,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92301,
         "name": "Pilaf Tier",
         "point": 0,
         "rank": 1,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92302,
         "name": "King Chappa Tier",
         "point": 5000,
         "rank": 2,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 1,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92303,
         "name": "Hercule Tier",
         "point": 25000,
         "rank": 3,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92304,
         "name": "Videl Tier",
         "point": 50000,
         "rank": 4,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92305,
         "name": "Master Roshi Tier",
         "point": 100000,
         "rank": 5,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 2,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92306,
         "name": "Korin Tier",
         "point": 150000,
         "rank": 6,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92307,
         "name": "Kami Tier",
         "point": 250000,
         "rank": 7,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92308,
         "name": "King Yemma Tier",
         "point": 500000,
         "rank": 8,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 3,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92309,
         "name": "King Kai Tier",
         "point": 1000000,
         "rank": 9,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92310,
         "name": "Supreme Kai Tier",
         "point": 1500000,
         "rank": 10,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92311,
         "name": "Elder Kai Tier",
         "point": 2500000,
         "rank": 11,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     },
     {
         "bonus": 1,
         "budokai_id": 923,
         "budokai_league_id": 4,
-        "created_at": "2019-06-06 05:43:07.907683",
+        "created_at": "2019-06-26 06:57:19.782323",
         "id": 92312,
         "name": "Beerus Tier",
         "point": 5000000,
         "rank": 12,
-        "updated_at": "2019-06-06 05:43:07.907683"
+        "updated_at": "2019-06-26 06:57:19.782323"
     }
 ]

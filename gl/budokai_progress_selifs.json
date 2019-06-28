@@ -784,6 +784,34 @@
         "url": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/budokai/budokai_announce_03.png"
     },
     {
+        "budokai_id": 28,
+        "description": "It's the preliminary! Here we go!",
+        "id": 281,
+        "round": 1,
+        "url": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/budokai/budokai_announce_01.png"
+    },
+    {
+        "budokai_id": 28,
+        "description": "It's time for the quarterfinals!",
+        "id": 282,
+        "round": 2,
+        "url": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/budokai/budokai_announce_03.png"
+    },
+    {
+        "budokai_id": 28,
+        "description": "It's time for the semifinals!",
+        "id": 283,
+        "round": 3,
+        "url": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/budokai/budokai_announce_03.png"
+    },
+    {
+        "budokai_id": 28,
+        "description": "And now it's time for the final battle!",
+        "id": 284,
+        "round": 4,
+        "url": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/budokai/budokai_announce_03.png"
+    },
+    {
         "budokai_id": 921,
         "description": "It's the preliminary! Here we go!",
         "id": 9211,

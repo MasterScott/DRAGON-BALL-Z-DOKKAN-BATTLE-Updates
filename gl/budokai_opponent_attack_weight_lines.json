@@ -4555,6 +4555,174 @@
     },
     {
         "ball_count": 1,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28101,
+        "rate": 50
+    },
+    {
+        "ball_count": 3,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28103,
+        "rate": 75
+    },
+    {
+        "ball_count": 5,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28105,
+        "rate": 100
+    },
+    {
+        "ball_count": 7,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28107,
+        "rate": 100
+    },
+    {
+        "ball_count": 9,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28109,
+        "rate": 75
+    },
+    {
+        "ball_count": 11,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28111,
+        "rate": 50
+    },
+    {
+        "ball_count": 12,
+        "budokai_opponent_attack_weight_id": 281,
+        "id": 28112,
+        "rate": 0
+    },
+    {
+        "ball_count": 1,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28201,
+        "rate": 50
+    },
+    {
+        "ball_count": 3,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28203,
+        "rate": 75
+    },
+    {
+        "ball_count": 5,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28205,
+        "rate": 100
+    },
+    {
+        "ball_count": 7,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28207,
+        "rate": 100
+    },
+    {
+        "ball_count": 9,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28209,
+        "rate": 75
+    },
+    {
+        "ball_count": 11,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28211,
+        "rate": 50
+    },
+    {
+        "ball_count": 12,
+        "budokai_opponent_attack_weight_id": 282,
+        "id": 28212,
+        "rate": 4
+    },
+    {
+        "ball_count": 1,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28301,
+        "rate": 50
+    },
+    {
+        "ball_count": 3,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28303,
+        "rate": 75
+    },
+    {
+        "ball_count": 5,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28305,
+        "rate": 100
+    },
+    {
+        "ball_count": 7,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28307,
+        "rate": 100
+    },
+    {
+        "ball_count": 9,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28309,
+        "rate": 75
+    },
+    {
+        "ball_count": 11,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28311,
+        "rate": 50
+    },
+    {
+        "ball_count": 12,
+        "budokai_opponent_attack_weight_id": 283,
+        "id": 28312,
+        "rate": 7
+    },
+    {
+        "ball_count": 1,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28401,
+        "rate": 50
+    },
+    {
+        "ball_count": 3,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28403,
+        "rate": 75
+    },
+    {
+        "ball_count": 5,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28405,
+        "rate": 100
+    },
+    {
+        "ball_count": 7,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28407,
+        "rate": 100
+    },
+    {
+        "ball_count": 9,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28409,
+        "rate": 75
+    },
+    {
+        "ball_count": 11,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28411,
+        "rate": 50
+    },
+    {
+        "ball_count": 12,
+        "budokai_opponent_attack_weight_id": 284,
+        "id": 28412,
+        "rate": 10
+    },
+    {
+        "ball_count": 1,
         "budokai_opponent_attack_weight_id": 9211,
         "id": 921101,
         "rate": 50

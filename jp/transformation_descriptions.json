@@ -510,5 +510,21 @@
         "skill_id": 3001533,
         "skill_type": "PassiveSkill",
         "updated_at": "2019-05-30 02:14:19"
+    },
+    {
+        "created_at": "2019-06-21 00:08:50",
+        "description": "バトル開始から5ターン目以降\nアムズ(第三形態)と融合する",
+        "id": 80,
+        "skill_id": 5001547,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-21 00:08:50"
+    },
+    {
+        "created_at": "2019-06-21 00:08:50",
+        "description": "バトル開始から5ターン目以降\nアムズ(第三形態)と融合する",
+        "id": 81,
+        "skill_id": 5001548,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-06-21 00:08:50"
     }
 ]

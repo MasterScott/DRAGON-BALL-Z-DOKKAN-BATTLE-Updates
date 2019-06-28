@@ -1650,6 +1650,50 @@
         "zeni": 20000
     },
     {
+        "created_at": "2019-06-21 00:02:43",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 18101,
+        "name": "ビート",
+        "rarity": 3,
+        "selling_exchange_point": 12,
+        "updated_at": "2019-06-21 00:02:43",
+        "zeni": 20000
+    },
+    {
+        "created_at": "2019-06-21 00:02:43",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 18102,
+        "name": "アムズ",
+        "rarity": 3,
+        "selling_exchange_point": 12,
+        "updated_at": "2019-06-21 00:02:43",
+        "zeni": 20000
+    },
+    {
+        "created_at": "2019-06-21 00:02:43",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 18103,
+        "name": "時の界王神",
+        "rarity": 3,
+        "selling_exchange_point": 12,
+        "updated_at": "2019-06-21 00:02:43",
+        "zeni": 20000
+    },
+    {
+        "created_at": "2019-06-21 00:02:43",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 18104,
+        "name": "シーラス ",
+        "rarity": 3,
+        "selling_exchange_point": 12,
+        "updated_at": "2019-06-21 00:02:43",
+        "zeni": 20000
+    },
+    {
         "created_at": "2019-03-10 16:15:33",
         "description": "特定のキャラクターの覚醒に必要",
         "event_jumpable": 1,

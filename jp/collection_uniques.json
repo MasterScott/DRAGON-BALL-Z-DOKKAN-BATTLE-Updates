@@ -4238,5 +4238,85 @@
         "name": "牛魔王",
         "priority": 96450,
         "updated_at": "2019-05-21 02:05:09"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017250,
+        "collection_category_id": 6,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 433,
+        "name": "ビート",
+        "priority": 70950,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017260,
+        "collection_category_id": 2,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 434,
+        "name": "グレート\nサイヤマン4号",
+        "priority": 95370,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017360,
+        "collection_category_id": 1,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 435,
+        "name": "アムズ\n(第二形態)",
+        "priority": 99860,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1017370,
+        "collection_category_id": 1,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 436,
+        "name": "アムズ\n(第三形態)",
+        "priority": 99850,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1017290,
+        "collection_category_id": 3,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 437,
+        "name": "シーラス",
+        "priority": 92960,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 1,
+        "card_id": 1017270,
+        "collection_category_id": 2,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 438,
+        "name": "グレート\nサイヤマン3号",
+        "priority": 95380,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 4,
+        "card_id": 1017390,
+        "collection_category_id": 3,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 439,
+        "name": "孫悟空\n(ゼノ)",
+        "priority": 80750,
+        "updated_at": "2019-06-21 00:03:27"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1017400,
+        "collection_category_id": 6,
+        "created_at": "2019-06-21 00:03:27",
+        "id": 440,
+        "name": "ベジータ\n(ゼノ)",
+        "priority": 67080,
+        "updated_at": "2019-06-21 00:03:27"
     }
 ]

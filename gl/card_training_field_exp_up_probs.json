@@ -1,26 +1,26 @@
 [
     {
-        "created_at": "2019-06-06 05:43:15.021193",
+        "created_at": "2019-06-26 06:57:26.988939",
         "effect": 1.2,
         "id": 1,
         "key": "great_success",
         "success_prob_percent": 15.5,
-        "updated_at": "2019-06-06 05:43:15.021193"
+        "updated_at": "2019-06-26 06:57:26.988939"
     },
     {
-        "created_at": "2019-06-06 05:43:15.021193",
+        "created_at": "2019-06-26 06:57:26.988939",
         "effect": 1.5,
         "id": 2,
         "key": "super_success",
         "success_prob_percent": 6.3,
-        "updated_at": "2019-06-06 05:43:15.021193"
+        "updated_at": "2019-06-26 06:57:26.988939"
     },
     {
-        "created_at": "2019-06-06 05:43:15.021193",
+        "created_at": "2019-06-26 06:57:26.988939",
         "effect": 2,
         "id": 3,
         "key": "super_great_success",
         "success_prob_percent": 3.2,
-        "updated_at": "2019-06-06 05:43:15.021193"
+        "updated_at": "2019-06-26 06:57:26.988939"
     }
 ]
