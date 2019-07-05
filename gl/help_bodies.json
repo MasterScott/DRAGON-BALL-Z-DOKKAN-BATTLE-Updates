@@ -1,1818 +1,1818 @@
 [
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can edit the team you wish to take with you on Quests\nin the {color: #FFFF00}Team{color} menu.\n \nYou can choose {color: #FFFF00}up to 6 characters{color} per team.",
         "help_id": 1,
         "id": 1,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The total cost of your team cannot exceed your cost limit.",
         "help_id": 1,
         "id": 2,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_1_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "\n*Your Cost Limit will increase as your Rank is raised.\n\nIn addition, you can't put multiple characters of exactly \nthe same name into the same team.\n\nSaibaiman will be automatically assigned to the spaces \nyou do not fill as emergency backup.",
         "help_id": 1,
         "id": 3,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_1_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Perform “Training” to obtain Character EXP. \nStrength up your characters by obtaining EXP and leveling up.\n\nThe instructions for {color : #FFFF00 }“Training”{color} are as follows:\n\nStep 1: Select a Training Character to Train \nStep 2: Select a Training Location \nStep 3: Select Training Partners and Training Items \n(choose either one or both)",
         "help_id": 2,
         "id": 4,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Required Zeni for \"Training\"\nWhen you choose to train with Training Partners, \nthe required amount of Zeni will vary \naccording to the level of Training Character.\nWhen you choose to train with Training Items, \nthe required amount of Zeni will vary depending \non the kinds of Training Items, regardless of \nthe level of Training Character.\n\n\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Undergo Training with only\nTraining Items!{outline}{color}{size}",
         "help_id": 2,
         "id": 5,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/help_training_01_02.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "By {color: #FFFF00}Awakening{color} your characters, \nyou can increase their stats.\n\nThere are three types of Awakening.\nThe two normal types, \"Awakening,\" and \"Z-Awakening,\"\nand a special type which can only be performed by\ncertain characters, \"Dokkan Awakening.\"\n\nThe following explanation is about normal \"Awakening\".\n\nTo perform an \"Awakening\", you will need the required \nAwakening Medals and Zeni, which vary by character.",
         "help_id": 3,
         "id": 6,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Touch the icon of the Awakening Medals that you wish to use,\nand then touch the \"Awakening\" icon to awaken the character.\n\nA character doesn't get any EXP from \"Awakening.\"\nHowever, you can perform an Awakening regardless of the\ncharacter's level.\nOnce you have collected the required Medals,\nYou can perform an Awakening right away!",
         "help_id": 3,
         "id": 7,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_3.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "By {color: #FFFF00}Z-Awakening{color} your characters, \nyou can greatly increase their stats.\n\nAlso, the character's Rarity will be upped, their Type will be \nenhanced and their max level will be increased.\n\nZ-Awakening can take place only when:\n1: The character's level is at maximum\n2: All the required Awakening Medals have been obtained\n3: The required amount of Zeni has been obtained",
         "help_id": 4,
         "id": 8,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "\nAfter a Z-Awakening, your character's Super Attack level \nwill be carried over, but their Cost may increase.\n\nBe careful not to exhaust your Team Cost.",
         "help_id": 4,
         "id": 9,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_4.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "By {color: #FFFF00}Dokkan Awakening{color},  you can push the potential of \na character to a whole new level!",
         "help_id": 5,
         "id": 10,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Dokkan Awakening can take place when:\n1: A Z-Awakened character's level is at maximum\n2: All the required Awakening Medals have been obtained\n3: The required amount of Zeni has been obtained\n\nAfter Dokkan Awakening, the character changes into a \ndifferent character, so the character's level will be reset to 1.\n(The character's Super Attack level will be carried over)\n\nDokkan Awakened characters can be leveled up and \nZ-awakened again for even greater power!\n\nPlease note that Dokkan Awakenings are irreversible.\n\n*Not all characters can be Dokkan Awakened.\nSome characters cannot be Z-Awakened after Dokkan \nAwakening.",
         "help_id": 5,
         "id": 11,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_5.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "*If after Dokkan Awakening the character's name changes, \ntheir Super Attack level will not increase when using them as \nTraining Partners.",
         "help_id": 5,
         "id": 12,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}Leader skills{color} are unique abilities which are activated by placing \nThe character in the Leader slot.",
         "help_id": 6,
         "id": 13,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When a Leader belonging to a Friend accompanies you on a \nquest, that character's Leader Skill will be activated as well.\n\nThe effects of Leader Skills will be active even if the Leader\nis not participating in the attack.\n\n*There are some events which have a condition where \n  \"The Leader Skill of the selected Friend will not be activated\".",
         "help_id": 6,
         "id": 14,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_6.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}Passive Skills{color} are abilities that are unique to different characters \nwhich activate under specific circumstances during a battle.\n\nA character's Passive Skill will activate during the turn when \nthat character is participating in the attack.\n\nThe required conditions for activation will vary according to \neach skill.\n\nThe required conditions for activation can be found under the \n\"Passive Skill\" section of \"Character Details\".",
         "help_id": 7,
         "id": 15,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": null,
         "help_id": 7,
         "id": 16,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_7.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Each character possesses a number of {color: #FFFF00}Link Skills{color}.\n\nWhen choosing the attack order during battle, if characters with \nthe same Link Skills are placed next to each other and the \nrequirement for each Link Skill is satisfied, these skills will \nautomatically activate.\n\nBut if the characters who are placed next to each other have \nThe same name, their Link Skills will not activate.",
         "help_id": 8,
         "id": 17,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can review the skill details under the \"Link Skills\" section of \n\"Character Details.\"",
         "help_id": 8,
         "id": 18,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_8_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Also, by touching \"Details\" button of each Link Skill, you can \nreview the characters who share the same Link Skill.",
         "help_id": 8,
         "id": 19,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_8_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "By registering a character as a {color: #FFFF00}\"Favorite,\"{color} you can prevent it\nfrom being used as a training partner, sold, or exchanged for\nTrade Pts. at Baba's Shop.\n\nTap the {color: #FFFF00}key icon{color} on the top right corner of the character page to\nfavorite or un-favorite a character.",
         "help_id": 9,
         "id": 20,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Characters you have favorited will be marked with a key icon in \nYour character list.",
         "help_id": 9,
         "id": 21,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/1_9.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The objective is to advance towards the goal while defeating \nopponents you encounter along the way.\n\nTo advance forward, tap on one of the \"Randomized number \nbuttons\" at the bottom of the screen and you will move the \nchosen amount of spaces.\n\n*The numbers on the \"Randomized number buttons\" are \ndecided randomly.",
         "help_id": 10,
         "id": 22,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When the path forks, you must choose \nwhich direction you wish to go.\n\nBe careful of what lies ahead as you move forward.",
         "help_id": 10,
         "id": 23,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The stages in normal Quests each have 3 different levels of \ndifficulty:\n{color: #3366FF}\"NORMAL,\"{color} {color: #FF9900}\"HARD\"{color} and {color: #FF0000}\"Z-HARD\"{color}",
         "help_id": 11,
         "id": 24,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "For normal Quests, at first you can only choose NORMAL,\nbut by clearing each difficulty level, the next level will become \navailable to you.\nIn higher difficulty levels, enemies will become stronger, but \nrewards such as Exp Points and Zeni will increase.\n\nIn certain stages, such as Events, you can choose any difficulty \nlevel right from the beginning.\nSome stages may not have 3 different levels of difficulty.",
         "help_id": 11,
         "id": 25,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "There are a variety of different Tiles on the map.\n\nGenerally, \n{color: #FF0000}Red{color} tiles indicate danger,\n{color: #0000FF}Blue{color} Tiles indicate a reward, And \n{color: #FFFF00}Yellow{color} Tiles indicate a random occurrence.\n\nDetails of each tile are below.",
         "help_id": 12,
         "id": 26,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Battle\" Tile{color}",
         "help_id": 12,
         "id": 27,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop at this tile, \nyou will enter a battle with an enemy.",
         "help_id": 12,
         "id": 28,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_11.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"STOP\" Tile{color}",
         "help_id": 12,
         "id": 29,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You are forced to stop at the STOP tile,\nand you will enter a battle with an enemy.",
         "help_id": 12,
         "id": 30,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_12.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Attack\" Tile{color}",
         "help_id": 12,
         "id": 31,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou will get attacked by an enemy and receive damage.",
         "help_id": 12,
         "id": 32,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_21.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Zeni\" Tile{color}",
         "help_id": 12,
         "id": 33,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain Zeni.",
         "help_id": 12,
         "id": 34,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_22.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Hoi-Poi Capsule{color}{color: #0000FF}(Blue){color}{color: #FFFF00}\" Tile{color}",
         "help_id": 12,
         "id": 35,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain a support item.",
         "help_id": 12,
         "id": 36,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_31.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Hoi-Poi Capsule{color}{color: #FF0000}(Red){color}{color: #FFFF00}\" Tile{color}",
         "help_id": 12,
         "id": 37,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain a training item.",
         "help_id": 12,
         "id": 38,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_32.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Hoi-Poi Capsule{color}{color: #CC66FF}(Purple){color}{color: #FFFF00}\" Tile{color}",
         "help_id": 12,
         "id": 39,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain an awakening medal.",
         "help_id": 12,
         "id": 40,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_41.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Ki boost\" Tile{color}",
         "help_id": 12,
         "id": 41,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\n1 of your team member's Ki will be boosted.",
         "help_id": 12,
         "id": 42,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_42.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Baba\" Tile{color}",
         "help_id": 12,
         "id": 43,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can trade items for Zeni.",
         "help_id": 12,
         "id": 44,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_51.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Dragon Ball\" Tile{color}",
         "help_id": 12,
         "id": 45,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain a Dragon Ball.",
         "help_id": 12,
         "id": 46,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_52.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Treasure\" Tile{color}",
         "help_id": 12,
         "id": 47,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nyou can obtain \"Treasure\".\nYou can exchange Treasure for\ncharacters or items at Baba's Shop.",
         "help_id": 12,
         "id": 48,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_61.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Potential Orb\" Tiles{color}",
         "help_id": 12,
         "id": 49,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Get Potential Orbs by stopping on these tiles.\nYou can use the orbs to activate\nyour characters' Hidden Potential.",
         "help_id": 12,
         "id": 50,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/MapIcon_s_13a.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"?\" Tile{color}",
         "help_id": 12,
         "id": 51,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "This tile indicates a random occurrence.\nWith the exception of some \"?\" Tiles,\nif you stop on this tile, one of the situations below occurs:\n\n　- Obtain Zeni\n　- Obtain an Item\n　- Boost Ki\n　- Receive damage",
         "help_id": 12,
         "id": 52,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_62.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Flying Nimbus\" Tile{color}",
         "help_id": 12,
         "id": 53,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you stop on this tile,\nYour team will hop on the Flying Nimbus,\nand fly to another tile on the map.",
         "help_id": 12,
         "id": 54,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_71.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}▼\"Goal\" Tile{color}",
         "help_id": 12,
         "id": 55,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The stage is cleared when you arrive at this tile.",
         "help_id": 12,
         "id": 56,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_3_72.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You must spend {color: #FFFF00}Stamina{color} to go on a Quest.",
         "help_id": 13,
         "id": 57,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The amount of Stamina required for a stage differs \naccording to difficulty level.\n\n1 Stamina Point (STA) is recovered every 5 minutes. \nYou can also use 1 Dragon Stone to restore your Stamina.\n\nThe amount of the Stamina restored is as below:\n*If your Maximum STA is 50 or more, your Stamina will be \n  restored to the maximum value.\n*If your Maximum STA is below 50, your Stamina will be \n  restored by 50 points.\n\nIf you restore your Stamina by using a Dragon Stone, the restored \nStamina can exceed the maximum value.\n\nFor example, if the maximum value of your STA is 100 \nand your remaining STA is 50,\nthe 100 restored STA will be added to your remaining 50 STA, \nand so your overall STA will become 150 temporarily.\n\nHowever, when selecting a stage to challenge, your original \nmaximum STA needs to exceed the STA required to challenge \nthe stage.\n\n*When you raise your Rank, your STA will be fully restored. Your \nmaximum Stamina Points may also increase when leveling up.",
         "help_id": 13,
         "id": 58,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_4.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Some stages contain {color: #FFFF00}Dragon Balls{color}.\n\nYou can confirm which stages have Dragon Balls in them \nby going to \"Home\" > \"Dragon Balls\" and then tapping on \none you haven't retrieved yet.\n\nWhen retrieving Dragon Balls, you must land on the exact Tile \nit's on to retrieve it, so plan carefully as you advance through \nThe Map.",
         "help_id": 14,
         "id": 59,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When you retrieve all 7 Dragon Balls you can {color: #FFFF00}make a wish{color}.",
         "help_id": 14,
         "id": 60,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_5_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Check the list to see what wishes you can make.\n\nPlease note that once you have collected every Dragon Ball \navailable at the moment, the Dragon Radar will not respond.\n\n*The whereabouts of the Dragon Balls will not change unless \nyou use up a wish.",
         "help_id": 14,
         "id": 61,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_5_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can quit during a Quest (including map and battle) by going \nto \"MENU\" on the bottom right side of your screen and selecting \n{color: #FFFF00}\"Abandon Quest.\"{color}",
         "help_id": 15,
         "id": 62,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you select \"Abandon Quest\" during a battle, you will resign \nnot only from the battle, but from the Quest as well.\n\nBy choosing to give up, you will lose all items obtained, except \nfor the character Exp Points gained in battle.",
         "help_id": 15,
         "id": 63,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/2_6.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "During battle, your {color: #FFFF00}Ki Meter{color} will rise according to the number of \n{color: #FFFF00}Ki Spheres{color} you've obtained, \nthus determining your attack strength.",
         "help_id": 17,
         "id": 64,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "\nWhen you obtain Ki Spheres that are the same color as your \nType, your Ki Meter will increase at {color: #FFFF00}double the usual rate{color} \nand you will regain a small amount of HP.\n\n*The Ki in your Ki Meter is only valid for one turn, so you must \nobtain new Ki every turn.\n\n*Your Ki Meter may already contain Ki due to your character's \nskill or the effect of a previously landed-on Tile.",
         "help_id": 17,
         "id": 65,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Each character has a Type. Below is the type compatibility chart:\n\n·{color: #FF3333}STR (Red){color}: Strong against{color: #FFCC00}PHY (Orange){color}, \n  weak against {color: #66CCCC}AGL (Blue){color}\n·{color: #66CCCC}AGL (Blue){color}: Strong against{color: #FF3333}STR (Red){color}, \n  weak against {color: #00CC00}TEQ (Green){color}\n·{color: #00CC00}TEQ (Green){color}: Strong against{color: #66CCCC}AGL (Blue){color}, \n  weak against {color: #CC66FF}INT (Purple){color}\n·{color: #CC66FF}INT (Purple){color}: Strong against{color: #00CC00}TEQ (Green){color}, \n  weak against {color: #FFCC00}PHY (Orange){color}\n·{color: #FFCC00}PHY (Orange){color}: Strong against{color: #CC66FF}INT (Purple){color}, \n  weak against {color: #FF3333}STR (Red){color}\n\nWhen you're up against a weaker Type, you'll do more damage, \nbut when you're up against a stronger Type, the enemy will \nguard against your attack and you'll do less damage.",
         "help_id": 18,
         "id": 66,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_3_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "In addition, if the character is  \"Z-Awakened,\" then \n{color: #FFFF00}\"Super\"{color} or {color: #FFFF00}\"Extreme\"{color} is added to their Type.\nWith either of these powered up Types, your damage against \na weaker Type is increased, along with your endurance against \na stronger Type.",
         "help_id": 18,
         "id": 67,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "*When a battle takes place between two \"Super\" Types, or two \n\"Extreme\" Types, the above chart still applies.\n\n*When a \"Super\" Type attacks an \"Extreme\" Type, or an \n\"Extreme\" Type attacks a \"Super\" Type, in both situations attack \ndamage increases.",
         "help_id": 18,
         "id": 68,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_3_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can switch which opponent you wish to attack by \ntapping the opponent's icon on the top of your \nbattle screen.",
         "help_id": 19,
         "id": 69,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The number on top of the enemy's icon \nindicates the number of turns left until the enemy's attack. \nThe enemy will attack on the turn that this number reaches 0.\n\nFight strategically by taking the characters' Types and attack \norder into consideration.\n\nYou can also tap the enemy icons at the bottom of the battle \nscreen to change the target you wish to attack.",
         "help_id": 19,
         "id": 70,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_4.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Your characters' attack order is displayed in the lower portion of \nthe battle screen. The order begins {color: #FFFF00}on the left{color} and continues \non to the right.\n\nYou can change the attack order of those characters whose \nKi Sphere path has not yet been chosen.",
         "help_id": 20,
         "id": 71,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When the enemy is the first to attack, they will attack the \ncharacter on the far left. In all other cases, enemies will target \nthe {color: #FFFF00}\"character who attacked just before them.\"{color}",
         "help_id": 20,
         "id": 72,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_5_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Be aware of the placing of the enemies' attack icons and \nstrategize against this by placing characters with higher \ndefense against them.",
         "help_id": 20,
         "id": 73,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_5_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When your character's Ki Meter reaches a certain level, that \ncharacter's {color: #FFFF00}Super Attack{color} will be activated.\n\nThe required amount of Ki can be checked on each character's \nCharacter Details screen.",
         "help_id": 21,
         "id": 74,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "For example, this character needs {color: #FFFF00}4{color} Ki Spheres to attack at 100% \npower, and {color: #FFFF00}12{color} Ki Spheres to launch their Super Attack, \naccording to the image above.",
         "help_id": 21,
         "id": 75,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_6.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When the {color: #FFFF00}Dokkan Gauge{color} below your HP bar is full and your \ncharacter's Super Attack is activated, you will enter \n{color: #FFFF00}Dokkan Mode{color}.",
         "help_id": 22,
         "id": 76,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Dokkan Mode will strengthen your Super Attack and allow it to \ndamage all your opponents.",
         "help_id": 22,
         "id": 77,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_7_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The Dokkan Gauge increases as you obtain Ki Spheres.\nWhen you obtain Ki spheres that are the same color as your Type, \nthe Dokkan Gauge will increase {color: #FFFF00}twice as much as usual{color}.\n\n*The Dokkan Gauge will reset once you leave a stage.",
         "help_id": 22,
         "id": 78,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_7_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can bring {color: #FFFF00}Support Items{color} with you on your Quest.",
         "help_id": 23,
         "id": 79,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Items have a variety of effects such as recovering your HP or \nstrengthening your attack. Try and choose the best items \nfor each stage.\n(However, the effects of all but a set number of items will not be \nrepeated if you use the same item in the same turn.)\n\nYou can increase the number of item slots you possess by using \nwishes granted by the Dragon Balls.\n\nIn addition, please note that there is a limit to how many of each \nitem you can bring on a Quest, and there are some items \nwhich cannot be used on the Map.",
         "help_id": 23,
         "id": 80,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/4_1.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "Gain more Exp Points by using {color: #FFFF00}Training Items{color} when Training.",
         "help_id": 24,
         "id": 81,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can use {color: #FFFF00}up to 5{color} items during a single training session.\n\nYou can get Training Items through Quests, Login Bonuses, \nBaba's Shop, etc..",
         "help_id": 24,
         "id": 82,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/4_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color: #FFFF00}Awakening Medals{color} are items that are required to Awaken \nyour characters.",
         "help_id": 25,
         "id": 83,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The type and quantity of items required for Awakening are \ndifferent for each character.\n\nYou can get Awakening Medals from Quests, Login Bonuses, \nBaba's Shop, etc..",
         "help_id": 25,
         "id": 84,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/4_3.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you choose a player who is your {color: #FFFF00}Friend{color} when going on Quests, \nyou can earn even more Friend Points.\n\nRaising your Rank may increase the maximum number of \nFriends you can have.\n\nMake lots of Friends to progress through Quests more effectively.",
         "help_id": 26,
         "id": 85,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If you have {color: #FFFF00}Friend Points{color} you can try {color: #FFFF00}Friend Summon{color}.",
         "help_id": 27,
         "id": 86,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can tap the \"Character List\" in the top-left corner of the \nSummon page to check the complete list of available \ncharacters in the Summon.\n\nYou receive 100 Friend Points by going on a Quest with a player \nwho is your Friend, and 50 Friend Points by going on \na Quest with any other player.\n\nNote that you can only receive points once a day per player, so \neven if you keep choosing the same player, you will not gain \nmore points.\n\n*You will not receive Friend Points if you choose a Friend with \na SPECIAL mark on their Friend slot.",
         "help_id": 27,
         "id": 87,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/5_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "There are 2 ways to transfer game data to another device.\n1. Facebook Linking\n2. Using a Transfer Code\n\nAny customer service requests regarding problems \nwhich occurred after data transfer via methods outside of \nthe ones mentioned above will not be accepted.\n\nPlease refrain from transferring your data \nvia methods other than the two mentioned above.\n\nPlease see below for more information on how to transfer data.\n\nData Transfer: 1 - Facebook Linking\n\n1. Go to \"Menu\" --> \"Device Transfer / Back Up\" --> Then, log into Facebook from the \"Facebook Linking Back-up\" screen.\n\n2. The game data will be linked to your Facebook account after \nlogging into Facebook.\n\n3. Install \"Dragon Ball Z Dokkan Battle\" onto the new device.\n\n4. Tap \"Transfer Device\" on the Title Screen --> Log into \nFacebook from the \"Transfer Game Data via Facebook\" screen to transfer data.\n\n* Some OS types do not support Facebook Linking. If your OS is \nnot supported, \"Facebook Linking Back-up\" and \"Transfer Game Data via Facebook\" will not be shown in the Menu.\n\n* Dragon Stones cannot be transferred between devices of \ndifferent OS types.\n\n* If there is a quest still in progress, its data will not be \ntransferred to the new device.\n\n* When transferring data using your Facebook account, any \npre-existing Device Transfer Code will become invalid. \n\n* Please only attempt data transfer in a place with a stable \nnetwork connection. The data may not be transferred correctly if the network connection is not stable.",
         "help_id": 28,
         "id": 88,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "2. Make a note of the \"User ID\" and \"Device Transfer Code\" \nthat will be displayed.\n3. Install \"Dragon Ball Z Dokkan Battle\" onto your new device.\n4. Select \"Device Transfer\" on the title screen, then on the \n\"Device Transfer Code Input\" screen, input the \"User ID\" and \n\"Device Transfer Code\" to complete the transfer.",
         "help_id": 28,
         "id": 89,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/8_1_1_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "*Since the Device Transfer button remains on the title screen, \nyou can still transfer data even after you have started a game.\n\n*Please note that Dragon Stones cannot be transferred when \nconducting a Device Transfer between different OS types.\n\n*If you transfer while you are in a Quest, that Quest's data will be \nlost.\n\n*The code will expire after 2 weeks. The password and expiry \ndate will be renewed every time you create a new code, and all \nprevious passwords will be invalidated.\n\n*After conducting a Data Transfer, the code used in the data \ntransfer will expire.\n\n*You cannot transfer game data to the same device that the \ndata originates from.",
         "help_id": 28,
         "id": 90,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/8_1_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "When resetting your app during a Quest, your game will continue \nfrom where you left off.\n\n*If your autosave data is deleted, all items and character \nExp Points obtained during the Quest will be lost. Also, please \nnote that the STA and any items used in the Quest will be lost \nas well.",
         "help_id": 29,
         "id": 91,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "You can claim various rewards by completing {color: #FFFF00}missions{color}.",
         "help_id": 30,
         "id": 92,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{center: begin}Korin Missions　/　Kami Missions{center}\n{center: begin}King Kai Missions　/　Special Missions{center}\n{center: begin}Supreme Kai's Trial{center}\n\nMissions are divided into the 5 types shown above.\nYou can challenge harder missions by raising your Rank.\n\nUnder \"Special Missions,\" there are time-limited missions which \nare linked with certain events.\nPlease note that you have to claim the Mission rewards for these \nkinds of Missions within the event period.\n\nAfter selecting one of the mission types, players can tap on the \n\"Details\" button on the mission list to identify the details and \nrewards for each mission.",
         "help_id": 30,
         "id": 93,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/6_1_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If an exclamation mark \"!\" shows on the Mission icon on the \nHome page, it indicates that you have rewards unclaimed.",
         "help_id": 31,
         "id": 94,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The amount of unclaimed rewards can be identified on the \nMission page.\n\nIn addition, a {color: #FFFF00}\"NEW\"{color} icon will appear if there are mission \n\"Details\" you haven't checked on.\n\n",
         "help_id": 31,
         "id": 95,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/6_2.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "On the Mission page, the \"Details\" button will turn into a \"Claim\" \none if the mission is complete.",
         "help_id": 32,
         "id": 96,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "The rewards will be distributed directly. Players don't have to \nclaim them on the Gift page.\n\n\nPlayers can check the \"Progress\" bar for each mission to \nidentify the current progress on the respective page \nof each mission type.\n\n(But if it is a mission with a condition like \"Clear a stage...\", \nthe progress bar will show the best record instead.)\n\n\nPlease note that for a time-limited mission, you cannot claim \nany reward from it if expired.",
         "help_id": 32,
         "id": 97,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/6_3.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "On the respective page of each mission type, players can tap on \nthe button to the lower right-corner to show the {color: #FFFF00}\"Ongoing\"{color}\nmissions or missions that are already {color: #FFFF00}\"Done\"{color}.",
         "help_id": 33,
         "id": 98,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "If the reward for a completed mission has been claimed, the \nmission will be moved to the \"Done\" page from the \n\"Ongoing\" page.\n\nPlayers can identify the details of completed missions and the \nrewards having been claimed on the Mission pages anytime.",
         "help_id": 33,
         "id": 99,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/6_4.png",
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.492833",
+        "created_at": "2019-07-05 03:19:55.931105",
         "description": "{color : #FFFF00}Baba's Shop{color} is a place where you can acquire various items by \nusing your Trade Points, Zeni and Treasure.  \n\n{size:25}{color : #FFFF00}▼Trade Points{color}{size}",
         "help_id": 34,
         "id": 100,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.492833"
+        "updated_at": "2019-07-05 03:19:55.931105"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·The items you can attain by using Trade Points change over time.\nYou can use Dragon Stones to update the items immediately. \n\n·The choice of available items are selected randomly.\n\n·Initially only 1 Item Slot is available. Use Trade Points to unlock more item slots.\n\n·Sometimes rare items or discounts can be found.\n\n\n{color : #FF0000}*The Zeni and Trade Points required for items may fluctuate \nwithout prior warning.{color}",
         "help_id": 34,
         "id": 101,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/7_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You can exchange characters and items for {color : #FFFF00}Trade Points{color}.\n\n",
         "help_id": 35,
         "id": 102,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·The amount of Trade Points you get from the exchange depends \non the character or item you offer. {color : #FF0000}Please note that characters \nand items cannot be retrieved once exchanged.{color} \n\n\n·There are also certain items that Baba will not accept.",
         "help_id": 35,
         "id": 103,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/7_2_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 35,
         "id": 104,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/7_2_2.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "There are also items that can be purchased with {color : #FFFF00}Zeni{color} at \nBaba's Shop.",
         "help_id": 36,
         "id": 105,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·After you purchase a certain item with Zeni, it will be restocked \nafter a certain period of time. \n\n·The available items you can purchase with Zeni are generally \nfixed and are rarely updated.",
         "help_id": 36,
         "id": 106,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 36,
         "id": 107,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/7_3.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "There are also items that can be purchased with {color : #FFFF00}Treasure{color} at \nBaba's Shop.",
         "help_id": 37,
         "id": 108,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·The required type and quantity of Treasure for exchange \ndepends on the item you desire. \n\n·Treasure can be obtained in the Quest starting from Area 16  \n\"Reunited\" and in specific events.",
         "help_id": 37,
         "id": 109,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/7_4.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·Some items have fixed periods of availability.\n\n·New Treasure types will be available from time to time.",
         "help_id": 37,
         "id": 110,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "·Baba's Shop is a place where you can exchange unneeded items\nfor Trade Points and purchase desired items with those Points. \n\n·If you've collected more Awakening Medals than you need,\nexchange them for Trade Points at Baba's Shop. \n\n· Conversely, you can also try your luck at Baba's Shop if you\n missed the chance to collect certain Medals in events as they\n might appear in Baba's Shop for trade. Keep an eye on the\n update timer for new stock!",
         "help_id": 38,
         "id": 111,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "During battle, characters may receive ATK boosts due to certain \nskills, or suffer abnormal effects upon receiving an enemy's \nattacks. \n\nThese changes will be indicated by icons shown on the \ntop right of the character.\n",
         "help_id": 39,
         "id": 112,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼ATK Up{color}",
         "help_id": 39,
         "id": 113,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's ATK increases.",
         "help_id": 39,
         "id": 114,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_11.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼DEF Up{color}",
         "help_id": 39,
         "id": 115,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's DEF increases.",
         "help_id": 39,
         "id": 116,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_13.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Ki Up{color}",
         "help_id": 39,
         "id": 117,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's Ki increases.",
         "help_id": 39,
         "id": 118,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_15.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼ATK Down{color}",
         "help_id": 39,
         "id": 119,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's ATK decreases.",
         "help_id": 39,
         "id": 120,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_17.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼DEF Down{color}",
         "help_id": 39,
         "id": 121,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's DEF decreases.",
         "help_id": 39,
         "id": 122,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_110.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Stunned{color}",
         "help_id": 39,
         "id": 123,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The character is unable to attack when stunned",
         "help_id": 39,
         "id": 124,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_12.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Sealed{color}",
         "help_id": 39,
         "id": 125,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Super Attack is sealed.",
         "help_id": 39,
         "id": 126,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_14.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Delayed{color}",
         "help_id": 39,
         "id": 127,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Shown on the enemy whose attack is delayed by Ghost Usher. \n* Consecutive uses of the Ghost Usher will not amplify its effect.",
         "help_id": 39,
         "id": 128,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_18.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Chance Time{color}",
         "help_id": 39,
         "id": 129,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Character's DEF drops to 0.",
         "help_id": 39,
         "id": 130,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_19.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}▼Switching Disabled{color}",
         "help_id": 39,
         "id": 131,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The attack order of the character with this mark \ncannot be switched.",
         "help_id": 39,
         "id": 132,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_8_16.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Characters with the Passive Skill \"{color : #FFFF00}Giant Ape Transformation{color}\"\nhave a rare chance to transform into Giant Apes.\n\nAfter the transformation, the Giant Ape will become your\nonly active character and will perform all attacks.",
         "help_id": 40,
         "id": 133,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Characters that transform into Giant Apes will experience\na significant ATK boost and will be immune to damage.\nIn addition, Giant Apes will not suffer from abnormal effects\nupon receiving enemies' attacks.\n\nAll attacks will take on the Type of the transformed character.\n\nDuring Giant Ape Transformation, the Dokkan Gauge will be\nfrozen, but it will resume once the transformation ends.\nDokkan Mode will not be triggered if the Dokkan Gauge is at max\nwhen the Giant Ape Transformation occurs.\n\nThere is a set probability that the transformation may end\nat the end of each turn.\n\nSkill effects that increase the probability or maximum number of\nGiant Ape Transformations can be added to the\nPassive Skill of characters who can transform into Giant Apes.\n\n* Support Items cannot be used during Giant Ape mode.\n\n* The maximum number of Giant Ape Transformation \ndiffers among characters.\n\n* The count for the number of times a character can\ntransform into a Giant Ape will be reset when the battle ends.",
         "help_id": 40,
         "id": 134,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/20160506-Help_08.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The basic battle rules are as follows.\nYou win when the HP of each enemy is reduced to 0, and \nyou lose when the total HP of your allies drops to 0.\nIf the total HP of your allies drops to 0, you can continue \nthe battle by using one Dragon Stone.",
         "help_id": 16,
         "id": 135,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Right after using a Continue, the unperformed actions of both \nallies and enemies in the turn, where your team HP reaches 0, \nwill be skipped. The battle will resume from the next turn, and \nallies will obtain the following effects: \n\n\n{color: #FFFF00} - Total HP of allies fully recovers\n\n - Ki +3 for all allies for 1 turn\n\n - Dokkan meter increases{color}\n\n\n*If \"Giant Ape Transformation\" takes place in the turn right after \nusing a Continue, the Ki +3 effect from the Continue will not \ncome into force.\n\n*Players cannot use Continues in some stages.",
         "help_id": 16,
         "id": 136,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/3_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Hidden Potential Activation is a feature that allows you \nto strengthen your characters further by accessing \nthe power that exists beyond their max level. \n\n* This feature is unrelated to the \"Hidden Potential\" \nthat is mentioned in Link Skills, character names, \nand so on. \n\nTo use this feature, you must fulfill the following requirements: \n\n1. You must be {color : #FFFF00}Rank 50 or higher{color}. \n\n2. You must clear Stage 2 \"Super Saiyan Goku\" of \nthe Event \"An Epic Showdown\" on {color : #FFFF00}Z-HARD{color}. \n\nActivating a character's Hidden Potential requires \nitems called {color : #FF00FF}Potential Orbs{color}. \nFurthermore, only characters with a rarity of UR or higher \ncan be developed further with Hidden Potential Activation. \n \n* Effects from a character's Hidden Potential will \nstay effective even if the character transforms into \nspecial states such as Giant Ape and Rage.",
         "help_id": 41,
         "id": 137,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Potential Orbs are required to activate a character's \nHidden Potential. As a general rule, you will need \nan Orb of the same Type as the character's Type.\n\nThere are three orb sizes: small (S), medium (M), and large (L). \nAs you progress in activating a character's Hidden Potential, \nthe size of Potential Orbs required will change.\n\nYou can obtain Potential Orbs by various means, \nincluding earning rewards in the weekly event \n\"Activate Your Hidden Potential\".",
         "help_id": 42,
         "id": 138,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 42,
         "id": 139,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_2.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The term \"Hidden Potential Stats\" refers to a character's \nHP, ATK and DEF that have been boosted by \nthe Hidden Potential Activation feature.\n",
         "help_id": 43,
         "id": 140,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The stats that will be boosted, and the types and \nnumber of Potential Orbs required will vary depending on \nthe node being activated.",
         "help_id": 43,
         "id": 141,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_3.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Hidden Potential Skills can be learned by activating \na character's Hidden Potential.\n\nThere are seven kinds of Hidden Potential Skills in total, \nand their chances of being activated, \nas well as the strength of their effect, \ngrow as you raise the skill's level.\n\n{size : 26}1. Combo Attack{size}",
         "help_id": 44,
         "id": 142,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Grants a rare chance of performing an {color : #FFFF00}extra attack{color}. \nThe higher the skill level, \nthe higher the chance of unleashing an extra attack.\n\n{size : 26}2. Critical{size}",
         "help_id": 44,
         "id": 143,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_01_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Grants a rare chance of performing a {color : #FFFF00}critical hit{color}. \nThis attack boosts damage, ignores the enemy's DEF, \nand is effective against all Types. The higher the skill level, \nthe higher the chance of performing a critical hit.\n\n{size : 26}3. Evasion{size}",
         "help_id": 44,
         "id": 144,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_02_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Grants a rare chance of {color : #FFFF00}evading an enemy's attack (including \nSuper Attack){color}. \nHowever, this doesn't work against certain abilities, \nincluding Passive Skills. The higher the skill level, \nthe higher the chance of evading successfully.\n\n{size : 26}4. Type ATK Boost{size}",
         "help_id": 44,
         "id": 145,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_03_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Slightly raises ATK{color} when AGL attacks STR, STR attacks PHY, \nPHY attacks INT, INT attacks TEQ, or TEQ attacks AGL, \nand it works for both Super or Extreme Types. \nThe effect increases along with the skill level.\n\n{size : 26}5. Type DEF Boost{size}",
         "help_id": 44,
         "id": 146,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_04_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Slightly lowers damage received{color} when AGL is attacked by STR, \nSTR is attacked by PHY, PHY is attacked by INT, \nINT is attacked by TEQ, and TEQ is attacked by AGL, \nand it works for both Super or Extreme Types. \nThe effect increases along with the skill level.\n\n{size : 24}6. Super Attack Boost{size}",
         "help_id": 44,
         "id": 147,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_05_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Slightly raises the power of a Super Attack.{color} \nAny additional effects of the Super Attack will not change. \nThe effect increases along with the skill level.\n\n{size : 26}7. Recovery Boost{size}",
         "help_id": 44,
         "id": 148,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_06_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Slightly raises the amount of HP recovered{color} when obtaining \na Ki Sphere that matches that character's Type. \nThe effect increases along with the skill level.",
         "help_id": 44,
         "id": 149,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/pot_skill_07_on.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Some nodes give you the choice to activate \none of several optional Hidden Potential Skills.{color} \nThe items required to activate each skill are the same, \nbut the number of levels raised may differ.\n\nOnce you've learned an optional skill, you can {color : #FFFF00}forget{color} it by \ntapping its node again. {color : #FFFF00}Any skill node you forget \nwill revert to its original state{color}.\n\nNote that you must use either Dragon Stones or \nan identical character to forget a skill.",
         "help_id": 45,
         "id": 150,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_4.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FF0000}Relearning a skill you've forgotten also requires Potential Orbs, \njust like when you first learned it{color}.\n\nThe nodes with optional skills are marked with a star.\n\n",
         "help_id": 45,
         "id": 151,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_senzai_20161121_13.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 45,
         "id": 152,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_5.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "There are four categories by which you can strengthen a \ncharacter, with each category branching in a different \ndirection on the board.\n\n{size : 26}1. Balance{size}\nExtends to the upper-left.\n{color : #FFFF00}Well-balanced development{color} of ATK, DEF and other stats, \nwith optional Hidden Potential Skills \nat the end of the additional route.\n\n{size : 26}2. Offense{size}\nExtends to the upper-right.\n{color : #FFFF00}Develop a character's ATK.{color} \n\n{size : 26}3. HP & Defense{size}\nExtends to the lower-left.\n{color : #FFFF00}Develop a character's HP and DEF.{color}\n\n{size : 26}4. High Growth{size}\nExtends to the lower-right.\n{color : #FFFF00}Boosted development of both ATK and DEF{color}, \nwith optional Hidden Potential Skills \nat the end of the additional route. \nHowever, you can only activate nodes on this route \n{color : #FFFF00}if the Super Attack is above a certain level{color}.\n\nLastly, strengthening a character by \nactivating the Hidden Potential {color : #FFFF00}is different for each character{color}, \nso the above information may not always apply.",
         "help_id": 46,
         "id": 153,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_6.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You may run into roadblocks while activating \na character's Hidden Potential. \nTo get past these obstacles and move on to further nodes, \nyou must use an {color : #FF0000}identical character{color} to the one \nwhose Hidden Potential that you are activating.",
         "help_id": 47,
         "id": 154,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "When you unlock an additional route, the block will change to \na regular stat node which can be activated with Potential Orbs.\n\n{color : #FFFF00}An additional route can be unlocked even if \nthe nodes leading up to it are still unactivated.{color} \n\n{color : #FFFF00}It doesn't matter whether the identical character \nyou use to unlock a route has been Z-Awakened or not{color}, \nbut {color : #FFFF00}Dokkan Awakened characters will be treated as different{color}.",
         "help_id": 47,
         "id": 155,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_senzai_20161121_07.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The four icons on the top-right of the screen indicate \nthe locked/unlocked status of additional routes.",
         "help_id": 47,
         "id": 156,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/potential_help_7.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Tapping one of these icons will jump straight to the place \nwhere an additional route can be unlocked.",
         "help_id": 47,
         "id": 157,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_senzai_20161121_08.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Reverse allows you to {color : #FFFF00}temporarily revert a transcended UR or \nhigher character to the pre-Dokkan Awakened status{color}.",
         "help_id": 48,
         "id": 158,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You can use this feature to unlock an additional \nHidden Potential route for Dokkan Awakened characters \nor when you have troubles with strengthening \na Dokkan Awakened character.\n\nReverse will change a character's stats and Super Attack level \nto those of their Reversed states, \nwhich means they may go down temporarily. \nHowever, the reversed characters can be restored to \ntheir previous status through the {color : #FFFF00}Reverse Dokkan Awakening{color}.\n\nReversing requires a special Awakening Medal called \n{color : #FF00FF}Incredible Hourglass{color}.",
         "help_id": 48,
         "id": 159,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/reverse_01.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You can obtain Incredible Hourglasses at Baba's Shop, \namong other places.",
         "help_id": 48,
         "id": 160,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/reverse_02.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "A Reverse Dokkan Awakening will restore Reversed characters \nto their Dokkan Awakened status. \nUnlike a normal Dokkan Awakening, \n{color : #FFFF00}this doesn't require any Awakening Medals or Zeni{color}.",
         "help_id": 49,
         "id": 161,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "After a Reverse Dokkan Awakening, \ncharacters are restored to their status before the Reverse. \nHowever, {color : #FFFF00}as with Z-Awakening and Dokkan Awakening, \nany activated Hidden Potential and boosted Super Attack levels \nwill be carried over.{color}",
         "help_id": 49,
         "id": 162,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/reverse_03.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Stun Immunity{color}",
         "help_id": 39,
         "id": 163,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Characters with this mark cannot be stunned.\nIf such a character is already stunned,\nthe stun effect will be removed.",
         "help_id": 39,
         "id": 164,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/st_1005.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{color : #FFFF00}Ki Blasts{color}",
         "help_id": 21,
         "id": 165,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Ki Boost {color}",
         "help_id": 39,
         "id": 166,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Characters with this mark can charge up more \nKi than normal when collecting Ki Spheres.\n\n*This does not apply to certain types of Ki Sphere.",
         "help_id": 39,
         "id": 167,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/st_2002.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Super Attacks displaying this icon are classified\nin the Ki Blasts category.",
         "help_id": 21,
         "id": 168,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/sp_skill_icon_01.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color : #FFFF00}Immunity to Super Attack Seal{color}",
         "help_id": 39,
         "id": 169,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The Super Attacks of characters with this mark can’t be sealed.",
         "help_id": 39,
         "id": 170,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/st_1007.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Button for Random Training Partners{outline}{color}{size}\nTapping the Random button for training partners automatically \nsets up to 5 characters with a rarity of N or R.",
         "help_id": 2,
         "id": 171,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_help_training_07.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Auto Button for Training Items{outline}{color}{size}\nBy tapping the Auto button, Training Items will be selected\nautomatically based on the amount of EXP required to level up \nthe character to the max level. Up to 50 Training Items of the \nsame Type will be set automatically (10 for each kind, and \n5 kinds at maximum). If you don't have enough Training Items \nfor your character to reach the max level, items will be set \nautomatically to get the character as close to max level as \npossible. Training Location effects are also taken into account.",
         "help_id": 2,
         "id": 172,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/help_training_09.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Raising Super Attack Level{outline}{color}{size}\nRaising a character's Super Attack Level will \nincrease the Super Attack power! To boost \nSuper Attack Level, choose the Training Partner \nexactly same as the Training Character or with a \nsame character name but a different Leader Skill. \nIf the Training Partner has the same name but a \ndifferent second name, there is still a chance of \na Super Attack level-up.",
         "help_id": 2,
         "id": 173,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_help_training_03_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Z-Awaken a same-name character you want to use as a Training\n Partner to increase the chance to level up a Super Attack. The \nchance of a Super Attack level-up is displayed when selecting a \nTraining Partner. These chances are counted separately for each\nTraining Partner selected, regardless of their Super Attack Level.",
         "help_id": 2,
         "id": 174,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/help_training_04.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "When you use the Training Partner exactly same as the Training \nCharacter (including Leader Skill), their Super Attack Levels are \nadded together.",
         "help_id": 2,
         "id": 175,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_howto_training_21.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Switch Button{outline}{color}{size}\nTap the Switch button to toggle between \"Until Next Level\" and \n\"Until Max Level\".\n",
         "help_id": 2,
         "id": 176,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_howto_training_31_1.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}Same Type Bonus{outline}{color}{size}\n\nUsing Training Partners and Training Items of the same Type as \nthe Training Character will grant extra 50% EXP.",
         "help_id": 2,
         "id": 177,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/help_training_05.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "\nThere is also a chance of an EXP bonus depending on whether \nthe training result is Big Success, Great Success or Super \nSuccess.\n\n* Please note that the Training Partners, Training Items and \nTraining Locations (except for Wasteland) used in Training will \nbe consumed.\n",
         "help_id": 2,
         "id": 178,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/help_training_06.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "{color: #FFFF00}Category{color} defines different groups to which characters belong.",
         "help_id": 50,
         "id": 179,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Building your teams with characters in the same Category \ntriggers Special Effects in certain stages or battles. \nThe activated Special Effect will differ between Categories.\n* Please note that some characters may not belong to any \nCategories.\n* Please note that Categories are subject to be added or changed \nwithout prior notice.",
         "help_id": 50,
         "id": 180,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/news_banner_category_help_01.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Extreme Z-Awakening raises the limit of a character's \nmax level and its Super Attack level, \nallowing a character to become even more powerful. \n\nThe Awakening Medals required for \nExtreme Z-Awakening each character is different. \nYou can get the required Awakening Medals \nin the corresponding Extreme Z-Battle. \n\nCheck the Awakening screen after Extreme Z-Awakening \nto see how much a character has powered up! \n\nNote: Characters must be at their max level \nbefore they can be Extreme Z-Awakened.",
         "help_id": 51,
         "id": 181,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 51,
         "id": 182,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_02.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Extreme Z-Battle is a super-difficult event where you'll\nbattle enemies that get stronger each time you defeat them.\n\nNo Continues or Support Items are \nallowed in Extreme Z-Battle, \nbut no STA will be consumed \nunless you retry a level you have already cleared.",
         "help_id": 52,
         "id": 183,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_battle_tute_4.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Each time you defeat an enemy in Extreme Z-Battle, \nthe enemy will level up, \nmaking the battle tougher! \n\nOther than changes to the HP, ATK, DEF parameters, \nother special changes may also occur \nafter an enemy levels up. ",
         "help_id": 53,
         "id": 184,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You can tell how powerful an enemy \nhas become from his or her level-up animation and \nthe information provided in the Battle Info dialog.",
         "help_id": 53,
         "id": 185,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_06.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 53,
         "id": 186,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_01_2.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Boosts from the latest level increase will be shown in yellow. \n\nThe Battle Info dialog also provides information \non ally characters that are effective against the enemy.",
         "help_id": 53,
         "id": 187,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_04.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 53,
         "id": 188,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_05.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Extreme Z-Battle has \na checkpoint every few levels. \n\nAfter clearing a checkpoint level, \nyou can rechallenge it by consuming STA. \n\nTo rechallenge, select the enemy's level \nby tapping the \"Select Lv\" button.",
         "help_id": 54,
         "id": 189,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "The highest level you reach will not reset even if you\nretry a level you have already cleared.\nYou can return to the highest level reached\nat any time by tapping the \"Select Lv\" button.",
         "help_id": 54,
         "id": 190,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_battle_tute_3_2.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "There are two types of rewards \nthat you can obtain from Extreme Z-Battles: \n1) Clear a level for the first time \n2) Reclear a checkpoint level.  \n\nRewards obtained upon reclearing a stage \nare determined randomly. \n\nIn addition, you may get the Awakening Medals required \nfor Extreme Z-Awakening by clearing levels. \nIn general, the higher the level of the enemy you defeat, \nthe better your chances of obtaining rare Awakening Medals. \n\nTap the \"Rewards\" button \nfor information on obtainable rewards.",
         "help_id": 55,
         "id": 191,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "You can also view some of the available rewards \nwhen selecting a level.",
         "help_id": 55,
         "id": 192,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_00_2.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": null,
         "help_id": 55,
         "id": 193,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/z_help_03.png",
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Activating this node with Potential Orbs raises a character's HP.",
         "help_id": 56,
         "id": 194,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "In general, routes extending to the upper left develop \nHP, ATK, and DEF in a {color : #FFFF00}well-balanced manner{color}. \nWith routes extending to the lower right, \nyou can only activate nodes when a character's Super Attack  \nhas reached a certain level, but {color : #FFFF00}higher growth can be expected{color}. \n\n{color : #FF0000}*The size and quantity of Potential Orbs required as well as \nthe stats to be boosted differ by node.{color}",
         "help_id": 56,
         "id": 195,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Activating this node with Potential Orbs raises a character's ATK.",
         "help_id": 57,
         "id": 196,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "With routes extending to the upper right, \n{color : #FFFF00}ATK-focused growth{color} can be expected. \n\n{color : #FF0000}*The size and quantity of Potential Orbs required as well as \nthe stats to be boosted differ by node.{color}",
         "help_id": 57,
         "id": 197,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "Activating this node with Potential Orbs raises a character's DEF.",
         "help_id": 58,
         "id": 198,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "With routes extending to the lower left, \n{color : #FFFF00}HP and DEF-focused growth{color} can be expected. \n\n{color : #FF0000}*The size and quantity of Potential Orbs required as well as \nthe stats to be boosted differ by node.{color}",
         "help_id": 58,
         "id": 199,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.514092",
+        "created_at": "2019-07-05 03:19:55.950958",
         "description": "There are seven kinds of Hidden Potential Skills in total. \nThe higher the sum of the level activated, \nthe higher the chances of the skills being activated and \nthe greater the effect of the skills.",
         "help_id": 59,
         "id": 200,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.514092"
+        "updated_at": "2019-07-05 03:19:55.950958"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "For more information on Hidden Potential Skills, \ntap the Skill icons on the upper part of the screen.",
         "help_id": 59,
         "id": 201,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}= About the Portal of Memories ={outline}{color}{size}\nThis feature grants access to past events.",
         "help_id": 61,
         "id": 203,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": null,
         "help_id": 61,
         "id": 204,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/event_kagi_help_01.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": null,
         "help_id": 61,
         "id": 205,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/event_kagi_help_02.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "* You must have the corresponding Keys \nto challenge an event. \n* The Keys are consumable items.\n* Missions that come with time-limited events \ncannot be completed. (Exceptions may apply.)\n* The stages' contents & rewards will be the same \nas the ones from the events held in the past.\n* Treasure Items obtained from the Portal of Memories \ncan be used only when the corresponding section is \navailable at Baba's Shop. \n* Selectable stages will be added in the future.\n* Stage Clear Details from \"Event\" will be \ncarried over to the Portal of Memories. \n{color : #FFFF00}[Info that will be carried over \nbetween Event and Portal of Memories]{color}\n- Stage Clear Details\n- Previous Deck\n- Clear Record \n- Level Reached in Extreme Z-Battle \n\n{size : 24}{color : #FFFF00}{outline : #FF0000, 2}- Reopening Events{outline}{color}{size}\nOn the \"Event\" page, a notice will be shown in \nthe bottom-right corner shortly before the \nreopening events are available. \nThe text will change to \"Event Coming Soon\" \none day before the events reopen.",
         "help_id": 61,
         "id": 206,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/event_kagi_help_03.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}- In Preparation{outline}{color}{size}\nWhen the event is in preparation,\nyou will not be able to challenge the event\nand its button will be grayed out.",
         "help_id": 61,
         "id": 207,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/event_kagi_help_04.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}- Limited{outline}{color}{size}\nIn the Portal of Memories, there are special\nevents that require a \"Limited Key\" to challenge.\n\"Limited\" contents will be updated in the future.",
         "help_id": 61,
         "id": 208,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/event_kagi_help_05.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": null,
         "help_id": 61,
         "id": 209,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}= About Keys ={outline}{color}{size}\nKeys are required to challenge events \nfrom the Portal of Memories.",
         "help_id": 62,
         "id": 210,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}- Using Keys{outline}{color}{size}\nThe type and number of Keys required will vary\ndepending on the event.",
         "help_id": 62,
         "id": 211,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/kagi_help_01.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "Keys can be obtained via various ways \nsuch as Login Bonus and missions.",
         "help_id": 62,
         "id": 212,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/kagi_help_02.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size : 24}{color : #FFFF00}{outline : #FF0000, 2}= Supreme Kai's Trial ={outline}{color}{size} \nYou can take on high difficulty Trials in each stage.\nComplete these Trials to get exclusive special Treasures \nas rewards.\n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}- How to Play{outline}{color}{size}\n{color: #FFFF00}Step 1: Check Available Trials!{color}\nCheck the information of Trials and rewards of each stage.",
         "help_id": 30,
         "id": 213,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{color: #FFFF00}Step 2: Take on a Trial!{color}\nAfter checking the Trial and rewards, proceed to the Stage.",
         "help_id": 30,
         "id": 214,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{color: #FFFF00}Step 3: Choose Difficulty!{color}\nThe difficulties where you can take on \"Supreme Kai's Trial\" \nwill be marked with a scroll icon.",
         "help_id": 30,
         "id": 215,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{color: #FFFF00}Step 4: Confirm Trial Result!{color}\nThe completed Trials will be marked with a \"Success\" stamp. \nYou will get the rewards upon completing the Trial.",
         "help_id": 30,
         "id": 216,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "The special Treasures obtained from \nthe Trials can be exchanged for goods at Baba's Shop.\n* More trials to be added in the future.",
         "help_id": 30,
         "id": 217,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= What Are Active Skills? ={outline}{color}{size} \nThese are special skills that belong only to certain characters.\nThey can be activated in battle when certain conditions are met.",
         "help_id": 63,
         "id": 218,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}- Activating Active Skills{outline}{color}{size} \nTap the icon of a character whose Active Skill is \nready to be activated and swipe up. Let go when \"Release!\" \nappears to activate the skill.",
         "help_id": 63,
         "id": 219,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/activeskill_help_02.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": null,
         "help_id": 63,
         "id": 220,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/activeskill_help_03.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= What Are Active Skills? ={outline}{color}{size} \nThese are special skills that belong only to certain characters. \nThey can be activated in battle at any time once \ncertain conditions are met. \nThe conditions required to activate Active Skills differ \nfrom skill to skill, as do their effects. \n\nYou can check the activation conditions and the skill's effects \nfrom \"Active Skill\" found on the \"Character Details\" page. \nIn general, Active Skills can be used once per battle.",
         "help_id": 64,
         "id": 221,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "The \"Active Skill\" option will not appear for \ncharacters who do not possess an Active Skill.",
         "help_id": 64,
         "id": 222,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/activeskill_help_01.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "{size: 25}{outline: #FF0000, 2}{color: #FFFF00}= What Is Transformation? ={outline}{color}{size} \nThis is a Passive Skill that belongs to certain characters. \nIt can only be activated in battle during the character's \nattacking turn when certain conditions are met. \nThe conditions required to activate Transformation differ from \nskill to skill. Transformation can only be used once per battle. \n* Some characters can deactivate then reactivate \ntheir Transformation in the same battle. \nThe Transformation will be deactivated automatically \nwhen a battle ends. \n\nYou can check the activation conditions and \nthe character's stats after Transformation by tapping \nthe \"Transformation Button\" (\"Fusion Button\" in the image) \nfound at the top of the \"Character Details\" page.",
         "help_id": 65,
         "id": 223,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "The \"Transformation Button\" will not appear for \ncharacters who do not possess a Transformation. \n\n{color: #FFFF00}- Performing Link Skills After Transformation{color} \nCharacters who can Transform (Fusion, Special Fusion etc.) \ncan still activate their Link Skills when placed next to \ncharacters with the same name, but different second name, \nafter Transformation.",
         "help_id": 65,
         "id": 224,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/transform_help_01.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "* Turns that pass during special conditions, such \nas Giant Ape mode, will not be counted toward \nthe required turns necessary for Transformation.",
         "help_id": 65,
         "id": 225,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/transform_help_02.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "Reward Boost is {color : #FFFF00}a feature that increases the number of \nrewards obtainable from a stage{color}.\n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Reward Boost Effect ={outline}{color}{size}\n\nThis feature increases the number of rewards obtainable \nfrom a stage.\n{color : #FFFF00}Increased Rewards:{color}\n- Rewards obtained from the map.\n- Rewards obtained upon victory.\n- Rewards obtained upon clearing a stage.",
         "help_id": 66,
         "id": 226,
         "image": null,
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "* This feature will not be applicable for certain rewards, \nsuch as those obtained from \"Baba\" tiles and \n\"Dragon Ball\" tiles.\n* Bonus rewards from the special effect of Categories are \nconsidered rewards obtained upon victory, thus can also \nbe increased through Reward Boost.\n* For rewards obtained upon victory, those obtained \nthrough Reward Boost will be randomly selected.\nAs a result, you may not receive multiple rewards of \nthe same kind.\n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= How to Use Reward Boost ={outline}{color}{size}\n\nReward Boost can only be used in stages that have already \nbeen cleared.\nYou can turn on this feature by tapping the button \nlocated on the difficulty selection screen.\n\nWhen using Reward Boost, the STA required \nfor challenging a stage will increase.",
         "help_id": 66,
         "id": 227,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/boost_result.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     },
     {
-        "created_at": "2019-06-28 06:29:41.529300",
+        "created_at": "2019-07-05 03:19:55.964704",
         "description": "* Reward Boost cannot be used in a difficulty that hasn't \nbeen cleared.\n* Reward Boost cannot be used on certain stages, \neven if they have been cleared.\n* Your maximum STA must exceed the STA \nto be consumed when using the Reward Boost feature.\n\n{size: 24}{outline: #FF0000, 2}{color: #FFFF00}= Limited Uses = {outline}{color}{size}\n\nThis feature has a limitation on the number of uses.\nYou will temporarily be unable to use this feature \nwhen the number of uses becomes 0.\nThe number of uses will restore by 1 after \na certain period of time.",
         "help_id": 66,
         "id": 228,
         "image": "https://d1rogo3tpc9ikq.cloudfront.net/images/en/help/boost_difficulty.png",
-        "updated_at": "2019-06-28 06:29:41.529300"
+        "updated_at": "2019-07-05 03:19:55.964704"
     }
 ]

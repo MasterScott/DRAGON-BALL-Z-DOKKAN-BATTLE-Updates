@@ -9,7 +9,7 @@
         "required_stone_to_change_item": 1,
         "start_at": "2016-05-31 20:00:00",
         "type": "Shop::ExchangePointShop",
-        "updated_at": "2019-06-28 06:30:00.693451"
+        "updated_at": "2019-07-05 03:20:15.354889"
     },
     {
         "close_at": "2999-12-31 01:00:00",
@@ -21,7 +21,7 @@
         "required_stone_to_change_item": 0,
         "start_at": "2016-05-31 20:00:00",
         "type": "Shop::ZeniShop",
-        "updated_at": "2019-06-28 06:30:00.693451"
+        "updated_at": "2019-07-05 03:20:15.354889"
     },
     {
         "close_at": "2999-12-31 01:00:00",
@@ -33,7 +33,7 @@
         "required_stone_to_change_item": 0,
         "start_at": "2016-05-31 20:00:00",
         "type": "Shop::TreasureShop",
-        "updated_at": "2019-06-28 06:30:00.693451"
+        "updated_at": "2019-07-05 03:20:15.354889"
     },
     {
         "close_at": "2016-12-13 07:59:59",
@@ -45,7 +45,7 @@
         "required_stone_to_change_item": 1,
         "start_at": "2016-10-25 08:00:00",
         "type": "Shop::ExchangePointShop",
-        "updated_at": "2019-06-28 06:30:00.693451"
+        "updated_at": "2019-07-05 03:20:15.354889"
     },
     {
         "close_at": "2020-07-25 08:00:00",
@@ -57,6 +57,6 @@
         "required_stone_to_change_item": 0,
         "start_at": "2020-07-01 08:00:00",
         "type": "Shop::RewardCampaignShop",
-        "updated_at": "2019-06-28 06:30:00.693451"
+        "updated_at": "2019-07-05 03:20:15.354889"
     }
 ]

@@ -937,7 +937,7 @@
     },
     {
         "area_id": null,
-        "conditions": "{\"scouter_break_gasha_ids\":[76,143,318,454,495,569,589,591,592]}",
+        "conditions": "{\"scouter_break_gasha_ids\":[76,143,318,454,495,569,589,591,592,594]}",
         "created_at": "2019-06-28 02:07:48",
         "description": "【七夕】ポルンガドラゴンボールキャンペーン",
         "end_at": "2019-07-30 03:59:59",
@@ -950,7 +950,7 @@
         "start_at": "2019-07-04 04:00:00",
         "target_value": 1,
         "type": "Mission::ClientSideMission",
-        "updated_at": "2019-06-28 02:07:48",
+        "updated_at": "2019-07-05 02:02:12",
         "z_battle_stage_id": null
     },
     {

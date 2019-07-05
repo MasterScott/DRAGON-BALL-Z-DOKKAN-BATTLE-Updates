@@ -1,18 +1,18 @@
 [
     {
         "campaign_id": 998,
-        "created_at": "2019-06-28 06:29:42.916693",
+        "created_at": "2019-07-05 03:19:57.395584",
         "id": 1,
         "mission_id": 9998,
         "name": "Common Serial Code",
-        "updated_at": "2019-06-28 06:29:42.916693"
+        "updated_at": "2019-07-05 03:19:57.395584"
     },
     {
         "campaign_id": 999,
-        "created_at": "2019-06-28 06:29:42.916693",
+        "created_at": "2019-07-05 03:19:57.395584",
         "id": 2,
         "mission_id": 9999,
         "name": "Unique Serial Code",
-        "updated_at": "2019-06-28 06:29:42.916693"
+        "updated_at": "2019-07-05 03:19:57.395584"
     }
 ]

@@ -33,7 +33,7 @@
     },
     {
         "name": "battle_params",
-        "seq": 1222
+        "seq": 1311
     },
     {
         "name": "beginners_guides",
@@ -253,7 +253,7 @@
     },
     {
         "name": "mission_periods",
-        "seq": 911345
+        "seq": 911348
     },
     {
         "name": "mission_rewards",
@@ -337,7 +337,7 @@
     },
     {
         "name": "quest_category_bonus_rarity_tables",
-        "seq": 30
+        "seq": 37
     },
     {
         "name": "quest_category_bonuses",
@@ -461,7 +461,7 @@
     },
     {
         "name": "title_screens",
-        "seq": 26
+        "seq": 28
     },
     {
         "name": "training_fields",
