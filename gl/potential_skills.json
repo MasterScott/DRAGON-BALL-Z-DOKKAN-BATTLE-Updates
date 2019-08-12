@@ -19,7 +19,7 @@
         "probability": 0,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "probability"
     },
     {
@@ -42,7 +42,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value1"
     },
     {
@@ -65,7 +65,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value1"
     },
     {
@@ -88,7 +88,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value1"
     },
     {
@@ -111,7 +111,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value1"
     },
     {
@@ -134,7 +134,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value1"
     },
     {
@@ -157,7 +157,7 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-08-08 01:55:14.427818",
+        "updated_at": "2019-08-12 01:41:30.271685",
         "variable_column": "eff_value2"
     }
 ]
