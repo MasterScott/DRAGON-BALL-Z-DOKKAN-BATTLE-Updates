@@ -2,7 +2,7 @@
     {
         "active_skill_set_id": 13,
         "calc_option": 2,
-        "created_at": "2019-07-05 03:19:31.883352",
+        "created_at": "2019-08-08 01:54:39.501903",
         "eff_val1": 33,
         "eff_val2": 0,
         "eff_val3": 0,
@@ -12,12 +12,12 @@
         "sub_target_type_set_id": 0,
         "target_type": 2,
         "thumb_effect_id": 1408,
-        "updated_at": "2019-07-05 03:19:31.883352"
+        "updated_at": "2019-08-08 01:54:39.501903"
     },
     {
         "active_skill_set_id": 18,
         "calc_option": 0,
-        "created_at": "2019-07-05 03:19:31.883352",
+        "created_at": "2019-08-08 01:54:39.501903",
         "eff_val1": 24,
         "eff_val2": 0,
         "eff_val3": 0,
@@ -27,12 +27,12 @@
         "sub_target_type_set_id": 0,
         "target_type": 1,
         "thumb_effect_id": 5014,
-        "updated_at": "2019-07-05 03:19:31.883352"
+        "updated_at": "2019-08-08 01:54:39.501903"
     },
     {
         "active_skill_set_id": 18,
         "calc_option": 2,
-        "created_at": "2019-07-05 03:19:31.883352",
+        "created_at": "2019-08-08 01:54:39.501903",
         "eff_val1": 48,
         "eff_val2": 0,
         "eff_val3": 0,
@@ -42,6 +42,6 @@
         "sub_target_type_set_id": 0,
         "target_type": 1,
         "thumb_effect_id": 5011,
-        "updated_at": "2019-07-05 03:19:31.883352"
+        "updated_at": "2019-08-08 01:54:39.501903"
     }
 ]

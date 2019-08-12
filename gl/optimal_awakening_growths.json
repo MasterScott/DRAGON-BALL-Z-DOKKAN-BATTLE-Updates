@@ -1512,6 +1512,132 @@
         "step": 7
     },
     {
+        "id": 190,
+        "leader_skill_id": 1011341,
+        "lv_max": 125,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1438,
+        "skill_lv_max": 10,
+        "step": 1
+    },
+    {
+        "id": 191,
+        "leader_skill_id": 1011341,
+        "lv_max": 125,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1438,
+        "skill_lv_max": 11,
+        "step": 2
+    },
+    {
+        "id": 192,
+        "leader_skill_id": 1011341,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1439,
+        "skill_lv_max": 11,
+        "step": 3
+    },
+    {
+        "id": 193,
+        "leader_skill_id": 1011341,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1439,
+        "skill_lv_max": 12,
+        "step": 4
+    },
+    {
+        "id": 194,
+        "leader_skill_id": 1011342,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1439,
+        "skill_lv_max": 13,
+        "step": 5
+    },
+    {
+        "id": 195,
+        "leader_skill_id": 1011342,
+        "lv_max": 135,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1439,
+        "skill_lv_max": 14,
+        "step": 6
+    },
+    {
+        "id": 196,
+        "leader_skill_id": 1011342,
+        "lv_max": 140,
+        "optimal_awakening_grow_type": 29,
+        "passive_skill_set_id": 1440,
+        "skill_lv_max": 15,
+        "step": 7
+    },
+    {
+        "id": 197,
+        "leader_skill_id": 1016581,
+        "lv_max": 125,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1441,
+        "skill_lv_max": 10,
+        "step": 1
+    },
+    {
+        "id": 198,
+        "leader_skill_id": 1016581,
+        "lv_max": 125,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1441,
+        "skill_lv_max": 11,
+        "step": 2
+    },
+    {
+        "id": 199,
+        "leader_skill_id": 1016581,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1442,
+        "skill_lv_max": 11,
+        "step": 3
+    },
+    {
+        "id": 200,
+        "leader_skill_id": 1016581,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1442,
+        "skill_lv_max": 12,
+        "step": 4
+    },
+    {
+        "id": 201,
+        "leader_skill_id": 1016582,
+        "lv_max": 130,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1442,
+        "skill_lv_max": 13,
+        "step": 5
+    },
+    {
+        "id": 202,
+        "leader_skill_id": 1016582,
+        "lv_max": 135,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1442,
+        "skill_lv_max": 14,
+        "step": 6
+    },
+    {
+        "id": 203,
+        "leader_skill_id": 1016582,
+        "lv_max": 140,
+        "optimal_awakening_grow_type": 30,
+        "passive_skill_set_id": 1443,
+        "skill_lv_max": 15,
+        "step": 7
+    },
+    {
         "id": 204,
         "leader_skill_id": 100970,
         "lv_max": 125,

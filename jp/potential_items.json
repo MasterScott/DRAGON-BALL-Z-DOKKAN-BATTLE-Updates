@@ -1,515 +1,542 @@
 [
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 1,
         "name": "速の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 2,
         "name": "技の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 3,
         "name": "知の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 4,
         "name": "力の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 5,
         "name": "体の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 6,
         "name": "速の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 7,
         "name": "技の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 8,
         "name": "知の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 9,
         "name": "力の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 10,
         "name": "体の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 11,
         "name": "速の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 100,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 12,
         "name": "技の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 100,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 13,
         "name": "知の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 100,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 14,
         "name": "力の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 100,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2016-11-29 03:06:40",
+        "created_at": "2019-07-22 00:51:01",
         "description": "一部キャラクターの潜在能力を解放することができる、\n不思議な力を秘めた気の塊。",
         "id": 15,
         "name": "体の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 100,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-05-08 02:22:02",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「悟空外伝!勇気の証しは四星球」で仲間になる\n「孫悟空Jr.」「超サイヤ人孫悟空Jr.」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 16,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-05-08 02:22:02",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「悟空外伝!勇気の証しは四星球」で仲間になる\n「孫悟空Jr.」「超サイヤ人孫悟空Jr.」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 17,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-05-08 02:22:02",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「悟空外伝!勇気の証しは四星球」で仲間になる\n「孫悟空Jr.」「超サイヤ人孫悟空Jr.」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 18,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-05-08 02:22:02"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-07-28 02:18:13",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「レッツゴー！ステキな恋人さがし」で\n仲間になる「ブルマ(少女期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 19,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-07-28 02:18:13"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-07-28 02:18:13",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「レッツゴー！ステキな恋人さがし」で\n仲間になる「ブルマ(少女期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 20,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-07-28 02:18:13"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2017-07-28 02:18:13",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「レッツゴー！ステキな恋人さがし」で\n仲間になる「ブルマ(少女期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 21,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2017-07-28 02:18:13"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-01-27 00:14:23",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「大激闘!!ナメック星」で\n仲間になる「孫悟飯(幼年期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 22,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-01-27 00:14:23"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-01-27 00:14:23",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「大激闘!!ナメック星」で\n仲間になる「孫悟飯(幼年期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 23,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-01-27 00:14:23"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-01-27 00:14:23",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「大激闘!!ナメック星」で\n仲間になる「孫悟飯(幼年期)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 24,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-01-27 00:14:23"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「バータ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 25,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「バータ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 26,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「バータ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 27,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「グルド」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 28,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「グルド」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 29,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「グルド」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 30,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ギニュー」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 31,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ギニュー」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 32,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ギニュー」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 33,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ジース」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 34,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ジース」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 35,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「ジース」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 36,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「リクーム」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 37,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「リクーム」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 38,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-02-20 02:15:32",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ギニュー特戦隊のスペシャルトレーニング」で\n仲間になる「リクーム」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 39,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-02-20 02:15:32"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-08-27 02:07:20",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！恐怖のギニュー特戦隊」で\n仲間になる「ピッコロ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 40,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-08-27 02:07:20"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-08-27 02:07:20",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！恐怖のギニュー特戦隊」で\n仲間になる「ピッコロ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 41,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-08-27 02:07:20"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-08-27 02:07:20",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！恐怖のギニュー特戦隊」で\n仲間になる「ピッコロ」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 42,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-08-27 02:07:20"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-09-12 02:09:12",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「チビッコレンジャー！」で仲間になる\n「トランクス(幼年期)&孫悟天(幼年期)&マーロン」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 43,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-09-12 02:09:12"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-09-12 02:09:12",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「チビッコレンジャー！」で仲間になる\n「トランクス(幼年期)&孫悟天(幼年期)&マーロン」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 44,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-09-12 02:09:12"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2018-09-12 02:09:12",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「チビッコレンジャー！」で仲間になる\n「トランクス(幼年期)&孫悟天(幼年期)&マーロン」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 45,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2018-09-12 02:09:12"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-01-28 02:04:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「砂漠でレスキュー！ギルの大活躍！」で\n仲間になる「ギル」の潜在能力を解放することができる\n不思議な力を秘めた気の塊",
         "id": 46,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-01-28 02:04:11"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-01-28 02:04:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「砂漠でレスキュー！ギルの大活躍！」で\n仲間になる「ギル」の潜在能力を解放することができる\n不思議な力を秘めた気の塊",
         "id": 47,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-01-28 02:04:11"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-01-28 02:04:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「砂漠でレスキュー！ギルの大活躍！」で\n仲間になる「ギル」の潜在能力を解放することができる\n不思議な力を秘めた気の塊",
         "id": 48,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-01-28 02:04:11"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-02-14 03:06:21",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ドラゴンボールGT ~七匹の邪悪龍編~」で\n仲間になる「ベジータJr.」「超サイヤ人ベジータJr.」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 49,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-02-14 03:06:21"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-02-14 03:06:21",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ドラゴンボールGT ~七匹の邪悪龍編~」で\n仲間になる「ベジータJr.」「超サイヤ人ベジータJr.」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 50,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-02-14 03:06:21"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-02-14 03:06:21",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「ドラゴンボールGT ~七匹の邪悪龍編~」で\n仲間になる「ベジータJr.」「超サイヤ人ベジータJr.」の\n潜在能力を解放することができる不思議な力を秘めた気の塊",
         "id": 51,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-02-14 03:06:21"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-03-31 13:33:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！DOKKAN武闘伝」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊",
         "id": 52,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-03-31 13:33:11"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-03-31 13:33:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！DOKKAN武闘伝」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊",
         "id": 53,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-03-31 13:33:11"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-03-31 13:33:11",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「対決！DOKKAN武闘伝」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊",
         "id": 54,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-03-31 13:33:11"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-05-30 02:07:42",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「激震！！フリーザ最終決戦」で\n仲間になる「フリーザ(第二形態)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 55,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-05-30 02:07:42"
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-05-30 02:07:42",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「激震！！フリーザ最終決戦」で\n仲間になる「フリーザ(第二形態)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 56,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-05-30 02:07:42"
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-22 00:51:01"
     },
     {
-        "created_at": "2019-05-30 02:07:42",
+        "created_at": "2019-07-22 00:51:01",
         "description": "イベント「激震！！フリーザ最終決戦」で\n仲間になる「フリーザ(第二形態)」の潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
         "id": 57,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 0,
-        "updated_at": "2019-05-30 02:07:42"
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-22 00:51:01"
+    },
+    {
+        "created_at": "2019-07-29 02:04:29",
+        "description": "イベント「出現!!謎の怪物セル」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 58,
+        "name": "潜在能力玉(小)",
+        "rarity": 0,
+        "selling_exchange_point": 5,
+        "updated_at": "2019-07-29 02:04:29"
+    },
+    {
+        "created_at": "2019-07-29 02:04:29",
+        "description": "イベント「出現!!謎の怪物セル」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 59,
+        "name": "潜在能力玉(中)",
+        "rarity": 1,
+        "selling_exchange_point": 25,
+        "updated_at": "2019-07-29 02:04:29"
+    },
+    {
+        "created_at": "2019-07-29 02:04:29",
+        "description": "イベント「出現!!謎の怪物セル」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 60,
+        "name": "潜在能力玉(大)",
+        "rarity": 2,
+        "selling_exchange_point": 50,
+        "updated_at": "2019-07-29 02:04:29"
     }
 ]

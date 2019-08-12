@@ -4348,5 +4348,15 @@
         "name": "メカフリーザ\n&コルド大王",
         "priority": 63150,
         "updated_at": "2019-06-28 02:06:29"
+    },
+    {
+        "background_id": 2,
+        "card_id": 1017690,
+        "collection_category_id": 9,
+        "created_at": "2019-08-09 02:03:20",
+        "id": 445,
+        "name": "六星龍\n(乙姫)",
+        "priority": 61290,
+        "updated_at": "2019-08-09 02:03:20"
     }
 ]

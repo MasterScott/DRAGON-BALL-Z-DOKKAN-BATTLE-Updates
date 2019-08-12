@@ -248,5 +248,35 @@
         "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":-352,\"scale\":1.36},\"anime_start\":{\"x\":6,\"y\":-352,\"scale\":1.36},\"anime_end\":{\"x\":140,\"y\":-390,\"scale\":1.36},\"shadow\":{\"x\":-166,\"y\":26,\"scale\":0.91},\"start_chara\":{\"x\":-4,\"y\":-32,\"scale\":1.12}}}",
         "updated_at": "2019-05-31 01:59:42",
         "z_battle_stage_id": 25
+    },
+    {
+        "created_at": "2019-06-05 05:13:01",
+        "enemy_name": "伝説の超サイヤ人ブロリー",
+        "enemy_nickname": "終わりなき恐怖",
+        "enemy_resource_id": 1007461,
+        "id": 28,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":68,\"y\":58,\"scale\":1.14},\"anime_start\":{\"x\":68,\"y\":58,\"scale\":1.14},\"anime_end\":{\"x\":206,\"y\":-36,\"scale\":1.08},\"shadow\":{\"x\":-92,\"y\":768,\"scale\":0.85},\"start_chara\":{\"x\":0,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2019-07-01 05:12:48",
+        "z_battle_stage_id": 26
+    },
+    {
+        "created_at": "2019-07-05 12:00:32",
+        "enemy_name": "激闘編",
+        "enemy_nickname": "極限Zバトル",
+        "enemy_resource_id": 1017990,
+        "id": 29,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"anime_start\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"anime_end\":{\"x\":-30,\"y\":154,\"scale\":0.72},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":-4,\"y\":-26,\"scale\":1.13}}}",
+        "updated_at": "2019-07-22 10:26:28",
+        "z_battle_stage_id": 27
+    },
+    {
+        "created_at": "2019-07-11 08:07:17",
+        "enemy_name": "パーフェクトセル",
+        "enemy_nickname": "地獄へのいざない",
+        "enemy_resource_id": 1008821,
+        "id": 30,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_start\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_end\":{\"x\":162,\"y\":-330,\"scale\":1.2},\"shadow\":{\"x\":-136,\"y\":270,\"scale\":0.76},\"start_chara\":{\"x\":12,\"y\":12,\"scale\":0.93}}}",
+        "updated_at": "2019-07-31 01:40:46",
+        "z_battle_stage_id": 28
     }
 ]

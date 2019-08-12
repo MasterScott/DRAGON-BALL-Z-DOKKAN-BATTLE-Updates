@@ -1648,5 +1648,203 @@
         "updated_at": "2019-05-21 05:38:01",
         "z_battle_normal_reward_table_group_id": 141,
         "z_battle_stage_id": 25
+    },
+    {
+        "act": 3,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 1,
+        "id": 161,
+        "level": 5,
+        "main_reward_id": 204,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 142,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 5,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 2,
+        "id": 162,
+        "level": 10,
+        "main_reward_id": 205,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 143,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 5,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 2,
+        "id": 163,
+        "level": 15,
+        "main_reward_id": 206,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 144,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 7,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 3,
+        "id": 164,
+        "level": 20,
+        "main_reward_id": 207,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 145,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 10,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 3,
+        "id": 165,
+        "level": 25,
+        "main_reward_id": 208,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 146,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 15,
+        "created_at": "2019-06-05 05:13:01",
+        "eventkagi_num": 3,
+        "id": 166,
+        "level": 30,
+        "main_reward_id": 209,
+        "updated_at": "2019-06-05 05:13:01",
+        "z_battle_normal_reward_table_group_id": 147,
+        "z_battle_stage_id": 26
+    },
+    {
+        "act": 3,
+        "created_at": "2019-07-05 12:00:32",
+        "eventkagi_num": 1,
+        "id": 167,
+        "level": 5,
+        "main_reward_id": 215,
+        "updated_at": "2019-07-05 12:00:32",
+        "z_battle_normal_reward_table_group_id": 148,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 5,
+        "created_at": "2019-07-05 12:00:32",
+        "eventkagi_num": 2,
+        "id": 168,
+        "level": 10,
+        "main_reward_id": 222,
+        "updated_at": "2019-07-05 12:00:32",
+        "z_battle_normal_reward_table_group_id": 149,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 5,
+        "created_at": "2019-07-05 12:00:32",
+        "eventkagi_num": 2,
+        "id": 169,
+        "level": 15,
+        "main_reward_id": 229,
+        "updated_at": "2019-07-05 12:00:32",
+        "z_battle_normal_reward_table_group_id": 150,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 7,
+        "created_at": "2019-07-05 12:00:33",
+        "eventkagi_num": 3,
+        "id": 170,
+        "level": 20,
+        "main_reward_id": 236,
+        "updated_at": "2019-07-05 12:00:33",
+        "z_battle_normal_reward_table_group_id": 151,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 10,
+        "created_at": "2019-07-05 12:00:33",
+        "eventkagi_num": 3,
+        "id": 171,
+        "level": 25,
+        "main_reward_id": 243,
+        "updated_at": "2019-07-05 12:00:33",
+        "z_battle_normal_reward_table_group_id": 152,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 15,
+        "created_at": "2019-07-05 12:00:33",
+        "eventkagi_num": 3,
+        "id": 172,
+        "level": 30,
+        "main_reward_id": 250,
+        "updated_at": "2019-07-05 12:00:33",
+        "z_battle_normal_reward_table_group_id": 153,
+        "z_battle_stage_id": 27
+    },
+    {
+        "act": 3,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 1,
+        "id": 173,
+        "level": 5,
+        "main_reward_id": 252,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 154,
+        "z_battle_stage_id": 28
+    },
+    {
+        "act": 5,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 2,
+        "id": 174,
+        "level": 10,
+        "main_reward_id": 253,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 155,
+        "z_battle_stage_id": 28
+    },
+    {
+        "act": 5,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 2,
+        "id": 175,
+        "level": 15,
+        "main_reward_id": 254,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 156,
+        "z_battle_stage_id": 28
+    },
+    {
+        "act": 7,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 3,
+        "id": 176,
+        "level": 20,
+        "main_reward_id": 255,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 157,
+        "z_battle_stage_id": 28
+    },
+    {
+        "act": 10,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 3,
+        "id": 177,
+        "level": 25,
+        "main_reward_id": 256,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 158,
+        "z_battle_stage_id": 28
+    },
+    {
+        "act": 15,
+        "created_at": "2019-07-11 08:07:17",
+        "eventkagi_num": 3,
+        "id": 178,
+        "level": 30,
+        "main_reward_id": 257,
+        "updated_at": "2019-07-11 08:07:17",
+        "z_battle_normal_reward_table_group_id": 159,
+        "z_battle_stage_id": 28
     }
 ]

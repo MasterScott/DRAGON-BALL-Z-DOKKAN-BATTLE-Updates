@@ -1,653 +1,653 @@
 [
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select Menu.",
         "id": 1,
         "scene_name": "CharacterMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap a Character Slot to move to the character select screen.",
         "id": 2,
         "scene_name": "TeamListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap the Z Button in the upper left to remove a character from your team.",
         "id": 3,
         "scene_name": "TeamMemberSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Add up to 6 characters to your team.",
         "id": 4,
         "scene_name": "TeamMemberPackSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Up to 99 characters can be sold in one go.",
         "id": 5,
         "scene_name": "CharacterSellScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a character to power up via Training.",
         "id": 6,
         "scene_name": "CharacterTrainingScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "The chances of leveling up a Super Attack are counted separately for each Training Partner. Select Training Partners of the same Type to receive a bonus.",
         "id": 7,
         "scene_name": "TrainingSelectPartnersScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select Training Items. Up to 10 identical Training Items can be selected.",
         "id": 8,
         "scene_name": "TrainingSelectItemsScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "New Training Locations are unlocked via Quests and Login Bonuses. All except the Wasteland have a usage limit.",
         "id": 9,
         "scene_name": "TrainingSelectFieldScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a character to Awaken.",
         "id": 10,
         "scene_name": "AwakenTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the Medals to use for this Awakening. Note that Z-Awakening can only be performed once characters reach their max level.",
         "id": 11,
         "scene_name": "AwakenScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view the Character Details screen, where you can register characters as favorites.",
         "id": 12,
         "scene_name": "CharacterListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "View your item inventory.",
         "id": 13,
         "scene_name": "ItemBoxScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details.",
         "id": 14,
         "scene_name": "TrainingItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details.",
         "id": 15,
         "scene_name": "AwakenItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details.",
         "id": 16,
         "scene_name": "SupportItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "View the characters you have obtained.",
         "id": 17,
         "scene_name": "EncyclopediaTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Use Friend Points to get Friend Summon, and Dragon Stones to get Rare Summon.",
         "id": 18,
         "scene_name": "GashaMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view the Character Details screen.",
         "id": 19,
         "scene_name": "GashaResultScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view the Character Details screen.",
         "id": 20,
         "scene_name": "GashaResultScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "If you are a minor, you must have parental consent before making purchases.",
         "id": 21,
         "scene_name": "ShopMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "View the Dragon Balls in your possession. Tap one you don't have yet to view its location.",
         "id": 22,
         "scene_name": "DragonBallListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select Menu.",
         "id": 23,
         "scene_name": "FriendMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Your Friends are displayed here. Note that there is a limit to the number of Friends you can have.",
         "id": 24,
         "scene_name": "FriendListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Enter the User ID you wish to search for.",
         "id": 25,
         "scene_name": "FriendSearchScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Only 30 friend requests can be pending at any one time. Unconfirmed requests will automatically be rejected after 30 days.",
         "id": 26,
         "scene_name": "FriendApprovalScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Up to 100 gifts can be displayed at once. Sort order can be toggled to display newest or oldest first.",
         "id": 27,
         "scene_name": "PresentScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select Menu.",
         "id": 28,
         "scene_name": "OtherMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Go here to learn how to transfer app data between devices and create a Device Transfer Code.",
         "id": 29,
         "scene_name": "ChangeDeviceScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Edit various settings.",
         "id": 30,
         "scene_name": "SetOptionsScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select Menu.",
         "id": 31,
         "scene_name": "HelpListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Maximum length is 10 characters. Note that emoji cannot be used.",
         "id": 32,
         "scene_name": "HelpNameChangeScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Review your purchase history for the past 3 months (including this month).",
         "id": 33,
         "scene_name": "HelpPurchaseRecordScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "View terms of use and copyright information.",
         "id": 34,
         "scene_name": "HelpCopyrightScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a Quest area.",
         "id": 35,
         "scene_name": "AdventureWorldMapScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a Quest stage. Stages where you can take on \"Supreme Kai's Trial\" will be marked with a scroll icon.",
         "id": 36,
         "scene_name": "AdventureAreaMapScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a difficulty. STA consumed, enemy strength and the reward(s) obtained differ between difficulties. Difficulties where you can take on \"Supreme Kai's Trial\" will be marked with a scroll icon.",
         "id": 37,
         "scene_name": "SelectDifficultyBaseScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a Friend to accompany you on your Quest.",
         "id": 38,
         "scene_name": "SelectCompanyBaseScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is your last chance to make changes. Swipe left or right to edit your team. When you are ready to embark on your Quest, tap “Start!”",
         "id": 39,
         "scene_name": "SelectTeamBaseScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is your last chance to make changes. Swipe left or right to edit your team. When you are ready to embark on your Quest, tap “Start!”",
         "id": 40,
         "scene_name": "SelectTeamScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Training requires a minimum of 1 Training Partner or 1 Training Item.",
         "id": 41,
         "scene_name": "TrainingMainScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select an Event.",
         "id": 42,
         "scene_name": "EventTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select an Event stage to attempt.",
         "id": 43,
         "scene_name": "EventQuestSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap a Mission to view the available rewards. The number in the red circle indicates how many rewards can be claimed.",
         "id": 44,
         "scene_name": "MissionTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap \"Details\" to view Mission details. After completing a Mission, tap it again to claim any rewards you have waiting.",
         "id": 45,
         "scene_name": "MissionSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "After selecting a category, tap a character to move to the Gallery.",
         "id": 46,
         "scene_name": "CollectionCardTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Acquiring a card allows you to view its max-level stats. If not yet Z-Awakened, it will appear in its normal state.",
         "id": 47,
         "scene_name": "CollectionUniqueCardScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap \"Participate\" to join the Tournament. Tournament Points earned from a round (preliminary, quarterfinal, semifinal and final) will be added to your Total Tournament Points after the current round ends.",
         "id": 48,
         "scene_name": "TenkaichiHomeScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "If you retire, you will leave the current tournament and the Tournament Pts you earned up to that pts. will be added to your total.",
         "id": 49,
         "scene_name": "TenkaichiProgressComfirmScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a friend to join the tournament with.",
         "id": 50,
         "scene_name": "TenkaichiSelectCompanyScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is the final confirmation screen. You will not be able to change or edit your team during the tournament.",
         "id": 51,
         "scene_name": "TenkaichiSelectTeamScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is the ranking of the World Tournament. The Local Ranking changes according to the Tournament Points you have earned during the event period. It will take some time for the update to be reflected.",
         "id": 52,
         "scene_name": "TenkaichiRankScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Here you can check your current Tier. Your Tier is determined based on your total Tournament Pts.",
         "id": 53,
         "scene_name": "TenkaichiClassScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Here you can check rewards for Rankings and Missions. Check \"News\" for information on when the Overall Ranking Rewards and Local Ranking Rewards are distributed.",
         "id": 54,
         "scene_name": "TenkaichiRewardScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Please select a category to check how to play in the World Tournament.",
         "id": 55,
         "scene_name": "TenkaichiHelpListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the section you want to view.",
         "id": 56,
         "scene_name": "TenkaichiHelpCategoryScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap \"<<<\" to return to the previous screen.",
         "id": 57,
         "scene_name": "TenkaichiHelpDetailScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details",
         "id": 58,
         "scene_name": "SpecialItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can exchange your items and characters for Trade Points.",
         "id": 59,
         "scene_name": "ExchangeSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can exchange your Awakening Medals for Trade Points. The rate will differ depending on the Medal.",
         "id": 60,
         "scene_name": "ExchangeAwakenItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can exchange your Support Items for Trade Points. The rate will differ depending on the item.",
         "id": 61,
         "scene_name": "ExchangeSupportItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can exchange your Training Items for Trade Points. The rate will differ depending on the item.",
         "id": 62,
         "scene_name": "ExchangeTrainingItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can exchange your characters for Trade Points. The rate will differ depending on the character.",
         "id": 63,
         "scene_name": "ExchangeCharacterScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can use Trade Points to purchase items. You can increase Trade Points by tapping the + icon.",
         "id": 64,
         "scene_name": "TradeExPointScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can use Zeni to purchase items. If products are sold out, wait a while and they will be restocked.",
         "id": 65,
         "scene_name": "TradeZeniScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Treasures can be exchanged for the desired items.  Each item demands a specific Treasure Type.",
         "id": 66,
         "scene_name": "TradeGemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "These are the characters you are able to Dokkan Awaken. Tap on the character to see the required medals.",
         "id": 67,
         "scene_name": "DokkanAwakenListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details",
         "id": 68,
         "scene_name": "GemItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Selecting \"Dokkan Awaken\" will undo the effects of Reverse and the character will be restored to their Dokkan Awakened status.",
         "id": 69,
         "scene_name": "ReverseMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the character you want to revert to their pre-Dokkan Awakened status.",
         "id": 70,
         "scene_name": "CharacterReverseSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Once Reversed, the character's level, stats, and Super Attack Level may decrease, but a Reverse Dokkan Awakening will restore these.",
         "id": 71,
         "scene_name": "CharacterReverseConfirmScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the character you want to restore to the Dokkan Awakened status.",
         "id": 72,
         "scene_name": "CharacterReawakeSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "After a Reverse Dokkan Awakening, the character's level, stats and Super Attack Level will be restored to the pre-Reversed status. If the character's Super Attack Level increased during the Reverse, it will be carried over after a Reverse Dokkan Awakening.",
         "id": 73,
         "scene_name": "CharacterReawakeConfirmScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap to view details.",
         "id": 74,
         "scene_name": "PotentialItemScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a stage to view the details of the stage's trials.",
         "id": 80,
         "scene_name": "SpecialMissionSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can check the results of your past 50 Summons. Single Summons and Multi-Summons both count as single entries.",
         "id": 81,
         "scene_name": "GashaHistoryScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap the \"Fight\" button to fight enemies of the level you selected. The highest level you reach will not be reset even if you rechallenge a level you have already cleared.",
         "id": 82,
         "scene_name": "ZBattleTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a friend to join the battle. Tap the \"Battle Info\" button to view a variety of information, including enemy data.",
         "id": 83,
         "scene_name": "ZBattleSelectCompanyScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is the final check before the battle begins. You cannot use Continues or Support Items when challenging. Tap the \"Start!\" button if you are ready to go.",
         "id": 84,
         "scene_name": "ZBattleTeamSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap the Porunga Dragon Balls you haven't obtained yet for a hint on their location.",
         "id": 85,
         "scene_name": "PorungaDragonBallListScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Tap the \"Start\" button to play the Ultimate Clash mode.",
         "id": 86,
         "scene_name": "RMBattleTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can check the mission requirements and mission rewards for the Ultimate Clash missions. Completed missions will be marked with \"Success\".",
         "id": 87,
         "scene_name": "RMBattleMissionScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can check the instructions for playing the Ultimate Clash mode by selecting the menu.",
         "id": 88,
         "scene_name": "RMBattleHelpScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Choose the entry you would like to check.",
         "id": 89,
         "scene_name": "RMHelpCategoryScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "You can check the progress and remaining characters.",
         "id": 90,
         "scene_name": "RMBattleStatusCheckScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
-        "description": "Choose up to 100 characters to enter in the Ultimate Clash. 100 characters will be selected automatically if you tap the \"Auto\" button. Tap \"Confirm\" to proceed to the next screen.",
+        "created_at": "2019-08-08 01:55:05.625659",
+        "description": "Choose up to 112 characters to enter in the Ultimate Clash. 112 characters will be selected automatically if you tap the \"Auto\" button. Tap \"Confirm\" to proceed to the next screen.",
         "id": 91,
         "scene_name": "RMBattleSelectTeamScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select a stage you would like to challenge. Clear all the stages positioned around the \"?\" to challenge the boss.",
         "id": 92,
         "scene_name": "RMBattleSelectStageScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "The first character selected will be the leader and the second, the sub-leader. The Leader Skills of these two characters will be activated during the battle. Tap \"Confirm\" when you're ready to move to the next screen.",
         "id": 93,
         "scene_name": "RMBattleSelectDeckScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the event you want to challenge.",
         "id": 94,
         "scene_name": "EventKagiTopScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the stage you want to challenge.",
         "id": 95,
         "scene_name": "EventKagiQuestSelectScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "Select the difficulty you want to challenge. The number of required Keys, strength of the opponents and contents of the rewards will all vary depending on the difficulty. The difficulties where you can take on \"Supreme Kai's Trial\" will be marked with a scroll icon.",
         "id": 96,
         "scene_name": "SelectDifficultyKagiEventScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "This is the final confirmation before the challenge starts. You can swipe left and right to change your team. You can also set up the Support Items you want to use in the battle.",
         "id": 97,
         "scene_name": "SelectTeamEventScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     },
     {
-        "created_at": "2019-07-05 03:19:57.353945",
+        "created_at": "2019-08-08 01:55:05.625659",
         "description": "If you are a minor, you must have parental consent before making purchases.",
         "id": 901,
         "scene_name": "SpecialShopMenuScene",
-        "updated_at": "2019-07-05 03:19:57.353945"
+        "updated_at": "2019-08-08 01:55:05.625659"
     }
 ]

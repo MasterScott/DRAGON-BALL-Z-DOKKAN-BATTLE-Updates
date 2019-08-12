@@ -2588,6 +2588,12 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 434,
+        "script_name": "sp0524"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 435,
         "script_name": "sp0526"
     },
@@ -2768,6 +2774,18 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 465,
+        "script_name": "sp0548"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 466,
+        "script_name": "sp0549"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 467,
         "script_name": "sp0550"
     },
@@ -2878,5 +2896,23 @@
         "energy_color": null,
         "id": 485,
         "script_name": "sp0570"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 486,
+        "script_name": "sp0573"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 487,
+        "script_name": "sp0574"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 492,
+        "script_name": "sp0571"
     }
 ]

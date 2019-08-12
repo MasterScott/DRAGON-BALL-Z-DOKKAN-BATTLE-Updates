@@ -33,7 +33,7 @@
     },
     {
         "name": "battle_params",
-        "seq": 1311
+        "seq": 1376
     },
     {
         "name": "beginners_guides",
@@ -193,7 +193,7 @@
     },
     {
         "name": "collection_uniques",
-        "seq": 423
+        "seq": 440
     },
     {
         "name": "effect_packs",
@@ -229,7 +229,7 @@
     },
     {
         "name": "leader_skills",
-        "seq": 1016121
+        "seq": 5100460
     },
     {
         "name": "level_bgs",
@@ -253,7 +253,7 @@
     },
     {
         "name": "mission_periods",
-        "seq": 911348
+        "seq": 911354
     },
     {
         "name": "mission_rewards",
@@ -361,7 +361,7 @@
     },
     {
         "name": "related_passive_skill_sets",
-        "seq": 800700
+        "seq": 1000064
     },
     {
         "name": "rmbattle_bgm_patterns",
@@ -409,11 +409,11 @@
     },
     {
         "name": "sound_effect_offsets",
-        "seq": 178
+        "seq": 195
     },
     {
         "name": "special_bonuses",
-        "seq": 11
+        "seq": 13
     },
     {
         "name": "special_items",
@@ -421,7 +421,7 @@
     },
     {
         "name": "special_scripts",
-        "seq": 466
+        "seq": 485
     },
     {
         "name": "special_views",
@@ -473,7 +473,7 @@
     },
     {
         "name": "transformation_descriptions",
-        "seq": 69
+        "seq": 81
     },
     {
         "name": "treasure_items",

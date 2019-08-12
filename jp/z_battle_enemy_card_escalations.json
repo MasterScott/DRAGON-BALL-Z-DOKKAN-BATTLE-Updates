@@ -542,5 +542,93 @@
         "id": 79,
         "level": 15,
         "updated_at": "2019-05-21 05:38:01"
+    },
+    {
+        "card_id": 1007451,
+        "created_at": "2019-06-05 05:13:02",
+        "escalation_type": 201,
+        "id": 80,
+        "level": 1,
+        "updated_at": "2019-06-05 05:13:02"
+    },
+    {
+        "card_id": 1007461,
+        "created_at": "2019-06-05 05:13:02",
+        "escalation_type": 201,
+        "id": 81,
+        "level": 15,
+        "updated_at": "2019-06-05 05:13:02"
+    },
+    {
+        "card_id": 1010801,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 82,
+        "level": 1,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 1010791,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 83,
+        "level": 3,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 1009931,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 84,
+        "level": 6,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 9009901,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 85,
+        "level": 11,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 9009911,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 86,
+        "level": 16,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 1009921,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 87,
+        "level": 21,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 1009891,
+        "created_at": "2019-07-05 12:00:33",
+        "escalation_type": 208,
+        "id": 88,
+        "level": 26,
+        "updated_at": "2019-07-05 12:00:33"
+    },
+    {
+        "card_id": 9008811,
+        "created_at": "2019-07-11 08:07:17",
+        "escalation_type": 215,
+        "id": 89,
+        "level": 1,
+        "updated_at": "2019-07-11 09:00:19"
+    },
+    {
+        "card_id": 9008821,
+        "created_at": "2019-07-11 08:07:17",
+        "escalation_type": 215,
+        "id": 90,
+        "level": 15,
+        "updated_at": "2019-07-11 09:00:19"
     }
 ]
