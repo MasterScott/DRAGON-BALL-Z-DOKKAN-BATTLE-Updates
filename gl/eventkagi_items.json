@@ -1,52 +1,52 @@
 [
     {
         "area_tab_id": 1,
-        "created_at": "2019-08-12 01:41:19.630092",
+        "created_at": "2019-11-20 01:49:28.208890",
         "description": "Can be used to challenge stages on \nthe \"Story\" list in the Portal of Memories.",
         "id": 1,
         "name": "Story Key",
         "rarity": 0,
         "selling_exchange_point": 10,
-        "updated_at": "2019-08-12 01:41:19.630092"
+        "updated_at": "2019-11-20 01:49:28.208890"
     },
     {
         "area_tab_id": 2,
-        "created_at": "2019-08-12 01:41:19.630092",
+        "created_at": "2019-11-20 01:49:28.208890",
         "description": "Can be used to challenge stages on \nthe \"Growth\" list in the Portal of Memories.",
         "id": 2,
         "name": "Growth Key",
         "rarity": 0,
         "selling_exchange_point": 10,
-        "updated_at": "2019-08-12 01:41:19.630092"
+        "updated_at": "2019-11-20 01:49:28.208890"
     },
     {
         "area_tab_id": 3,
-        "created_at": "2019-08-12 01:41:19.630092",
+        "created_at": "2019-11-20 01:49:28.208890",
         "description": "Can be used to challenge stages on \nthe \"Challenge\" list in the Portal of Memories.",
         "id": 3,
         "name": "Challenge Key",
         "rarity": 0,
         "selling_exchange_point": 10,
-        "updated_at": "2019-08-12 01:41:19.630092"
+        "updated_at": "2019-11-20 01:49:28.208890"
     },
     {
         "area_tab_id": 4,
-        "created_at": "2019-08-12 01:41:19.630092",
+        "created_at": "2019-11-20 01:49:28.208890",
         "description": "Can be used to challenge stages on \nthe \"Limited\" list in the Portal of Memories.",
         "id": 4,
         "name": "Limited Key",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-08-12 01:41:19.630092"
+        "selling_exchange_point": 0,
+        "updated_at": "2019-11-20 01:49:28.208890"
     },
     {
         "area_tab_id": 999,
-        "created_at": "2019-08-12 01:41:19.630092",
+        "created_at": "2019-11-20 01:49:28.208890",
         "description": "Can be used to challenge stages on \nthe \"Z-Battle\" list in the Portal of Memories.",
         "id": 5,
         "name": "Z-Battle Key",
         "rarity": 0,
         "selling_exchange_point": 10,
-        "updated_at": "2019-08-12 01:41:19.630092"
+        "updated_at": "2019-11-20 01:49:28.208890"
     }
 ]

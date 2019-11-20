@@ -1,2 +1,30 @@
 [
+    {
+        "created_at": "2019-11-20 01:52:35.763611",
+        "description": "Displays the characters in your current deck.",
+        "id": 0,
+        "name": "Original Setting",
+        "updated_at": "2019-11-20 01:52:35.763611"
+    },
+    {
+        "created_at": "2019-11-20 01:52:35.763611",
+        "description": "Celebrating the introduction of\nthe Wallpaper feature.",
+        "id": 1,
+        "name": "Super Warriors",
+        "updated_at": "2019-11-20 01:52:35.763611"
+    },
+    {
+        "created_at": "2019-11-20 01:52:35.763611",
+        "description": "Celebrating the opening of \n\"Hercule's Worldwide Tile Breaking Contest\".",
+        "id": 2,
+        "name": "Declaration of the Cell Games",
+        "updated_at": "2019-11-20 01:52:35.763611"
+    },
+    {
+        "created_at": "2019-11-20 01:52:35.763611",
+        "description": "Reward for completing the missions from \n\"Clash! Dokkan Supreme Challenge Battle\".",
+        "id": 3,
+        "name": "Let's Go, Gohan!",
+        "updated_at": "2019-11-20 01:52:35.763611"
+    }
 ]

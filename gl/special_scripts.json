@@ -2902,5 +2902,65 @@
         "energy_color": null,
         "id": 485,
         "script_name": "sp0570"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 486,
+        "script_name": "sp0573"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 487,
+        "script_name": "sp0574"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 488,
+        "script_name": "sp0575"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 489,
+        "script_name": "sp0576"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 490,
+        "script_name": "sp0577"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 491,
+        "script_name": "sp0578"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 492,
+        "script_name": "sp0571"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 493,
+        "script_name": "sp0579"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 494,
+        "script_name": "sp0580"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 495,
+        "script_name": "sp0597"
     }
 ]
