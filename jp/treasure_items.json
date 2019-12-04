@@ -310,6 +310,16 @@
         "updated_at": "2019-07-22 00:52:10"
     },
     {
+        "created_at": "2019-08-26 02:10:42",
+        "description": "龍石購入時に入手できる紫色の龍石\n占いババの交換所で交換が可能",
+        "id": 1014,
+        "image_suffix_number": 1014,
+        "name": "プレミアム超龍石4",
+        "rarity": 2,
+        "selling_exchange_point": 10000,
+        "updated_at": "2019-08-26 02:10:42"
+    },
+    {
         "created_at": "2019-07-22 00:52:10",
         "description": "龍石購入時に入手できる青い龍石\n占いババの交換所で交換が可能",
         "id": 1015,
@@ -318,6 +328,16 @@
         "rarity": 2,
         "selling_exchange_point": 10000,
         "updated_at": "2019-07-22 00:52:10"
+    },
+    {
+        "created_at": "2019-08-26 02:10:42",
+        "description": "期間限定で入手できる赤い龍石\n占いババの交換所で交換が可能",
+        "id": 1016,
+        "image_suffix_number": 1016,
+        "name": "ゴッド龍石8",
+        "rarity": 2,
+        "selling_exchange_point": 10000,
+        "updated_at": "2019-08-26 02:10:42"
     },
     {
         "created_at": "2019-07-22 00:52:10",

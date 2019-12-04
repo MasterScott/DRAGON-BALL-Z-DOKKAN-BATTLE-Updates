@@ -1248,6 +1248,86 @@
         "updated_at": "2019-07-22 00:42:18"
     },
     {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 1,
+        "id": 321001,
+        "start_value": 1,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 3,
+        "id": 321002,
+        "start_value": 2,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 10,
+        "id": 321004,
+        "start_value": 4,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 20,
+        "id": 321011,
+        "start_value": 11,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 50,
+        "id": 321021,
+        "start_value": 21,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 100,
+        "id": 321051,
+        "start_value": 51,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 150,
+        "id": 321101,
+        "start_value": 101,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 200,
+        "id": 321151,
+        "start_value": 151,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 250,
+        "id": 321201,
+        "start_value": 201,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
+        "budokai_box_ranking_id": 321,
+        "created_at": "2019-10-18 02:41:05",
+        "end_value": 300,
+        "id": 321251,
+        "start_value": 251,
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
         "budokai_box_ranking_id": 10221,
         "created_at": "2019-07-22 00:42:17",
         "end_value": 1,

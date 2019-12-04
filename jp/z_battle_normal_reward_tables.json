@@ -1354,5 +1354,143 @@
         "id": 233,
         "updated_at": "2019-07-11 08:07:17",
         "z_battle_normal_reward_table_group_id": 159
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 234,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 160
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 235,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 161
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 236,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 162
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 237,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 163
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 238,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 164
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 239,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 165
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 240,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 166
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 241,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 166
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 242,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 166
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 243,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 166
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "id": 244,
+        "updated_at": "2019-08-06 09:17:39",
+        "z_battle_normal_reward_table_group_id": 166
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 245,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 167
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 246,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 168
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 247,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 169
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 248,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 170
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 249,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 171
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "id": 250,
+        "updated_at": "2019-09-05 06:57:13",
+        "z_battle_normal_reward_table_group_id": 172
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 251,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 173
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 252,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 174
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 253,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 175
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 254,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 176
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 255,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 177
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "id": 256,
+        "updated_at": "2019-10-08 05:22:23",
+        "z_battle_normal_reward_table_group_id": 178
     }
 ]

@@ -2,7 +2,7 @@
     {
         "addend": 0,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.384069",
+        "created_at": "2019-11-27 08:10:51.300455",
         "description": "Gain more EXP with other Training Locations.",
         "elements": 0,
         "exp": 0,
@@ -12,13 +12,13 @@
         "name": "Wasteland",
         "rarity": 0,
         "selling_exchange_point": 0,
-        "updated_at": "2019-11-20 01:52:35.384069",
+        "updated_at": "2019-11-27 08:10:51.300455",
         "zeni": 0
     },
     {
         "addend": 10000,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.391313",
+        "created_at": "2019-11-27 08:10:51.307821",
         "description": "Gain an extra 10,000 EXP per \nTraining Partner or Training Item kind.",
         "elements": 0,
         "exp": 0,
@@ -28,13 +28,13 @@
         "name": "Korin's Tower",
         "rarity": 0,
         "selling_exchange_point": 2,
-        "updated_at": "2019-11-20 01:52:35.391313",
+        "updated_at": "2019-11-27 08:10:51.307821",
         "zeni": 10000
     },
     {
         "addend": 20000,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.393882",
+        "created_at": "2019-11-27 08:10:51.309527",
         "description": "Gain an extra 20,000 EXP per \nTraining Partner or Training Item kind.",
         "elements": 0,
         "exp": 0,
@@ -44,13 +44,13 @@
         "name": "Kami's Lookout",
         "rarity": 1,
         "selling_exchange_point": 4,
-        "updated_at": "2019-11-20 01:52:35.393882",
+        "updated_at": "2019-11-27 08:10:51.309527",
         "zeni": 20000
     },
     {
         "addend": 30000,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.395324",
+        "created_at": "2019-11-27 08:10:51.311183",
         "description": "Gain an extra 30,000 EXP per \nTraining Partner or Training Item kind.",
         "elements": 0,
         "exp": 0,
@@ -60,13 +60,13 @@
         "name": "Snake Way",
         "rarity": 2,
         "selling_exchange_point": 8,
-        "updated_at": "2019-11-20 01:52:35.395324",
+        "updated_at": "2019-11-27 08:10:51.311183",
         "zeni": 30000
     },
     {
         "addend": 0,
         "card_training_field_exp_up_prob_id": 1,
-        "created_at": "2019-11-20 01:52:35.396564",
+        "created_at": "2019-11-27 08:10:51.312864",
         "description": "Conducting training in this location \nguarantees a Big Success.",
         "elements": 0,
         "exp": 0,
@@ -76,13 +76,13 @@
         "name": "King Kai's Planet (10G)",
         "rarity": 2,
         "selling_exchange_point": 20,
-        "updated_at": "2019-11-20 01:52:35.396564",
+        "updated_at": "2019-11-27 08:10:51.312864",
         "zeni": 5000
     },
     {
         "addend": 0,
         "card_training_field_exp_up_prob_id": 2,
-        "created_at": "2019-11-20 01:52:35.397814",
+        "created_at": "2019-11-27 08:10:51.314528",
         "description": "Conducting training in this location \nguarantees a Great Success.",
         "elements": 0,
         "exp": 0,
@@ -92,13 +92,13 @@
         "name": "Gravity Chamber (50G)",
         "rarity": 3,
         "selling_exchange_point": 30,
-        "updated_at": "2019-11-20 01:52:35.397814",
+        "updated_at": "2019-11-27 08:10:51.314528",
         "zeni": 10000
     },
     {
         "addend": 0,
         "card_training_field_exp_up_prob_id": 3,
-        "created_at": "2019-11-20 01:52:35.399242",
+        "created_at": "2019-11-27 08:10:51.324203",
         "description": "Conducting training in this location \nguarantees a Super Success.",
         "elements": 0,
         "exp": 0,
@@ -108,13 +108,13 @@
         "name": "Gravity Chamber (150G)",
         "rarity": 3,
         "selling_exchange_point": 100,
-        "updated_at": "2019-11-20 01:52:35.399242",
+        "updated_at": "2019-11-27 08:10:51.324203",
         "zeni": 15000
     },
     {
         "addend": 50000,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.400843",
+        "created_at": "2019-11-27 08:10:51.325851",
         "description": "Gain an extra 50,000 EXP per \nTraining Partner or Training Item kind.",
         "elements": 0,
         "exp": 0,
@@ -124,13 +124,13 @@
         "name": "Supreme Kai's Planet",
         "rarity": 3,
         "selling_exchange_point": 40,
-        "updated_at": "2019-11-20 01:52:35.400843",
+        "updated_at": "2019-11-27 08:10:51.325851",
         "zeni": 50000
     },
     {
         "addend": 0,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.413927",
+        "created_at": "2019-11-27 08:10:51.327443",
         "description": "Hyperbolic Chamber (1D)",
         "elements": 0,
         "exp": 0,
@@ -140,13 +140,13 @@
         "name": "Hyperbolic Chamber (1D)",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-11-20 01:52:35.413927",
+        "updated_at": "2019-11-27 08:10:51.327443",
         "zeni": 0
     },
     {
         "addend": 70000,
         "card_training_field_exp_up_prob_id": 0,
-        "created_at": "2019-11-20 01:52:35.415721",
+        "created_at": "2019-11-27 08:10:51.328958",
         "description": "Gain an extra 70,000 EXP per \nTraining Partner or Training Item kind.",
         "elements": 0,
         "exp": 0,
@@ -156,13 +156,13 @@
         "name": "Beerus' Planet",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-11-20 01:52:35.415721",
+        "updated_at": "2019-11-27 08:10:51.328958",
         "zeni": 70000
     },
     {
         "addend": 40000,
         "card_training_field_exp_up_prob_id": 3,
-        "created_at": "2019-11-20 01:52:35.417468",
+        "created_at": "2019-11-27 08:10:51.330497",
         "description": "Gain an extra 40,000 EXP per Training Partner \nor Training Item kind. Conducting training \nin this location guarantees a Super Success.",
         "elements": 0,
         "exp": 0,
@@ -172,13 +172,13 @@
         "name": "Gravity Chamber (300G)",
         "rarity": 3,
         "selling_exchange_point": 130,
-        "updated_at": "2019-11-20 01:52:35.417468",
+        "updated_at": "2019-11-27 08:10:51.330497",
         "zeni": 55000
     },
     {
         "addend": 90000,
         "card_training_field_exp_up_prob_id": 3,
-        "created_at": "2019-11-20 01:52:35.419215",
+        "created_at": "2019-11-27 08:10:51.335096",
         "description": "Gain an extra 90,000 EXP per Training Partner \nor Training Item kind. Conducting training in \nthis location guarantees a Super Success.",
         "elements": 0,
         "exp": 0,
@@ -188,7 +188,7 @@
         "name": "Chamber of Spirit and Time",
         "rarity": 3,
         "selling_exchange_point": 160,
-        "updated_at": "2019-11-20 01:52:35.419215",
+        "updated_at": "2019-11-27 08:10:51.335096",
         "zeni": 105000
     }
 ]

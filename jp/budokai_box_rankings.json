@@ -221,6 +221,19 @@
         "updated_at": "2019-07-22 00:42:19"
     },
     {
+        "box_max_count": 2400,
+        "budokai_id": 32,
+        "collecting_end_at": "2019-10-29 08:59:59",
+        "created_at": "2019-10-18 02:41:05",
+        "end_at": "2019-10-27 12:59:59",
+        "id": 321,
+        "player_max_count": 0,
+        "prev_budokai_box_ranking_id": null,
+        "prev_budokai_id": null,
+        "start_at": "2019-10-25 08:00:00",
+        "updated_at": "2019-10-18 02:41:05"
+    },
+    {
         "box_max_count": 1900,
         "budokai_id": 1022,
         "collecting_end_at": "2017-12-18 05:10:00",

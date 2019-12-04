@@ -3,7 +3,7 @@
         "bgm_id": 70,
         "causality_conditions": "{\"source\":\"4\",\"compiled\":4}",
         "condition_description": "バトル開始から3ターン目以降に発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "1ターン味方全員のATK33%UP",
         "exec_limit": 1,
         "id": 13,
@@ -11,13 +11,13 @@
         "special_view_id": 4774,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 58,
         "causality_conditions": "{\"source\":\"5\",\"compiled\":5}",
         "condition_description": "バトル開始から4ターン目以降に発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
         "exec_limit": 1,
         "id": 14,
@@ -25,13 +25,13 @@
         "special_view_id": 4821,
         "turn": 1,
         "ultimate_special_id": 2,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 76,
         "causality_conditions": "{\"source\":\"5\",\"compiled\":5}",
         "condition_description": "バトル開始から4ターン目以降に発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
         "exec_limit": 1,
         "id": 15,
@@ -39,13 +39,13 @@
         "special_view_id": 4822,
         "turn": 1,
         "ultimate_special_id": 2,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 82,
         "causality_conditions": "{\"source\":\"6\",\"compiled\":6}",
         "condition_description": "HP59%以下のとき発動可能(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "相手に究極ダメージを与える",
         "exec_limit": 1,
         "id": 16,
@@ -53,13 +53,13 @@
         "special_view_id": 4945,
         "turn": 1,
         "ultimate_special_id": 3,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 88,
         "causality_conditions": "{\"source\":\"4 & 6 & 9\",\"compiled\":[\"&\",4,6,9]}",
         "condition_description": "バトル開始から3ターン目以降\n&HP59%以下で敵が1体のとき発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "一時的にATKが超大幅上昇し、\n相手に究極ダメージを与える",
         "exec_limit": 1,
         "id": 17,
@@ -67,13 +67,13 @@
         "special_view_id": 5044,
         "turn": 1,
         "ultimate_special_id": 4,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 87,
         "causality_conditions": "{\"source\":\"10\",\"compiled\":10}",
         "condition_description": "変身後に発動可能(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "1ターン自身の気力+24、ATK48%UP",
         "exec_limit": 1,
         "id": 18,
@@ -81,13 +81,13 @@
         "special_view_id": 5065,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 86,
         "causality_conditions": "{\"source\":\"11\",\"compiled\":11}",
         "condition_description": "次の攻撃参加ターンから発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "強化される",
         "exec_limit": 1,
         "id": 19,
@@ -95,13 +95,13 @@
         "special_view_id": 5096,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 86,
         "causality_conditions": "{\"source\":\"11\",\"compiled\":11}",
         "condition_description": "次の攻撃参加ターンから発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "強化される",
         "exec_limit": 1,
         "id": 20,
@@ -109,13 +109,13 @@
         "special_view_id": 5096,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 85,
         "causality_conditions": "{\"source\":\"11\",\"compiled\":11}",
         "condition_description": "次の攻撃参加ターンから発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "異形化する",
         "exec_limit": 1,
         "id": 21,
@@ -123,13 +123,13 @@
         "special_view_id": 5105,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 85,
         "causality_conditions": "{\"source\":\"11\",\"compiled\":11}",
         "condition_description": "次の攻撃参加ターンから発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:13",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "異形化する",
         "exec_limit": 1,
         "id": 22,
@@ -137,13 +137,13 @@
         "special_view_id": 5105,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:13"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 79,
         "causality_conditions": "{\"source\":\"200 & 27\",\"compiled\":[\"&\",200,27]}",
         "condition_description": "バトル開始から5ターン目以降\n&HP50%以下のとき発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:14",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "激怒する",
         "exec_limit": 1,
         "id": 23,
@@ -151,13 +151,13 @@
         "special_view_id": 5214,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:14"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 79,
         "causality_conditions": "{\"source\":\"200 & 27\",\"compiled\":[\"&\",200,27]}",
         "condition_description": "バトル開始から5ターン目以降\n&HP50%以下のとき発動可能\n(1回のみ)",
-        "created_at": "2019-07-22 00:42:14",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "激怒する",
         "exec_limit": 1,
         "id": 24,
@@ -165,13 +165,13 @@
         "special_view_id": 5214,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-22 00:42:14"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 61,
         "causality_conditions": "{\"source\":\"4 & 18\",\"compiled\":[\"&\",4,18]}",
         "condition_description": "バトル開始から3ターン目以降\n&敵が3体以上いるとき発動可能(1回のみ)",
-        "created_at": "2019-07-22 00:42:14",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "相手に超特大ダメージを与え、\nATKとDEFを大幅低下させる",
         "exec_limit": 1,
         "id": 25,
@@ -179,13 +179,55 @@
         "special_view_id": 5215,
         "turn": 3,
         "ultimate_special_id": 5,
-        "updated_at": "2019-07-22 00:42:14"
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 90,
+        "causality_conditions": "{\"source\":\"9 & 296\",\"compiled\":[\"&\",9,296]}",
+        "condition_description": "進化後3ターン目以降、\n敵が1体の時に発動可能(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "一時的にATKが大幅上昇し、\n相手に究極ダメージを与え、DEFを超大幅低下させる",
+        "exec_limit": 1,
+        "id": 26,
+        "name": "太陽系破壊かめはめ波",
+        "special_view_id": 5439,
+        "turn": 3,
+        "ultimate_special_id": 6,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 91,
+        "causality_conditions": "{\"source\":\"(239&354)|(200&239&(93|139))\",\"compiled\":[\"|\",[\"&\",239,354],[\"&\",200,239,[\"|\",93,139]]]}",
+        "condition_description": "HP58%以下のとき\nチームに「人造人間16号」がいれば発動可能、\nまたはバトル開始から5ターン目以降、\nHP58%以下のときチームか敵に「人造人間」\nカテゴリのキャラクターがいれば発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "覚醒する",
+        "exec_limit": 1,
+        "id": 27,
+        "name": "覚醒",
+        "special_view_id": 5422,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 91,
+        "causality_conditions": "{\"source\":\"(239&354)|(200&239&(93|139))\",\"compiled\":[\"|\",[\"&\",239,354],[\"&\",200,239,[\"|\",93,139]]]}",
+        "condition_description": "HP58%以下のとき\nチームに「人造人間16号」がいれば発動可能、\nまたはバトル開始から5ターン目以降、\nHP58%以下のときチームか敵に「人造人間」\nカテゴリのキャラクターがいれば発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "覚醒する",
+        "exec_limit": 1,
+        "id": 28,
+        "name": "覚醒",
+        "special_view_id": 5422,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 73,
         "causality_conditions": "{\"source\":\"5&252&165\",\"compiled\":[\"&\",5,252,165]}",
         "condition_description": "バトル開始から4ターン目以降、\nHP70%以上の時に自身の他に\nチームに「ナメック星人」カテゴリの\n味方がいれば発動可能(1回のみ)",
-        "created_at": "2019-07-29 02:01:51",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "神と融合する",
         "exec_limit": 1,
         "id": 29,
@@ -193,13 +235,13 @@
         "special_view_id": 5356,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-29 02:01:51"
+        "updated_at": "2019-10-08 23:39:49"
     },
     {
         "bgm_id": 73,
         "causality_conditions": "{\"source\":\"5&252&165\",\"compiled\":[\"&\",5,252,165]}",
         "condition_description": "バトル開始から4ターン目以降、\nHP70%以上の時に自身の他に\nチームに「ナメック星人」カテゴリの\n味方がいれば発動可能(1回のみ)",
-        "created_at": "2019-07-29 02:01:51",
+        "created_at": "2019-10-08 23:39:49",
         "effect_description": "神と融合する",
         "exec_limit": 1,
         "id": 30,
@@ -207,6 +249,118 @@
         "special_view_id": 5356,
         "turn": 1,
         "ultimate_special_id": null,
-        "updated_at": "2019-07-29 02:01:51"
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": null,
+        "causality_conditions": "{\"source\":\"4\",\"compiled\":4}",
+        "condition_description": "バトル開始から3ターン目以降発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "超トランクスに交代する",
+        "exec_limit": 1,
+        "id": 31,
+        "name": "交代",
+        "special_view_id": 5371,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": null,
+        "causality_conditions": "{\"source\":\"4\",\"compiled\":4}",
+        "condition_description": "バトル開始から3ターン目以降発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "超トランクスに交代する",
+        "exec_limit": 1,
+        "id": 32,
+        "name": "交代",
+        "special_view_id": 5371,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": null,
+        "causality_conditions": "{\"source\":\"4\",\"compiled\":4}",
+        "condition_description": "バトル開始から3ターン目以降発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "超サイヤ人孫悟飯(少年期)に交代する",
+        "exec_limit": 1,
+        "id": 33,
+        "name": "交代",
+        "special_view_id": 5704,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": null,
+        "causality_conditions": "{\"source\":\"4\",\"compiled\":4}",
+        "condition_description": "バトル開始から3ターン目以降発動可能\n(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "超サイヤ人孫悟飯(少年期)に交代する",
+        "exec_limit": 1,
+        "id": 34,
+        "name": "交代",
+        "special_view_id": 5704,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 92,
+        "causality_conditions": "{\"source\":\"(286&287)|355\",\"compiled\":[\"|\",[\"&\",286,287],355]}",
+        "condition_description": "HP66%以下のとき\nチームに自身の他に「人造人間」カテゴリの\n味方が2体以上いれば発動可能、\nまたは名称に「セル」を含むキャラクター\n(セルジュニア等を除く)が敵にいるとき\nいつでも発動可能(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "3ターンの間、人造人間16号に交代する",
+        "exec_limit": 1,
+        "id": 35,
+        "name": "交代",
+        "special_view_id": 5765,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 92,
+        "causality_conditions": "{\"source\":\"(286&287)|355\",\"compiled\":[\"|\",[\"&\",286,287],355]}",
+        "condition_description": "HP66%以下のとき\nチームに自身の他に「人造人間」カテゴリの\n味方が2体以上いれば発動可能、\nまたは名称に「セル」を含むキャラクター\n(セルジュニア等を除く)が敵にいるとき\nいつでも発動可能(1回のみ)",
+        "created_at": "2019-10-08 23:39:49",
+        "effect_description": "3ターンの間、人造人間16号に交代する",
+        "exec_limit": 1,
+        "id": 36,
+        "name": "交代",
+        "special_view_id": 5765,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-08 23:39:49"
+    },
+    {
+        "bgm_id": 93,
+        "causality_conditions": "{\"source\":\"(385&(386|387))|(388&9)\",\"compiled\":[\"|\",[\"&\",385,[\"|\",386,387]],[\"&\",388,9]]}",
+        "condition_description": "バトル開始から3ターン目以降、\n敵に「純粋サイヤ人」か「混血サイヤ人」が\nいれば発動可能、\nまたはバトル開始から6ターン目以降、\n敵が1体の時に発動可能(1回のみ)",
+        "created_at": "2019-10-30 02:41:28",
+        "effect_description": "変身する",
+        "exec_limit": 1,
+        "id": 37,
+        "name": "変身",
+        "special_view_id": 5894,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-30 02:41:28"
+    },
+    {
+        "bgm_id": 93,
+        "causality_conditions": "{\"source\":\"(385&(386|387))|(388&9)\",\"compiled\":[\"|\",[\"&\",385,[\"|\",386,387]],[\"&\",388,9]]}",
+        "condition_description": "バトル開始から3ターン目以降、\n敵に「純粋サイヤ人」か「混血サイヤ人」が\nいれば発動可能、\nまたはバトル開始から6ターン目以降、\n敵が1体の時に発動可能(1回のみ)",
+        "created_at": "2019-10-30 02:41:28",
+        "effect_description": "変身する",
+        "exec_limit": 1,
+        "id": 38,
+        "name": "変身",
+        "special_view_id": 5894,
+        "turn": 1,
+        "ultimate_special_id": null,
+        "updated_at": "2019-10-30 02:41:28"
     }
 ]

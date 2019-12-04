@@ -278,5 +278,35 @@
         "params": "{\"lwf\":{\"event_top_chara\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_start\":{\"x\":10,\"y\":-264,\"scale\":1.2},\"anime_end\":{\"x\":162,\"y\":-330,\"scale\":1.2},\"shadow\":{\"x\":-136,\"y\":270,\"scale\":0.76},\"start_chara\":{\"x\":12,\"y\":12,\"scale\":0.93}}}",
         "updated_at": "2019-07-31 01:40:46",
         "z_battle_stage_id": 28
+    },
+    {
+        "created_at": "2019-08-06 09:17:39",
+        "enemy_name": "パーフェクトセル",
+        "enemy_nickname": "恐怖の復活",
+        "enemy_resource_id": 1018081,
+        "id": 31,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-42,\"y\":-432,\"scale\":1.56},\"anime_start\":{\"x\":-42,\"y\":-432,\"scale\":1.56},\"anime_end\":{\"x\":106,\"y\":-534,\"scale\":1.56},\"shadow\":{\"x\":-208,\"y\":-126,\"scale\":1.06},\"start_chara\":{\"x\":-2,\"y\":-12,\"scale\":1.17}}}",
+        "updated_at": "2019-08-28 02:02:46",
+        "z_battle_stage_id": 29
+    },
+    {
+        "created_at": "2019-09-05 06:57:13",
+        "enemy_name": "超サイヤ人ゴッドSS孫悟空",
+        "enemy_nickname": "進化を遂げた一撃",
+        "enemy_resource_id": 1008631,
+        "id": 32,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-12,\"y\":128,\"scale\":0.78},\"anime_start\":{\"x\":-12,\"y\":128,\"scale\":0.78},\"anime_end\":{\"x\":68,\"y\":28,\"scale\":0.78},\"shadow\":{\"x\":-274,\"y\":984,\"scale\":0.48},\"start_chara\":{\"x\":-12,\"y\":-30,\"scale\":1.11}}}",
+        "updated_at": "2019-09-06 06:52:20",
+        "z_battle_stage_id": 30
+    },
+    {
+        "created_at": "2019-10-08 05:22:23",
+        "enemy_name": "超一星龍",
+        "enemy_nickname": "絶望のマイナスエネルギー",
+        "enemy_resource_id": 1008711,
+        "id": 33,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_start\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_end\":{\"x\":158,\"y\":-230,\"scale\":1.35},\"shadow\":{\"x\":-74,\"y\":460,\"scale\":0.75},\"start_chara\":{\"x\":0,\"y\":-14,\"scale\":1.14}}}",
+        "updated_at": "2019-10-15 01:46:32",
+        "z_battle_stage_id": 31
     }
 ]

@@ -896,6 +896,34 @@
         "round": 4
     },
     {
+        "budokai_id": 32,
+        "description": "予選 始まります！",
+        "id": 321,
+        "image_path": "images/budokai/budokai_announce_01.png",
+        "round": 1
+    },
+    {
+        "budokai_id": 32,
+        "description": "準々決勝 開始します！",
+        "id": 322,
+        "image_path": "images/budokai/budokai_announce_03.png",
+        "round": 2
+    },
+    {
+        "budokai_id": 32,
+        "description": "準決勝 開始します！",
+        "id": 323,
+        "image_path": "images/budokai/budokai_announce_03.png",
+        "round": 3
+    },
+    {
+        "budokai_id": 32,
+        "description": "いよいよ決勝戦です！！",
+        "id": 324,
+        "image_path": "images/budokai/budokai_announce_03.png",
+        "round": 4
+    },
+    {
         "budokai_id": 1022,
         "description": "予選 始まります！",
         "id": 10221,

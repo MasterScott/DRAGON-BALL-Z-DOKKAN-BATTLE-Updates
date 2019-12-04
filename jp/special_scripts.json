@@ -2204,6 +2204,12 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 368,
+        "script_name": "sp0454"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 369,
         "script_name": "sp0455"
     },
@@ -2912,7 +2918,133 @@
     {
         "attack_attributes": 1,
         "energy_color": null,
+        "id": 488,
+        "script_name": "sp0575"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 489,
+        "script_name": "sp0576"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 490,
+        "script_name": "sp0577"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 491,
+        "script_name": "sp0578"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
         "id": 492,
         "script_name": "sp0571"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 493,
+        "script_name": "sp0579"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 494,
+        "script_name": "sp0580"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 495,
+        "script_name": "sp0597"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 496,
+        "script_name": "sp0581"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 497,
+        "script_name": "sp0583"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 498,
+        "script_name": "sp0584"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 499,
+        "script_name": "sp0585"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 501,
+        "script_name": "sp0591"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 502,
+        "script_name": "sp0592"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 503,
+        "script_name": "sp0593"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 504,
+        "script_name": "sp0594"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 505,
+        "script_name": "sp0595"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 510,
+        "script_name": "sp0587"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 511,
+        "script_name": "sp0588"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 512,
+        "script_name": "sp0589"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 513,
+        "script_name": "sp0599"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 514,
+        "script_name": "sp1360"
     }
 ]

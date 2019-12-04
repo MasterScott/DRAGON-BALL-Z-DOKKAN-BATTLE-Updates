@@ -1287,6 +1287,87 @@
         "updated_at": "2019-07-22 00:42:33"
     },
     {
+        "budokai_motivation_id": 3204,
+        "conditions": "{\"title_num\":1}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "1回優勝で解放",
+        "id": 3204,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3205,
+        "conditions": "{\"title_num\":2}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "2回優勝で解放",
+        "id": 3205,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3206,
+        "conditions": "{\"title_num\":3}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "3回優勝で解放",
+        "id": 3206,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3207,
+        "conditions": "{\"title_num\":4}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "4回優勝で解放",
+        "id": 3207,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3208,
+        "conditions": "{\"title_num\":5}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "5回優勝で解放",
+        "id": 3208,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3209,
+        "conditions": "{\"title_num\":6}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "6回優勝で解放",
+        "id": 3209,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3210,
+        "conditions": "{\"title_num\":7}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "7回優勝で解放",
+        "id": 3210,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3211,
+        "conditions": "{\"title_num\":8}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "8回優勝で解放",
+        "id": 3211,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
+        "budokai_motivation_id": 3212,
+        "conditions": "{\"title_num\":9}",
+        "created_at": "2019-10-18 02:41:06",
+        "description": "9回優勝で解放",
+        "id": 3212,
+        "type": "BudokaiMotivationUnlockCondition::TitleCondition",
+        "updated_at": "2019-10-18 02:41:06"
+    },
+    {
         "budokai_motivation_id": 102204,
         "conditions": "{\"title_num\":1}",
         "created_at": "2019-07-22 00:42:33",

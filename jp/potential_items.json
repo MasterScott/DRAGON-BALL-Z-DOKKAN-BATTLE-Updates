@@ -5,8 +5,8 @@
         "id": 1,
         "name": "速の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -14,8 +14,8 @@
         "id": 2,
         "name": "技の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -23,8 +23,8 @@
         "id": 3,
         "name": "知の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -32,8 +32,8 @@
         "id": 4,
         "name": "力の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -41,8 +41,8 @@
         "id": 5,
         "name": "体の潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 10,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -50,8 +50,8 @@
         "id": 6,
         "name": "速の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 2,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -59,8 +59,8 @@
         "id": 7,
         "name": "技の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 2,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -68,8 +68,8 @@
         "id": 8,
         "name": "知の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 2,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -77,8 +77,8 @@
         "id": 9,
         "name": "力の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 2,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -86,8 +86,8 @@
         "id": 10,
         "name": "体の潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 2,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -95,8 +95,8 @@
         "id": 11,
         "name": "速の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 100,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 20,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -104,8 +104,8 @@
         "id": 12,
         "name": "技の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 100,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 20,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -113,8 +113,8 @@
         "id": 13,
         "name": "知の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 100,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 20,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -122,8 +122,8 @@
         "id": 14,
         "name": "力の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 100,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 20,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -131,8 +131,8 @@
         "id": 15,
         "name": "体の潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 100,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 20,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -140,8 +140,8 @@
         "id": 16,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -149,8 +149,8 @@
         "id": 17,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -158,8 +158,8 @@
         "id": 18,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -167,8 +167,8 @@
         "id": 19,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -176,8 +176,8 @@
         "id": 20,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -185,8 +185,8 @@
         "id": 21,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -194,8 +194,8 @@
         "id": 22,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -203,8 +203,8 @@
         "id": 23,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -212,8 +212,8 @@
         "id": 24,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -221,8 +221,8 @@
         "id": 25,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -230,8 +230,8 @@
         "id": 26,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -239,8 +239,8 @@
         "id": 27,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -248,8 +248,8 @@
         "id": 28,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -257,8 +257,8 @@
         "id": 29,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -266,8 +266,8 @@
         "id": 30,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -275,8 +275,8 @@
         "id": 31,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -284,8 +284,8 @@
         "id": 32,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -293,8 +293,8 @@
         "id": 33,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -302,8 +302,8 @@
         "id": 34,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -311,8 +311,8 @@
         "id": 35,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -320,8 +320,8 @@
         "id": 36,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -329,8 +329,8 @@
         "id": 37,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -338,8 +338,8 @@
         "id": 38,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -347,8 +347,8 @@
         "id": 39,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -356,8 +356,8 @@
         "id": 40,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -365,8 +365,8 @@
         "id": 41,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -374,8 +374,8 @@
         "id": 42,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -383,8 +383,8 @@
         "id": 43,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -392,8 +392,8 @@
         "id": 44,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -401,8 +401,8 @@
         "id": 45,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -410,8 +410,8 @@
         "id": 46,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -419,8 +419,8 @@
         "id": 47,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -428,8 +428,8 @@
         "id": 48,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -437,8 +437,8 @@
         "id": 49,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -446,8 +446,8 @@
         "id": 50,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -455,8 +455,8 @@
         "id": 51,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -464,8 +464,8 @@
         "id": 52,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -473,8 +473,8 @@
         "id": 53,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -482,8 +482,8 @@
         "id": 54,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -491,8 +491,8 @@
         "id": 55,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -500,8 +500,8 @@
         "id": 56,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-22 00:51:01",
@@ -509,8 +509,8 @@
         "id": 57,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-22 00:51:01"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-29 02:04:29",
@@ -518,8 +518,8 @@
         "id": 58,
         "name": "潜在能力玉(小)",
         "rarity": 0,
-        "selling_exchange_point": 5,
-        "updated_at": "2019-07-29 02:04:29"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-29 02:04:29",
@@ -527,8 +527,8 @@
         "id": 59,
         "name": "潜在能力玉(中)",
         "rarity": 1,
-        "selling_exchange_point": 25,
-        "updated_at": "2019-07-29 02:04:29"
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-19 02:06:40"
     },
     {
         "created_at": "2019-07-29 02:04:29",
@@ -536,7 +536,34 @@
         "id": 60,
         "name": "潜在能力玉(大)",
         "rarity": 2,
-        "selling_exchange_point": 50,
-        "updated_at": "2019-07-29 02:04:29"
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-19 02:06:40"
+    },
+    {
+        "created_at": "2019-08-26 02:04:31",
+        "description": "イベント「最強激突!!セルゲーム」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 61,
+        "name": "潜在能力玉(小)",
+        "rarity": 0,
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-26 02:04:31"
+    },
+    {
+        "created_at": "2019-08-26 02:04:31",
+        "description": "イベント「最強激突!!セルゲーム」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 62,
+        "name": "潜在能力玉(中)",
+        "rarity": 1,
+        "selling_exchange_point": 1,
+        "updated_at": "2019-08-26 02:04:31"
+    },
+    {
+        "created_at": "2019-08-26 02:04:31",
+        "description": "イベント「最強激突!!セルゲーム」で\n仲間になるキャラクターの潜在能力を\n解放することができる不思議な力を秘めた気の塊。",
+        "id": 63,
+        "name": "潜在能力玉(大)",
+        "rarity": 2,
+        "selling_exchange_point": 10,
+        "updated_at": "2019-08-26 02:04:31"
     }
 ]

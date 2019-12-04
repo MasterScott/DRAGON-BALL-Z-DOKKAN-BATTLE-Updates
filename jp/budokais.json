@@ -497,6 +497,22 @@
     },
     {
         "banner_image_path": "images/budokai/banner/budokai_banner_00001.png",
+        "collecting_end_at": "2019-10-29 08:59:59",
+        "created_at": "2019-10-18 02:41:08",
+        "description": "トーナメントを勝ち上がって優勝を目指そう!!\nガシャチケットや龍石など豪華報酬が獲得できるぞ!!",
+        "description_script_id": 0,
+        "end_at": "2019-10-27 12:59:59",
+        "entry_script_id": 100,
+        "id": 32,
+        "listbutton_image_path": "images/home/myp_banner_event_001.png",
+        "mission_reward_image_path": "images/mission_ten1/tour_rank_prize_mission_cell_banner_2.png",
+        "name": "第32回天下一武道会",
+        "result_end_at": "2019-11-05 14:59:59",
+        "start_at": "2019-10-25 08:00:00",
+        "updated_at": "2019-10-18 02:41:08"
+    },
+    {
+        "banner_image_path": "images/budokai/banner/budokai_banner_00001.png",
         "collecting_end_at": "2017-12-18 05:10:00",
         "created_at": "2019-07-22 00:43:13",
         "description": "トーナメントを勝ち上がって優勝を目指そう!!\nガシャチケットや龍石など豪華報酬が獲得できるぞ!!",
