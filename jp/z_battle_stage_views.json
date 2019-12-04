@@ -308,5 +308,15 @@
         "params": "{\"lwf\":{\"event_top_chara\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_start\":{\"x\":50,\"y\":-190,\"scale\":1.35},\"anime_end\":{\"x\":158,\"y\":-230,\"scale\":1.35},\"shadow\":{\"x\":-74,\"y\":460,\"scale\":0.75},\"start_chara\":{\"x\":0,\"y\":-14,\"scale\":1.14}}}",
         "updated_at": "2019-10-15 01:46:32",
         "z_battle_stage_id": 31
+    },
+    {
+        "created_at": "2019-11-08 03:20:19",
+        "enemy_name": "超ベジット",
+        "enemy_nickname": "比類なき黄金の気",
+        "enemy_resource_id": 1006791,
+        "id": 35,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_start\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_end\":{\"x\":98,\"y\":-240,\"scale\":1.15},\"shadow\":{\"x\":-172,\"y\":498,\"scale\":0.65},\"start_chara\":{\"x\":0,\"y\":-8,\"scale\":1.17}}}",
+        "updated_at": "2019-11-20 06:12:20",
+        "z_battle_stage_id": 32
     }
 ]

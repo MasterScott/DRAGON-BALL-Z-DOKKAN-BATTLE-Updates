@@ -3708,6 +3708,33 @@
         "updated_at": "2019-11-28 02:07:06"
     },
     {
+        "cau_val1": 40,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 2,
+        "created_at": "2019-12-04 02:03:26",
+        "id": 442,
+        "updated_at": "2019-12-04 02:03:26"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 20,
+        "cau_val3": 1,
+        "causality_type": 41,
+        "created_at": "2019-12-04 02:03:26",
+        "id": 443,
+        "updated_at": "2019-12-04 02:03:26"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 21,
+        "cau_val3": 1,
+        "causality_type": 41,
+        "created_at": "2019-12-04 02:03:26",
+        "id": 444,
+        "updated_at": "2019-12-04 02:03:26"
+    },
+    {
         "cau_val1": 200,
         "cau_val2": 0,
         "cau_val3": 0,

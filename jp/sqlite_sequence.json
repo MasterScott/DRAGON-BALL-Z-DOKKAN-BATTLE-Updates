@@ -121,15 +121,15 @@
     },
     {
         "name": "card_awakening_routes",
-        "seq": 2483
+        "seq": 2508
     },
     {
         "name": "card_awakening_sets",
-        "seq": 1025
+        "seq": 1048
     },
     {
         "name": "card_awakenings",
-        "seq": 1547
+        "seq": 1570
     },
     {
         "name": "card_card_categories",
@@ -153,11 +153,11 @@
     },
     {
         "name": "card_unique_info_set_relations",
-        "seq": 136
+        "seq": 138
     },
     {
         "name": "card_motions",
-        "seq": 1940
+        "seq": 1944
     },
     {
         "name": "card_specials",
@@ -201,11 +201,11 @@
     },
     {
         "name": "enemy_ai_conditions",
-        "seq": 387
+        "seq": 409
     },
     {
         "name": "enemy_skills",
-        "seq": 1000342
+        "seq": 1000354
     },
     {
         "name": "eventkagi_items",
@@ -217,7 +217,7 @@
     },
     {
         "name": "related_card_categories",
-        "seq": 1000232
+        "seq": 1000248
     },
     {
         "name": "related_passive_skill_sets",
@@ -277,7 +277,7 @@
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": 420
+        "seq": 441
     },
     {
         "name": "passive_skills",
@@ -285,11 +285,11 @@
     },
     {
         "name": "passive_skill_sets",
-        "seq": 1970
+        "seq": 1975
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": 4274
+        "seq": 4295
     },
     {
         "name": "points",
@@ -413,7 +413,7 @@
     },
     {
         "name": "specials",
-        "seq": 1002139
+        "seq": 1002152
     },
     {
         "name": "special_bonuses",
@@ -497,47 +497,47 @@
     },
     {
         "name": "z_battle_check_points",
-        "seq": 205
+        "seq": 217
     },
     {
         "name": "z_battle_enemies",
-        "seq": 34
+        "seq": 36
     },
     {
         "name": "z_battle_enemy_card_escalations",
-        "seq": 99
+        "seq": 103
     },
     {
         "name": "z_battle_enemy_skill_escalations",
-        "seq": 808
+        "seq": 860
     },
     {
         "name": "z_battle_enemy_status_escalations",
-        "seq": 926
+        "seq": 972
     },
     {
         "name": "z_battle_first_rewards",
-        "seq": 3680
+        "seq": 3886
     },
     {
         "name": "z_battle_first_reward_level_ranges",
-        "seq": 1054
+        "seq": 1116
     },
     {
         "name": "z_battle_normal_reward_tables",
-        "seq": 256
+        "seq": 268
     },
     {
         "name": "z_battle_normal_rewards",
-        "seq": 280
+        "seq": 292
     },
     {
         "name": "z_battle_stages",
-        "seq": 31
+        "seq": 32
     },
     {
         "name": "z_battle_powerup_thresholds",
-        "seq": 33
+        "seq": 35
     },
     {
         "name": "z_battle_powerup_views",
@@ -549,6 +549,6 @@
     },
     {
         "name": "z_battle_stage_views",
-        "seq": 33
+        "seq": 35
     }
 ]

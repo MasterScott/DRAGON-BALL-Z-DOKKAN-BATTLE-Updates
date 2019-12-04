@@ -702,5 +702,21 @@
         "id": 99,
         "level": 15,
         "updated_at": "2019-10-08 05:22:23"
+    },
+    {
+        "card_id": 1008411,
+        "created_at": "2019-11-08 03:20:20",
+        "escalation_type": 250,
+        "id": 102,
+        "level": 1,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "card_id": 1006791,
+        "created_at": "2019-11-08 03:20:20",
+        "escalation_type": 250,
+        "id": 103,
+        "level": 15,
+        "updated_at": "2019-11-08 03:20:20"
     }
 ]

@@ -2143,5 +2143,71 @@
         "updated_at": "2019-10-08 05:22:23",
         "z_battle_normal_reward_table_group_id": 178,
         "z_battle_stage_id": 31
+    },
+    {
+        "act": 3,
+        "created_at": "2019-11-08 03:20:19",
+        "eventkagi_num": 1,
+        "id": 212,
+        "level": 5,
+        "main_reward_id": 287,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_normal_reward_table_group_id": 185,
+        "z_battle_stage_id": 32
+    },
+    {
+        "act": 5,
+        "created_at": "2019-11-08 03:20:20",
+        "eventkagi_num": 2,
+        "id": 213,
+        "level": 10,
+        "main_reward_id": 288,
+        "updated_at": "2019-11-08 03:20:20",
+        "z_battle_normal_reward_table_group_id": 186,
+        "z_battle_stage_id": 32
+    },
+    {
+        "act": 5,
+        "created_at": "2019-11-08 03:20:20",
+        "eventkagi_num": 2,
+        "id": 214,
+        "level": 15,
+        "main_reward_id": 289,
+        "updated_at": "2019-11-08 03:20:20",
+        "z_battle_normal_reward_table_group_id": 187,
+        "z_battle_stage_id": 32
+    },
+    {
+        "act": 7,
+        "created_at": "2019-11-08 03:20:20",
+        "eventkagi_num": 3,
+        "id": 215,
+        "level": 20,
+        "main_reward_id": 290,
+        "updated_at": "2019-11-08 03:20:20",
+        "z_battle_normal_reward_table_group_id": 188,
+        "z_battle_stage_id": 32
+    },
+    {
+        "act": 10,
+        "created_at": "2019-11-08 03:20:20",
+        "eventkagi_num": 3,
+        "id": 216,
+        "level": 25,
+        "main_reward_id": 291,
+        "updated_at": "2019-11-08 03:20:20",
+        "z_battle_normal_reward_table_group_id": 189,
+        "z_battle_stage_id": 32
+    },
+    {
+        "act": 15,
+        "created_at": "2019-11-08 03:20:20",
+        "eventkagi_num": 3,
+        "id": 217,
+        "level": 30,
+        "main_reward_id": 292,
+        "updated_at": "2019-11-08 03:20:20",
+        "z_battle_normal_reward_table_group_id": 190,
+        "z_battle_stage_id": 32
     }
 ]

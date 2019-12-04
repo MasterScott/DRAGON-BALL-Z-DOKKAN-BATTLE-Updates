@@ -203,6 +203,20 @@
         "updated_at": "2019-09-12 02:07:37"
     },
     {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2,
+        "id": 214,
+        "passive_skill_set_id": 1974,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2,
+        "id": 215,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
         "created_at": "2019-03-10 16:23:32",
         "enemy_skill_id": 11,
         "id": 1100,
@@ -3423,6 +3437,20 @@
         "updated_at": "2019-09-12 02:07:37"
     },
     {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 1100,
+        "id": 110014,
+        "passive_skill_set_id": 1974,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 1100,
+        "id": 110015,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
         "created_at": "2019-03-10 16:23:32",
         "enemy_skill_id": 1110,
         "id": 111000,
@@ -3519,6 +3547,20 @@
         "id": 111013,
         "passive_skill_set_id": 1657,
         "updated_at": "2019-09-12 02:07:37"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 1110,
+        "id": 111014,
+        "passive_skill_set_id": 1974,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 1110,
+        "id": 111015,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
     },
     {
         "created_at": "2019-03-10 16:23:32",
@@ -5075,6 +5117,13 @@
         "updated_at": "2019-10-02 02:04:55"
     },
     {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2200,
+        "id": 220032,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
         "created_at": "2019-03-10 16:23:32",
         "enemy_skill_id": 2210,
         "id": 221000,
@@ -5297,6 +5346,13 @@
         "id": 221031,
         "passive_skill_set_id": 1914,
         "updated_at": "2019-10-02 02:04:55"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2210,
+        "id": 221032,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
     },
     {
         "created_at": "2019-03-10 16:23:32",
@@ -5523,6 +5579,13 @@
         "updated_at": "2019-10-02 02:04:55"
     },
     {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2220,
+        "id": 222032,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
         "created_at": "2019-03-10 16:23:33",
         "enemy_skill_id": 2230,
         "id": 223000,
@@ -5747,6 +5810,13 @@
         "updated_at": "2019-10-02 02:04:55"
     },
     {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2230,
+        "id": 223032,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
         "created_at": "2019-03-10 16:23:33",
         "enemy_skill_id": 2240,
         "id": 224000,
@@ -5969,6 +6039,13 @@
         "id": 224031,
         "passive_skill_set_id": 1914,
         "updated_at": "2019-10-02 02:04:55"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 2240,
+        "id": 224032,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
     },
     {
         "created_at": "2019-03-10 16:23:33",
@@ -13669,6 +13746,20 @@
         "id": 724013,
         "passive_skill_set_id": 1657,
         "updated_at": "2019-09-12 02:07:37"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 7240,
+        "id": 724014,
+        "passive_skill_set_id": 1974,
+        "updated_at": "2019-12-04 02:03:03"
+    },
+    {
+        "created_at": "2019-12-04 02:03:03",
+        "enemy_skill_id": 7240,
+        "id": 724015,
+        "passive_skill_set_id": 1975,
+        "updated_at": "2019-12-04 02:03:03"
     },
     {
         "created_at": "2019-10-02 02:04:55",

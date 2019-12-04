@@ -13264,5 +13264,212 @@
         "num": 1,
         "quantity": 20,
         "updated_at": "2019-11-28 02:02:41"
+    },
+    {
+        "awakening_item_id": 32202,
+        "card_awakening_set_id": 1026,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1548,
+        "num": 1,
+        "quantity": 10,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 32205,
+        "card_awakening_set_id": 1027,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1549,
+        "num": 1,
+        "quantity": 2,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100411,
+        "card_awakening_set_id": 1028,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1550,
+        "num": 1,
+        "quantity": 3,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100411,
+        "card_awakening_set_id": 1029,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1551,
+        "num": 1,
+        "quantity": 5,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100411,
+        "card_awakening_set_id": 1030,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1552,
+        "num": 1,
+        "quantity": 7,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100412,
+        "card_awakening_set_id": 1031,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1553,
+        "num": 1,
+        "quantity": 10,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100412,
+        "card_awakening_set_id": 1032,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1554,
+        "num": 1,
+        "quantity": 30,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100413,
+        "card_awakening_set_id": 1033,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1555,
+        "num": 1,
+        "quantity": 30,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100414,
+        "card_awakening_set_id": 1034,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1556,
+        "num": 1,
+        "quantity": 30,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1035,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1557,
+        "num": 1,
+        "quantity": 2,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1036,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1558,
+        "num": 1,
+        "quantity": 4,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1037,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1559,
+        "num": 1,
+        "quantity": 6,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100372,
+        "card_awakening_set_id": 1038,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1560,
+        "num": 1,
+        "quantity": 8,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100372,
+        "card_awakening_set_id": 1039,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1561,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100373,
+        "card_awakening_set_id": 1040,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1562,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100374,
+        "card_awakening_set_id": 1041,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1563,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1042,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1564,
+        "num": 1,
+        "quantity": 2,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1043,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1565,
+        "num": 1,
+        "quantity": 4,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100371,
+        "card_awakening_set_id": 1044,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1566,
+        "num": 1,
+        "quantity": 6,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100372,
+        "card_awakening_set_id": 1045,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1567,
+        "num": 1,
+        "quantity": 8,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100372,
+        "card_awakening_set_id": 1046,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1568,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100373,
+        "card_awakening_set_id": 1047,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1569,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
+    },
+    {
+        "awakening_item_id": 100374,
+        "card_awakening_set_id": 1048,
+        "created_at": "2019-12-04 01:59:46",
+        "id": 1570,
+        "num": 1,
+        "quantity": 12,
+        "updated_at": "2019-12-04 01:59:46"
     }
 ]

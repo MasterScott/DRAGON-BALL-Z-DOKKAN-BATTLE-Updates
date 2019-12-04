@@ -19771,6 +19771,56 @@
     },
     {
         "aim_target": 0,
+        "created_at": "2019-12-04 02:03:43",
+        "description": "超特大ダメージ&2ターン仲間ATK25%UP",
+        "id": 2148,
+        "increase_rate": 125,
+        "lv_bonus": 20,
+        "name": "デンジャラスコンビネーション",
+        "updated_at": "2019-12-04 02:03:43"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-04 02:03:43",
+        "description": "1ターンATKとDEFが大幅上昇し、\n相手に超特大ダメージを与え必殺技を封じる",
+        "id": 2149,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ハイパーメガリルドパンチ",
+        "updated_at": "2019-12-04 02:03:43"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-04 02:03:43",
+        "description": "超絶特大ダメージ&1ターン仲間ATK35%UP",
+        "id": 2150,
+        "increase_rate": 145,
+        "lv_bonus": 25,
+        "name": "スピリッツソード(極限)",
+        "updated_at": "2019-12-04 02:03:43"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-04 02:03:43",
+        "description": "DEFが上昇し、\n相手に超特大ダメージを与え、\nDEFを大幅低下させる",
+        "id": 2151,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "サディスティックダンス(極限)",
+        "updated_at": "2019-12-04 02:03:43"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-04 02:03:43",
+        "description": "ATKが上昇し、\n相手に超特大ダメージを与え、\nDEFを大幅低下させる",
+        "id": 2152,
+        "increase_rate": 120,
+        "lv_bonus": 20,
+        "name": "サディスティックダンス(極限)",
+        "updated_at": "2019-12-04 02:03:43"
+    },
+    {
+        "aim_target": 0,
         "created_at": "2019-11-28 02:07:24",
         "description": "相手に超特大ダメージを与える",
         "id": 2153,

@@ -5966,5 +5966,213 @@
         "id": 808,
         "level": 10,
         "updated_at": "2019-10-08 05:22:23"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000002,
+        "escalation_type": 252,
+        "id": 834,
+        "level": 1,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000003,
+        "escalation_type": 252,
+        "id": 835,
+        "level": 3,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000004,
+        "escalation_type": 252,
+        "id": 836,
+        "level": 5,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000005,
+        "escalation_type": 252,
+        "id": 837,
+        "level": 10,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000006,
+        "escalation_type": 252,
+        "id": 838,
+        "level": 15,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000007,
+        "escalation_type": 252,
+        "id": 839,
+        "level": 20,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000025,
+        "escalation_type": 252,
+        "id": 840,
+        "level": 25,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000008,
+        "escalation_type": 252,
+        "id": 841,
+        "level": 30,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000347,
+        "escalation_type": 252,
+        "id": 843,
+        "level": 1,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000348,
+        "escalation_type": 252,
+        "id": 844,
+        "level": 15,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000349,
+        "escalation_type": 252,
+        "id": 845,
+        "level": 25,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000350,
+        "escalation_type": 252,
+        "id": 846,
+        "level": 1,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000351,
+        "escalation_type": 252,
+        "id": 847,
+        "level": 10,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000352,
+        "escalation_type": 252,
+        "id": 848,
+        "level": 15,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000353,
+        "escalation_type": 252,
+        "id": 849,
+        "level": 20,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000354,
+        "escalation_type": 252,
+        "id": 850,
+        "level": 30,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000021,
+        "escalation_type": 252,
+        "id": 851,
+        "level": 3,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000022,
+        "escalation_type": 252,
+        "id": 852,
+        "level": 15,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000023,
+        "escalation_type": 252,
+        "id": 853,
+        "level": 5,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000024,
+        "escalation_type": 252,
+        "id": 854,
+        "level": 20,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 03:20:20",
+        "enemy_skill_id": 1000162,
+        "escalation_type": 252,
+        "id": 855,
+        "level": 10,
+        "updated_at": "2019-11-08 03:20:20"
+    },
+    {
+        "created_at": "2019-11-08 07:29:09",
+        "enemy_skill_id": 1000343,
+        "escalation_type": 252,
+        "id": 856,
+        "level": 4,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 07:29:09",
+        "enemy_skill_id": 1000344,
+        "escalation_type": 252,
+        "id": 857,
+        "level": 8,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 07:29:09",
+        "enemy_skill_id": 1000345,
+        "escalation_type": 252,
+        "id": 858,
+        "level": 13,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 07:29:09",
+        "enemy_skill_id": 1000259,
+        "escalation_type": 252,
+        "id": 859,
+        "level": 17,
+        "updated_at": "2019-11-08 07:29:09"
+    },
+    {
+        "created_at": "2019-11-08 07:29:09",
+        "enemy_skill_id": 1000346,
+        "escalation_type": 252,
+        "id": 860,
+        "level": 20,
+        "updated_at": "2019-11-08 07:29:09"
     }
 ]

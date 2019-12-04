@@ -34958,5 +34958,1035 @@
         "quantity": 1,
         "updated_at": "2019-10-08 05:22:23",
         "z_battle_first_reward_set_id": 988
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3784,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1020
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3785,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1020
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3786,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 370,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1020
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3787,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1021
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3788,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1021
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3789,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 270,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1021
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3790,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1022
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3791,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1022
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3792,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 20,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1022
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3793,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1023
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3794,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1023
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3795,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 370,
+        "updated_at": "2019-11-08 03:20:18",
+        "z_battle_first_reward_set_id": 1023
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:18",
+        "id": 3796,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1024
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3797,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1024
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3798,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 270,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1024
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3799,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1024
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3800,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1025
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3801,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1025
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3802,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 20,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1025
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3803,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1026
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3804,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1026
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3805,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 370,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1026
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3806,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1027
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3807,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1027
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3808,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 270,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1027
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3809,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1028
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3810,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1028
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3811,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 20,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1028
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3812,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3813,
+        "item_id": 100411,
+        "item_type": "AwakeningItem",
+        "quantity": 3,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3814,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 370,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3815,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 270,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3816,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 20,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3817,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1029
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3818,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1030
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3819,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1030
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3820,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 430,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1030
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3821,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1031
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3822,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1031
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3823,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 330,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1031
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3824,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1032
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3825,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1032
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3826,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1032
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3827,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1033
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3828,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1033
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3829,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 430,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1033
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3830,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1034
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3831,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1034
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3832,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 330,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1034
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3833,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1034
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3834,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1035
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3835,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1035
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3836,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1035
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3837,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1036
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3838,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 5,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1036
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3839,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 430,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1036
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3840,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1037
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3841,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 6,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1037
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3842,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 330,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1037
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3843,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1038
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3844,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 7,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1038
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3845,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1038
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3846,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3847,
+        "item_id": 100412,
+        "item_type": "AwakeningItem",
+        "quantity": 8,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3848,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 430,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3849,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 330,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3850,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 30,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3851,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1039
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3852,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1040
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3853,
+        "item_id": 100413,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1040
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3854,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 500,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1040
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3855,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1041
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3856,
+        "item_id": 100413,
+        "item_type": "AwakeningItem",
+        "quantity": 5,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1041
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3857,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 400,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1041
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3858,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1042
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3859,
+        "item_id": 100413,
+        "item_type": "AwakeningItem",
+        "quantity": 6,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1042
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3860,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1042
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3861,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1043
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3862,
+        "item_id": 100413,
+        "item_type": "AwakeningItem",
+        "quantity": 7,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1043
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3863,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 500,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1043
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3864,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1044
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3865,
+        "item_id": 100413,
+        "item_type": "AwakeningItem",
+        "quantity": 8,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1044
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3866,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 400,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1044
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3867,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 2,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1044
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3868,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1045
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3869,
+        "item_id": 100414,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1045
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3870,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1045
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3871,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1046
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3872,
+        "item_id": 100414,
+        "item_type": "AwakeningItem",
+        "quantity": 5,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1046
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3873,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 500,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1046
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3874,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1047
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3875,
+        "item_id": 100414,
+        "item_type": "AwakeningItem",
+        "quantity": 6,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1047
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3876,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 400,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1047
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3877,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1048
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3878,
+        "item_id": 100414,
+        "item_type": "AwakeningItem",
+        "quantity": 7,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1048
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3879,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1048
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3880,
+        "item_id": 11,
+        "item_type": "Point::Stone",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3881,
+        "item_id": 100414,
+        "item_type": "AwakeningItem",
+        "quantity": 8,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3882,
+        "item_id": 1,
+        "item_type": "PotentialItem",
+        "quantity": 500,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3883,
+        "item_id": 6,
+        "item_type": "PotentialItem",
+        "quantity": 400,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3884,
+        "item_id": 11,
+        "item_type": "PotentialItem",
+        "quantity": 40,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3885,
+        "item_id": 1012230,
+        "item_type": "Card",
+        "quantity": 3,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1049
+    },
+    {
+        "card_exp_init": 765122,
+        "created_at": "2019-11-08 03:20:19",
+        "id": 3886,
+        "item_id": 1005480,
+        "item_type": "Card",
+        "quantity": 1,
+        "updated_at": "2019-11-08 03:20:19",
+        "z_battle_first_reward_set_id": 1050
     }
 ]

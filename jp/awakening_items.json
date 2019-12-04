@@ -5115,6 +5115,50 @@
         "zeni": 400000
     },
     {
+        "created_at": "2019-12-04 01:59:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 100411,
+        "name": "超ベジット[銅]",
+        "rarity": 0,
+        "selling_exchange_point": 20,
+        "updated_at": "2019-12-04 01:59:39",
+        "zeni": 100000
+    },
+    {
+        "created_at": "2019-12-04 01:59:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 100412,
+        "name": "超ベジット[銀]",
+        "rarity": 1,
+        "selling_exchange_point": 20,
+        "updated_at": "2019-12-04 01:59:39",
+        "zeni": 200000
+    },
+    {
+        "created_at": "2019-12-04 01:59:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 100413,
+        "name": "超ベジット[金]",
+        "rarity": 2,
+        "selling_exchange_point": 20,
+        "updated_at": "2019-12-04 01:59:39",
+        "zeni": 300000
+    },
+    {
+        "created_at": "2019-12-04 01:59:39",
+        "description": "特定のキャラクターの覚醒に必要",
+        "event_jumpable": 1,
+        "id": 100414,
+        "name": "超ベジット[虹]",
+        "rarity": 3,
+        "selling_exchange_point": 20,
+        "updated_at": "2019-12-04 01:59:39",
+        "zeni": 400000
+    },
+    {
         "created_at": "2019-11-20 00:29:07",
         "description": "特定のキャラクターの覚醒に必要\n「ギニュー特戦隊のスペシャルトレーニング」の\nミッションで入手可能",
         "event_jumpable": 1,
