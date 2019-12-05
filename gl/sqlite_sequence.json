@@ -137,7 +137,7 @@
     },
     {
         "name": "card_card_categories",
-        "seq": 81010141004
+        "seq": 81010141005
     },
     {
         "name": "card_categories",
@@ -169,7 +169,11 @@
     },
     {
         "name": "card_training_skill_lvs",
-        "seq": 14
+        "seq": 15
+    },
+    {
+        "name": "card_unique_info_set_relations",
+        "seq": 51
     },
     {
         "name": "card_unique_infos",
@@ -193,7 +197,7 @@
     },
     {
         "name": "collection_uniques",
-        "seq": 447
+        "seq": 461
     },
     {
         "name": "effect_packs",
@@ -393,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 306
+        "seq": 387
     },
     {
         "name": "skill_groups",
@@ -489,7 +493,7 @@
     },
     {
         "name": "wallpaper_items",
-        "seq": 3
+        "seq": 4
     },
     {
         "name": "worlds",

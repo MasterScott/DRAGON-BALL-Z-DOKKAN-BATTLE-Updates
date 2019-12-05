@@ -1,7 +1,7 @@
 [
     {
         "calc_option": 2,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Increase your Power Level by 50%",
         "eff_value1": 150,
         "eff_value2": 150,
@@ -13,11 +13,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 4,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Increase your Ki to 100%",
         "eff_value1": 100,
         "eff_value2": 0,
@@ -29,11 +29,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Get all the Ki on the board",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -45,11 +45,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Attack twice in a row",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -61,11 +61,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Break your opponent's guard",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -77,11 +77,11 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 2,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Double your next attack",
         "eff_value1": 200,
         "eff_value2": 0,
@@ -93,11 +93,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Cancel your opponent's attack turn",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -109,11 +109,11 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 4,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Reduce your opponent's DEF to 0",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -125,11 +125,11 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Add damaged received to next attack",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -141,11 +141,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Nullify all effects",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -157,11 +157,11 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Reduce damage received to 10%",
         "eff_value1": 90,
         "eff_value2": 0,
@@ -173,11 +173,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Absorb Ki Super Attacks and recover HP",
         "eff_value1": 0,
         "eff_value2": 0,
@@ -189,11 +189,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 3,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Lower Power Level by 50%",
         "eff_value1": 150,
         "eff_value2": 150,
@@ -205,11 +205,11 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 3,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Recover HP",
         "eff_value1": 5000,
         "eff_value2": 0,
@@ -221,11 +221,11 @@
         "need_turn": 1,
         "target_type": 0,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     },
     {
         "calc_option": 0,
-        "created_at": "2019-11-27 08:10:32.686610",
+        "created_at": "2019-12-05 06:02:00.323135",
         "description": "Extend attack turn by 1",
         "eff_value1": 1,
         "eff_value2": 0,
@@ -237,6 +237,6 @@
         "need_turn": 1,
         "target_type": 2,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:32.686610"
+        "updated_at": "2019-12-05 06:02:00.323135"
     }
 ]

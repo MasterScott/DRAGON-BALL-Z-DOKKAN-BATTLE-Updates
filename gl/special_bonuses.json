@@ -2,7 +2,7 @@
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Super Attacks will become more powerful!",
         "eff_value1": 20,
         "eff_value2": 0,
@@ -14,12 +14,12 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 0,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Launching a Super Attack will become easier!",
         "eff_value1": 1,
         "eff_value2": 0,
@@ -31,12 +31,12 @@
         "probability": 0,
         "target_type": 0,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 0,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Launch Super ATK when Ki is 8 or above",
         "eff_value1": 4,
         "eff_value2": 0,
@@ -48,12 +48,12 @@
         "probability": 0,
         "target_type": 0,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 0,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Launch Super ATK when Ki is 9 or above",
         "eff_value1": 3,
         "eff_value2": 0,
@@ -65,12 +65,12 @@
         "probability": 0,
         "target_type": 0,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Super Attack power will be increased even more!",
         "eff_value1": 30,
         "eff_value2": 0,
@@ -82,12 +82,12 @@
         "probability": 100,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "30% of chance for the Super Attack to transform for greater power!",
         "eff_value1": 60,
         "eff_value2": 0,
@@ -99,12 +99,12 @@
         "probability": 30,
         "target_type": 1,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 3,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "50% of chance for the Super Attack to transform \nand lower DEF for 1 turn; power will increase more \nif Super Attack level reaches 20!",
         "eff_value1": 30,
         "eff_value2": 0,
@@ -116,12 +116,12 @@
         "probability": 50,
         "target_type": 1,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "30% of chance for the Super Attack to transform \nand increase ATK & DEF for 1 turn; power will increase more \nif Super Attack level reaches 20!",
         "eff_value1": 50,
         "eff_value2": 50,
@@ -133,12 +133,12 @@
         "probability": 30,
         "target_type": 1,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "30% chance for the Super Attack \nto transform for more power! \nLaunch Super Attack when Ki is 9 or more \nif Super Attack level reaches 10!",
         "eff_value1": 20,
         "eff_value2": 0,
@@ -150,12 +150,12 @@
         "probability": 30,
         "target_type": 1,
         "turn": 1,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 2,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "50% chance for the Super Attack \nto transform and Tien to appear! \nPower will be supremely boosted for 3 turns!",
         "eff_value1": 90,
         "eff_value2": 0,
@@ -167,12 +167,12 @@
         "probability": 50,
         "target_type": 1,
         "turn": 3,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 0,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Launch Super Attack when Ki is 9 or more! \nPower will increase more if Super Attack \nlevel reaches 20!",
         "eff_value1": 3,
         "eff_value2": 0,
@@ -184,12 +184,12 @@
         "probability": 0,
         "target_type": 0,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     },
     {
         "calc_option": 0,
         "causality_conditions": null,
-        "created_at": "2019-11-27 08:10:33.029878",
+        "created_at": "2019-12-05 06:02:00.526519",
         "description": "Launch Ultra Super Attack when Ki is \n15 or more! Power will increase more \nif Super Attack level reaches 20!",
         "eff_value1": 3,
         "eff_value2": 0,
@@ -201,6 +201,6 @@
         "probability": 0,
         "target_type": 0,
         "turn": 0,
-        "updated_at": "2019-11-27 08:10:33.029878"
+        "updated_at": "2019-12-05 06:02:00.526519"
     }
 ]

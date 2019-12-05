@@ -3,247 +3,260 @@
         "box_max_count": 1600,
         "budokai_id": 15,
         "collecting_end_at": "2017-01-26 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-01-25 05:59:59",
         "id": 1,
         "player_max_count": 300,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": 13,
         "start_at": "2017-01-20 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 1600,
         "budokai_id": 16,
         "collecting_end_at": "2017-03-21 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-03-20 05:59:59",
         "id": 2,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": 15,
         "start_at": "2017-03-17 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2800,
         "budokai_id": 17,
         "collecting_end_at": "2017-05-09 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-05-08 05:59:59",
         "id": 170,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2017-05-03 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3200,
         "budokai_id": 18,
         "collecting_end_at": "2017-07-27 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-07-25 05:59:59",
         "id": 181,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2017-07-20 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3200,
         "budokai_id": 19,
         "collecting_end_at": "2017-08-31 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-08-29 05:59:59",
         "id": 191,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2017-08-25 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 20,
         "collecting_end_at": "2017-10-13 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-10-11 05:59:59",
         "id": 201,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2017-10-06 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3200,
         "budokai_id": 21,
         "collecting_end_at": "2017-11-16 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2017-11-14 05:59:59",
         "id": 211,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2017-11-10 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 22,
         "collecting_end_at": "2018-02-01 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-01-30 07:59:59",
         "id": 221,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-01-26 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 23,
         "collecting_end_at": "2018-11-14 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-11-12 05:59:59",
         "id": 231,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-11-09 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 24,
         "collecting_end_at": "2018-12-26 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-12-24 05:59:59",
         "id": 241,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-12-21 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2000,
         "budokai_id": 25,
         "collecting_end_at": "2019-01-30 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-01-28 05:59:59",
         "id": 251,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-01-25 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2200,
         "budokai_id": 26,
         "collecting_end_at": "2019-03-20 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-03-18 05:59:59",
         "id": 261,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-03-15 06:00:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2200,
         "budokai_id": 27,
         "collecting_end_at": "2019-05-08 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-05-06 05:59:59",
         "id": 271,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-05-03 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2200,
         "budokai_id": 28,
         "collecting_end_at": "2019-07-07 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-07-05 05:59:59",
         "id": 281,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-07-02 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3300,
         "budokai_id": 29,
         "collecting_end_at": "2019-08-28 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-08-26 05:59:59",
         "id": 291,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-08-23 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 2560,
         "budokai_id": 30,
         "collecting_end_at": "2019-10-02 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2019-09-30 05:59:59",
         "id": 301,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2019-09-27 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
+    },
+    {
+        "box_max_count": 2600,
+        "budokai_id": 31,
+        "collecting_end_at": "2019-12-11 05:59:59",
+        "created_at": "2019-12-05 05:57:11.454404",
+        "end_at": "2019-12-09 05:59:59",
+        "id": 311,
+        "player_max_count": 0,
+        "prev_budokai_box_ranking_id": null,
+        "prev_budokai_id": null,
+        "start_at": "2019-12-06 06:30:00",
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 921,
         "collecting_end_at": "2018-06-28 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-06-26 05:59:59",
         "id": 9211,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-06-22 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 922,
         "collecting_end_at": "2018-08-29 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-08-27 05:59:59",
         "id": 9221,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-08-24 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     },
     {
         "box_max_count": 3000,
         "budokai_id": 923,
         "collecting_end_at": "2018-05-10 05:59:59",
-        "created_at": "2019-11-27 08:04:44.095785",
+        "created_at": "2019-12-05 05:57:11.454404",
         "end_at": "2018-05-08 05:59:59",
         "id": 9231,
         "player_max_count": 0,
         "prev_budokai_box_ranking_id": null,
         "prev_budokai_id": null,
         "start_at": "2018-05-04 06:30:00",
-        "updated_at": "2019-11-27 08:04:44.095785"
+        "updated_at": "2019-12-05 05:57:11.454404"
     }
 ]

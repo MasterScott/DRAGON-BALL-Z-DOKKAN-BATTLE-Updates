@@ -1,42 +1,42 @@
 [
     {
-        "created_at": "2019-11-27 08:10:51.572383",
+        "created_at": "2019-12-05 06:02:10.155985",
         "description": "Ultimate Damage +100%",
         "id": 2,
         "increase_rate": 650,
         "name": "For LR Super Saiyan 4 Goku/Vegeta",
-        "updated_at": "2019-11-27 08:10:51.572383"
+        "updated_at": "2019-12-05 06:02:10.155985"
     },
     {
-        "created_at": "2019-11-27 08:10:51.572383",
+        "created_at": "2019-12-05 06:02:10.155985",
         "description": "Causes ultimate damage",
         "id": 3,
         "increase_rate": 650,
         "name": "For Goku (Youth)",
-        "updated_at": "2019-11-27 08:10:51.572383"
+        "updated_at": "2019-12-05 06:02:10.155985"
     },
     {
-        "created_at": "2019-11-27 08:10:51.572383",
+        "created_at": "2019-12-05 06:02:10.155985",
         "description": "Ultimate Damage +100%",
         "id": 4,
         "increase_rate": 650,
         "name": "For LR Gohan & Goten",
-        "updated_at": "2019-11-27 08:10:51.572383"
+        "updated_at": "2019-12-05 06:02:10.155985"
     },
     {
-        "created_at": "2019-11-27 08:10:51.572383",
+        "created_at": "2019-12-05 06:02:10.155985",
         "description": "Causes supreme damage \n(Equivalent to Super Attack Level 15)",
         "id": 5,
         "increase_rate": 430,
         "name": "For Frieza (2nd Form)",
-        "updated_at": "2019-11-27 08:10:51.572383"
+        "updated_at": "2019-12-05 06:02:10.155985"
     },
     {
-        "created_at": "2019-11-27 08:10:51.572383",
+        "created_at": "2019-12-05 06:02:10.155985",
         "description": "Ultimate Damage +50%",
         "id": 6,
         "increase_rate": 600,
         "name": "For LR Perfect Cell",
-        "updated_at": "2019-11-27 08:10:51.572383"
+        "updated_at": "2019-12-05 06:02:10.155985"
     }
 ]
