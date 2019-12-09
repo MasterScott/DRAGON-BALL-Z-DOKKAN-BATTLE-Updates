@@ -2962,5 +2962,35 @@
         "energy_color": null,
         "id": 495,
         "script_name": "sp0597"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 506,
+        "script_name": "sp0598"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 507,
+        "script_name": "sp1368"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 508,
+        "script_name": "sp1369"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 509,
+        "script_name": "ut0007"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 515,
+        "script_name": "sp0611"
     }
 ]

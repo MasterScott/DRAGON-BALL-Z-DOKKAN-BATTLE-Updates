@@ -5,11 +5,11 @@
     },
     {
         "name": "active_skill_sets",
-        "seq": 36
+        "seq": 39
     },
     {
         "name": "active_skills",
-        "seq": 32
+        "seq": 35
     },
     {
         "name": "area_conditions",
@@ -33,7 +33,7 @@
     },
     {
         "name": "battle_params",
-        "seq": 1510
+        "seq": 1563
     },
     {
         "name": "beginners_guides",
@@ -121,7 +121,7 @@
     },
     {
         "name": "card_active_skills",
-        "seq": 53
+        "seq": 57
     },
     {
         "name": "card_awakening_routes",
@@ -141,7 +141,7 @@
     },
     {
         "name": "card_categories",
-        "seq": 39
+        "seq": 40
     },
     {
         "name": "card_exps",
@@ -205,7 +205,7 @@
     },
     {
         "name": "enemy_ai_conditions",
-        "seq": 8017
+        "seq": 405
     },
     {
         "name": "enemy_skills",
@@ -397,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 387
+        "seq": 406
     },
     {
         "name": "skill_groups",
@@ -425,7 +425,7 @@
     },
     {
         "name": "special_scripts",
-        "seq": 495
+        "seq": 515
     },
     {
         "name": "special_sets",
@@ -445,11 +445,11 @@
     },
     {
         "name": "sub_target_type_sets",
-        "seq": 89
+        "seq": 99
     },
     {
         "name": "sub_target_types",
-        "seq": 103
+        "seq": 117
     },
     {
         "name": "sugoroku_map_puzzle_colors",
@@ -489,7 +489,7 @@
     },
     {
         "name": "ultimate_specials",
-        "seq": 6
+        "seq": 7
     },
     {
         "name": "wallpaper_items",
