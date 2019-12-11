@@ -100544,8 +100544,8 @@
         "item_id": 11,
         "item_type": "Point::Stone",
         "mission_id": 12829,
-        "quantity": 2,
-        "updated_at": "2019-12-10 21:09:08"
+        "quantity": 1,
+        "updated_at": "2019-12-11 09:01:57"
     },
     {
         "announcement_label": null,
@@ -100556,8 +100556,8 @@
         "item_id": 3400,
         "item_type": "TreasureItem",
         "mission_id": 12829,
-        "quantity": 700,
-        "updated_at": "2019-12-10 21:09:08"
+        "quantity": 400,
+        "updated_at": "2019-12-11 09:01:57"
     },
     {
         "announcement_label": null,
@@ -100604,8 +100604,8 @@
         "item_id": 11,
         "item_type": "Point::Stone",
         "mission_id": 12833,
-        "quantity": 2,
-        "updated_at": "2019-12-10 21:09:08"
+        "quantity": 3,
+        "updated_at": "2019-12-11 09:01:57"
     },
     {
         "announcement_label": null,
