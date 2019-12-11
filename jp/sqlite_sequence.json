@@ -121,15 +121,15 @@
     },
     {
         "name": "card_awakening_routes",
-        "seq": 2508
+        "seq": 2533
     },
     {
         "name": "card_awakening_sets",
-        "seq": 1048
+        "seq": 1066
     },
     {
         "name": "card_awakenings",
-        "seq": 1570
+        "seq": 1591
     },
     {
         "name": "card_card_categories",
@@ -153,7 +153,7 @@
     },
     {
         "name": "card_unique_info_set_relations",
-        "seq": 138
+        "seq": 149
     },
     {
         "name": "card_motions",
@@ -161,11 +161,11 @@
     },
     {
         "name": "card_specials",
-        "seq": 6107
+        "seq": 6179
     },
     {
         "name": "card_training_skill_lvs",
-        "seq": 14
+        "seq": 15
     },
     {
         "name": "card_training_skill_lv_up_probs",
@@ -181,7 +181,7 @@
     },
     {
         "name": "characters",
-        "seq": 1049
+        "seq": 1051
     },
     {
         "name": "collection_categories",
@@ -189,7 +189,7 @@
     },
     {
         "name": "collection_uniques",
-        "seq": 460
+        "seq": 461
     },
     {
         "name": "collection_cards",
@@ -229,11 +229,11 @@
     },
     {
         "name": "helps",
-        "seq": 66
+        "seq": 71
     },
     {
         "name": "help_bodies",
-        "seq": 228
+        "seq": 901
     },
     {
         "name": "help_categories",
@@ -265,7 +265,7 @@
     },
     {
         "name": "mission_rewards",
-        "seq": 17865
+        "seq": 17943
     },
     {
         "name": "mission_campaigns",
@@ -273,11 +273,11 @@
     },
     {
         "name": "mission_periods",
-        "seq": 1194
+        "seq": 1195
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": 441
+        "seq": 455
     },
     {
         "name": "passive_skills",
@@ -285,11 +285,11 @@
     },
     {
         "name": "passive_skill_sets",
-        "seq": 1975
+        "seq": 1984
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": 4295
+        "seq": 4344
     },
     {
         "name": "points",
@@ -397,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 445
+        "seq": 460
     },
     {
         "name": "skill_groups",
@@ -413,7 +413,7 @@
     },
     {
         "name": "specials",
-        "seq": 1002152
+        "seq": 1002172
     },
     {
         "name": "special_bonuses",
@@ -433,7 +433,7 @@
     },
     {
         "name": "special_views",
-        "seq": 6107
+        "seq": 6179
     },
     {
         "name": "status_extensions",
@@ -441,11 +441,11 @@
     },
     {
         "name": "sub_target_type_sets",
-        "seq": 103
+        "seq": 104
     },
     {
         "name": "sub_target_types",
-        "seq": 122
+        "seq": 123
     },
     {
         "name": "sugoroku_maps",
@@ -489,7 +489,7 @@
     },
     {
         "name": "wallpaper_items",
-        "seq": 3
+        "seq": 4
     },
     {
         "name": "worlds",

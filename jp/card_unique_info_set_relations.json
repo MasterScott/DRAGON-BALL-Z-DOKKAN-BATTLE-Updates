@@ -2,960 +2,1037 @@
     {
         "card_unique_info_id": 112,
         "card_unique_info_set_id": 5,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 1,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 112,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 2,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 411,
         "card_unique_info_set_id": 5,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 3,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 411,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 4,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 402,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 5,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 6,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 6,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 80,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 7,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 56,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 8,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 229,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 9,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 8,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 10,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 311,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 11,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 444,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 12,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 78,
         "card_unique_info_set_id": 5,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 13,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 78,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 14,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 341,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 15,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 495,
         "card_unique_info_set_id": 5,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 16,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 495,
         "card_unique_info_set_id": 8,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 17,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 10,
         "card_unique_info_set_id": 1,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 18,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 414,
         "card_unique_info_set_id": 1,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 19,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 499,
         "card_unique_info_set_id": 1,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 20,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 22,
         "card_unique_info_set_id": 6,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 21,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 22,
         "card_unique_info_set_id": 7,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 22,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 504,
         "card_unique_info_set_id": 6,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 23,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 504,
         "card_unique_info_set_id": 7,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 24,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 20,
         "card_unique_info_set_id": 6,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 25,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 82,
         "card_unique_info_set_id": 10,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 26,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 83,
         "card_unique_info_set_id": 9,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 27,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 84,
         "card_unique_info_set_id": 2,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 28,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 496,
         "card_unique_info_set_id": 2,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 29,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 457,
         "card_unique_info_set_id": 2,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 30,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 246,
         "card_unique_info_set_id": 2,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 31,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 231,
         "card_unique_info_set_id": 11,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 32,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 244,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 33,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 79,
         "card_unique_info_set_id": 4,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 34,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 494,
         "card_unique_info_set_id": 4,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 35,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 366,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 36,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 227,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 37,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 230,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 38,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 474,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 39,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 475,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 40,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 113,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 41,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 1,
         "card_unique_info_set_id": 3,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 42,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 483,
         "card_unique_info_set_id": 3,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 43,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 501,
         "card_unique_info_set_id": 3,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 44,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 57,
         "card_unique_info_set_id": 4,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 45,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 502,
         "card_unique_info_set_id": 4,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 46,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 232,
         "card_unique_info_set_id": 11,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 47,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 507,
         "card_unique_info_set_id": 11,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 48,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 129,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 49,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 498,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 50,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 497,
         "card_unique_info_set_id": 12,
-        "created_at": "2019-10-08 23:40:36",
+        "created_at": "2019-12-10 21:01:21",
         "id": 51,
-        "updated_at": "2019-10-08 23:40:36"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 1,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 52,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 3,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 53,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 66,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 54,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 86,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 55,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 108,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 56,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 139,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 57,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 153,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 58,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 154,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 59,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 164,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 60,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 175,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 61,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 211,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 62,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 236,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 63,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 241,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 64,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 252,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 65,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 316,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 66,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 318,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 67,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 326,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 68,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 340,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 69,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 356,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 70,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 373,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 71,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 374,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 72,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 376,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 73,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 377,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 74,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 381,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 75,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 400,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 76,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 412,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 77,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 415,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 78,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 416,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 79,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 417,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 80,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 418,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 81,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 432,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 82,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 455,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 83,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 464,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 84,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 483,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 85,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 487,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 86,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 501,
         "card_unique_info_set_id": 13,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 87,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 141,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 88,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 142,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 89,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 190,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 90,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 191,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 91,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 192,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 92,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 193,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 93,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 194,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 94,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 195,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 95,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 404,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 96,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 508,
         "card_unique_info_set_id": 14,
-        "created_at": "2019-10-30 02:42:21",
+        "created_at": "2019-12-10 21:01:21",
         "id": 97,
-        "updated_at": "2019-10-30 02:42:21"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 134,
         "card_unique_info_set_id": 15,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 99,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 135,
         "card_unique_info_set_id": 16,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 100,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 520,
         "card_unique_info_set_id": 16,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 101,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 2,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 102,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 4,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 103,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 87,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 104,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 115,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 105,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 131,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 106,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 178,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 107,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 197,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 108,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 210,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 109,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 216,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 110,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 223,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 111,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 247,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 112,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 302,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 113,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 317,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 114,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 364,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 115,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 373,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 116,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 374,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 117,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 376,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 118,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 377,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 119,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 391,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 120,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 433,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 121,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 448,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 122,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 458,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 123,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 459,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 124,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 460,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 125,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 461,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 126,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 465,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 127,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 488,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 128,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 497,
         "card_unique_info_set_id": 17,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 129,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 8,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 130,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 113,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 131,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 244,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 132,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 311,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 133,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 366,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 134,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 444,
         "card_unique_info_set_id": 18,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 135,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 521,
         "card_unique_info_set_id": 19,
-        "created_at": "2019-11-28 02:03:15",
+        "created_at": "2019-12-10 21:01:21",
         "id": 136,
-        "updated_at": "2019-11-28 02:03:15"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 21,
         "card_unique_info_set_id": 20,
-        "created_at": "2019-12-04 02:00:25",
+        "created_at": "2019-12-10 21:01:21",
         "id": 137,
-        "updated_at": "2019-12-04 02:00:25"
+        "updated_at": "2019-12-10 21:01:21"
     },
     {
         "card_unique_info_id": 20,
         "card_unique_info_set_id": 21,
-        "created_at": "2019-12-04 02:00:25",
+        "created_at": "2019-12-10 21:01:21",
         "id": 138,
-        "updated_at": "2019-12-04 02:00:25"
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 344,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 139,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 384,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 140,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 385,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 141,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 471,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 142,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 472,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 143,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 473,
+        "card_unique_info_set_id": 22,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 144,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 345,
+        "card_unique_info_set_id": 23,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 145,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 383,
+        "card_unique_info_set_id": 23,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 146,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 471,
+        "card_unique_info_set_id": 23,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 147,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 472,
+        "card_unique_info_set_id": 23,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 148,
+        "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 473,
+        "card_unique_info_set_id": 23,
+        "created_at": "2019-12-10 21:01:21",
+        "id": 149,
+        "updated_at": "2019-12-10 21:01:21"
     }
 ]
