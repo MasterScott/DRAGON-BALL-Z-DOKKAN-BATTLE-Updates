@@ -33,7 +33,7 @@
     },
     {
         "name": "battle_params",
-        "seq": 1598
+        "seq": 1652
     },
     {
         "name": "beginners_guides",
@@ -121,15 +121,15 @@
     },
     {
         "name": "card_awakening_routes",
-        "seq": 2533
+        "seq": 2597
     },
     {
         "name": "card_awakening_sets",
-        "seq": 1066
+        "seq": 1116
     },
     {
         "name": "card_awakenings",
-        "seq": 1591
+        "seq": 1641
     },
     {
         "name": "card_card_categories",
@@ -137,7 +137,7 @@
     },
     {
         "name": "card_categories",
-        "seq": 43
+        "seq": 45
     },
     {
         "name": "card_exps",
@@ -153,15 +153,15 @@
     },
     {
         "name": "card_unique_info_set_relations",
-        "seq": 149
+        "seq": 151
     },
     {
         "name": "card_motions",
-        "seq": 1944
+        "seq": 1960
     },
     {
         "name": "card_specials",
-        "seq": 6179
+        "seq": 6207
     },
     {
         "name": "card_training_skill_lvs",
@@ -181,7 +181,7 @@
     },
     {
         "name": "characters",
-        "seq": 1051
+        "seq": 1053
     },
     {
         "name": "collection_categories",
@@ -189,7 +189,7 @@
     },
     {
         "name": "collection_uniques",
-        "seq": 461
+        "seq": 463
     },
     {
         "name": "collection_cards",
@@ -213,7 +213,7 @@
     },
     {
         "name": "forced_scripts",
-        "seq": 491
+        "seq": 497
     },
     {
         "name": "related_card_categories",
@@ -265,7 +265,7 @@
     },
     {
         "name": "mission_rewards",
-        "seq": 17943
+        "seq": 18041
     },
     {
         "name": "mission_campaigns",
@@ -273,7 +273,7 @@
     },
     {
         "name": "mission_periods",
-        "seq": 1195
+        "seq": 1199
     },
     {
         "name": "optimal_awakening_growths",
@@ -285,11 +285,11 @@
     },
     {
         "name": "passive_skill_sets",
-        "seq": 1984
+        "seq": 2002
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": 4344
+        "seq": 4414
     },
     {
         "name": "points",
@@ -349,7 +349,7 @@
     },
     {
         "name": "quest_category_bonuses",
-        "seq": 288
+        "seq": 301
     },
     {
         "name": "quest_category_bonus_groups",
@@ -357,7 +357,7 @@
     },
     {
         "name": "quest_category_bonus_rarity_tables",
-        "seq": 47
+        "seq": 49
     },
     {
         "name": "rank_statuses",
@@ -381,11 +381,11 @@
     },
     {
         "name": "rmbattle_missions",
-        "seq": 21023
+        "seq": 22023
     },
     {
         "name": "rmbattle_mission_rewards",
-        "seq": 21055
+        "seq": 22055
     },
     {
         "name": "shops",
@@ -397,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 460
+        "seq": 473
     },
     {
         "name": "skill_groups",
@@ -413,7 +413,7 @@
     },
     {
         "name": "specials",
-        "seq": 1002172
+        "seq": 1002182
     },
     {
         "name": "special_bonuses",
@@ -425,7 +425,7 @@
     },
     {
         "name": "special_scripts",
-        "seq": 514
+        "seq": 519
     },
     {
         "name": "special_sets",
@@ -433,7 +433,7 @@
     },
     {
         "name": "special_views",
-        "seq": 6179
+        "seq": 6207
     },
     {
         "name": "status_extensions",
@@ -441,11 +441,11 @@
     },
     {
         "name": "sub_target_type_sets",
-        "seq": 104
+        "seq": 108
     },
     {
         "name": "sub_target_types",
-        "seq": 123
+        "seq": 129
     },
     {
         "name": "sugoroku_maps",
@@ -469,7 +469,7 @@
     },
     {
         "name": "transformation_descriptions",
-        "seq": 101
+        "seq": 107
     },
     {
         "name": "training_fields",

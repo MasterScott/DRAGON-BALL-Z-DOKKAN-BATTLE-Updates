@@ -173,11 +173,11 @@
     },
     {
         "name": "card_unique_info_set_relations",
-        "seq": 51
+        "seq": 151
     },
     {
         "name": "card_unique_infos",
-        "seq": 10095
+        "seq": 10099
     },
     {
         "name": "cards",
@@ -397,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 406
+        "seq": 460
     },
     {
         "name": "skill_groups",

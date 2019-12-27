@@ -12240,6 +12240,24 @@
         "updated_at": "2019-12-10 21:01:44"
     },
     {
+        "card_id": 1017411,
+        "collection_unique_id": 223,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 528,
+        "id": 1017411,
+        "priority": 870,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1017421,
+        "collection_unique_id": 52,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 557,
+        "id": 1017421,
+        "priority": 920,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
         "card_id": 1017431,
         "collection_unique_id": 44,
         "created_at": "2019-12-10 21:01:44",
@@ -13032,6 +13050,24 @@
         "updated_at": "2019-12-10 21:01:44"
     },
     {
+        "card_id": 1018570,
+        "collection_unique_id": 135,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": null,
+        "id": 1018570,
+        "priority": 910,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018581,
+        "collection_unique_id": 462,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 528,
+        "id": 1018581,
+        "priority": 1000,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
         "card_id": 1018661,
         "collection_unique_id": 142,
         "created_at": "2019-12-10 21:01:44",
@@ -13039,6 +13075,78 @@
         "id": 1018661,
         "priority": 980,
         "updated_at": "2019-12-10 21:01:44"
+    },
+    {
+        "card_id": 1018670,
+        "collection_unique_id": 68,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": null,
+        "id": 1018670,
+        "priority": 960,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018681,
+        "collection_unique_id": 68,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 557,
+        "id": 1018681,
+        "priority": 950,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018690,
+        "collection_unique_id": 54,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 374,
+        "id": 1018690,
+        "priority": 980,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018701,
+        "collection_unique_id": 463,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 374,
+        "id": 1018701,
+        "priority": 1000,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018710,
+        "collection_unique_id": 66,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 374,
+        "id": 1018710,
+        "priority": 930,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018721,
+        "collection_unique_id": 66,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": 374,
+        "id": 1018721,
+        "priority": 920,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018750,
+        "collection_unique_id": 223,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": null,
+        "id": 1018750,
+        "priority": 880,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "card_id": 1018770,
+        "collection_unique_id": 52,
+        "created_at": "2019-12-24 02:02:03",
+        "event_id": null,
+        "id": 1018770,
+        "priority": 930,
+        "updated_at": "2019-12-24 02:02:03"
     },
     {
         "card_id": 2000020,

@@ -255,14 +255,14 @@
         "announcement_id": 200367,
         "banner_image_path": "images/event/eve_banner/zbattle_list_banner_19.png",
         "danger_line_hp": 0,
-        "end_at": "2019-03-05 07:59:59",
+        "end_at": "2020-01-14 07:59:59",
         "eventkagi_end_at": null,
         "eventkagi_start_at": null,
         "id": 19,
         "listbutton_image_path": "images/home/myp_banner_event_zbattle_019.png",
-        "locked_by": "mission",
+        "locked_by": null,
         "priority": 0,
-        "start_at": "2019-02-21 06:00:00",
+        "start_at": "2019-12-26 08:00:00",
         "z_battle_stage_effect_escalation_type": 19
     },
     {

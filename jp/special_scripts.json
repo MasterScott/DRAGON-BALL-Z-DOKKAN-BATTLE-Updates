@@ -3046,5 +3046,17 @@
         "energy_color": null,
         "id": 514,
         "script_name": "sp1360"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 516,
+        "script_name": "sp0601"
+    },
+    {
+        "attack_attributes": 1,
+        "energy_color": null,
+        "id": 519,
+        "script_name": "sp0600"
     }
 ]

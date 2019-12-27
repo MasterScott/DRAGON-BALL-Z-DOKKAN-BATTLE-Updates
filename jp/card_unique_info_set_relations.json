@@ -1034,5 +1034,19 @@
         "created_at": "2019-12-10 21:01:21",
         "id": 149,
         "updated_at": "2019-12-10 21:01:21"
+    },
+    {
+        "card_unique_info_id": 524,
+        "card_unique_info_set_id": 13,
+        "created_at": "2019-12-24 02:01:45",
+        "id": 150,
+        "updated_at": "2019-12-24 02:01:45"
+    },
+    {
+        "card_unique_info_id": 525,
+        "card_unique_info_set_id": 17,
+        "created_at": "2019-12-24 02:01:45",
+        "id": 151,
+        "updated_at": "2019-12-24 02:01:45"
     }
 ]

@@ -490,5 +490,29 @@
         "rarity_ssr": 150,
         "rarity_ur": 250,
         "updated_at": "2019-11-28 02:06:29"
+    },
+    {
+        "created_at": "2019-12-24 02:04:18",
+        "description": "追加ドロップ確率UP",
+        "id": 48,
+        "rarity_lr": 350,
+        "rarity_n": 30,
+        "rarity_r": 50,
+        "rarity_sr": 100,
+        "rarity_ssr": 150,
+        "rarity_ur": 250,
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "created_at": "2019-12-24 02:04:18",
+        "description": "追加ドロップ確率UP",
+        "id": 49,
+        "rarity_lr": 350,
+        "rarity_n": 30,
+        "rarity_r": 50,
+        "rarity_sr": 100,
+        "rarity_ssr": 150,
+        "rarity_ur": 250,
+        "updated_at": "2019-12-24 02:04:18"
     }
 ]

@@ -1,552 +1,552 @@
 [
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Treasures acquired from Quests \ncan be exchanged for all kinds of items in Baba’s Shop.",
         "id": 1,
         "image_suffix_number": 1,
         "name": "Incredible Gem",
         "rarity": 0,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "This Treasure can be acquired in the \n\"Dragon Ball GT: Black Star DB Saga\" event.",
         "id": 2,
         "image_suffix_number": 5,
         "name": "Metal Fruits",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the \n\"Dragon Ball GT: Baby Saga\" event.",
         "id": 3,
         "image_suffix_number": 10,
         "name": "Hercule Badge",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "The special Treasure available during a limited period.",
         "id": 4,
         "image_suffix_number": 6,
         "name": "Xmas Coin(s)",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Coins collectable during the \n2nd Anniversary Celebration.",
         "id": 5,
         "image_suffix_number": 7,
         "name": "2nd Anniversary Coin",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure that appears in \n\"Goku and Friends Are Back!!\"",
         "id": 6,
         "image_suffix_number": 11,
         "name": "Rad Radish",
         "rarity": 0,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A rare Treasure that appears in \n\"Goku and Friends Are Back!!\"",
         "id": 7,
         "image_suffix_number": 12,
         "name": "Rad Radish (XL)",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the \n\"Dragon Ball Super: Universe Survival Saga\" event.",
         "id": 8,
         "image_suffix_number": 13,
         "name": "Kachi Katchin",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure you can acquire in \n\"Super Battle Road\".",
         "id": 9,
         "image_suffix_number": 14,
         "name": "Victory's Light",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the \n\"Vegeta the Indomitable Warrior\" event.",
         "id": 10,
         "image_suffix_number": 15,
         "name": "Pudding",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Coins collectable during the 3rd Anniversary Celebration.",
         "id": 11,
         "image_suffix_number": 8,
         "name": "3rd Anniversary Coin",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the event \n\"Curse of the Blood Rubies\".",
         "id": 13,
         "image_suffix_number": 17,
         "name": "Blood Ruby",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the \"Universe's Strongest?! \nChallenge the 'Great Pontas'!\" event.",
         "id": 14,
         "image_suffix_number": 18,
         "name": "Cosmically Acclaimed Sweets",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Coins collectable during the 4th Anniversary Celebration.",
         "id": 15,
         "image_suffix_number": 19,
         "name": "4th Anniversary Coin",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the event \n\"Mystical Adventure\".",
         "id": 16,
         "image_suffix_number": 32,
         "name": "Ran Ran",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the \n\"Vegeta's Demise?! The Secret of Planet Potaufeu\" event.",
         "id": 17,
         "image_suffix_number": 33,
         "name": "Superhuman Water Seal Key",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure obtained in the event \n\"Sleeping Princess in Devil's Castle\".",
         "id": 18,
         "image_suffix_number": 918,
         "name": "Sleeping Princess",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Blue Dragon Stones you can acquire \nwhen purchasing Dragon Stones.",
         "id": 1000,
         "image_suffix_number": 21,
         "name": "Super Dragon Stone",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stones available \nfor a limited time.",
         "id": 1001,
         "image_suffix_number": 20,
         "name": "God Dragon Stone",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "龍石購入時に入手できる青い龍石",
         "id": 1002,
         "image_suffix_number": 22,
         "name": "スーパー龍石2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "期間限定で入手できる赤い龍石",
         "id": 1003,
         "image_suffix_number": 23,
         "name": "ゴッド龍石2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Blue Dragon Stones you can acquire \nwhen purchasing \"3rd Anniv. Super Thanks Pack\". \nValid until 2018/8/18 21:59 PST.",
         "id": 1004,
         "image_suffix_number": 24,
         "name": "Super Dragon Stone 3",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "期間限定で入手できる赤い龍石",
         "id": 1005,
         "image_suffix_number": 25,
         "name": "ゴッド龍石3",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Purple Dragon Stone you can acquire \nwhen purchasing Dragon Stones. \nValid until 2018/8/18 21:59 PST.",
         "id": 1006,
         "image_suffix_number": 26,
         "name": "Premium Dragon Stone",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stone available \nfor a limited time.\nValid until 2018/8/18 21:59 PST.",
         "id": 1007,
         "image_suffix_number": 25,
         "name": "God Dragon Stone 3",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stone available \nfor a limited time.\nValid until 2018/10/10 23:59 PST.",
         "id": 1008,
         "image_suffix_number": 28,
         "name": "God Dragon Stone 4",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Purple Dragon Stone you can acquire \nwhen purchasing Dragon Stones. \nValid until 2018/10/10 23:59 PST.",
         "id": 1009,
         "image_suffix_number": 29,
         "name": "Premium Dragon Stone 2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stone available for a limited time.\nValid until 2019/8/19 15:59 PST.",
         "id": 1012,
         "image_suffix_number": 1012,
         "name": "God Dragon Stone 6",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Purple Dragon Stone you can acquire \nwhen purchasing Dragon Stones. \nValid until 2019/8/19 15:59 PST.",
         "id": 1013,
         "image_suffix_number": 1013,
         "name": "Premium Dragon Stone 3",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Purple Dragon Stone you can acquire \nwhen purchasing Dragon Stones. \nValid until 2019/10/09 23:59 PST.",
         "id": 1014,
         "image_suffix_number": 1014,
         "name": "Premium Dragon Stone 4",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Blue Dragon Stone valid\nuntil 2019/12/15 15:59 PST.",
         "id": 1015,
         "image_suffix_number": 1015,
         "name": "Super Dragon Stone 5",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stone available for a limited time.\nValid until 2019/10/09 23:59 PST.",
         "id": 1016,
         "image_suffix_number": 1016,
         "name": "God Dragon Stone 7",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Treasures you can obtain in Ultimate Clash.\nThese can be traded for all kinds of items at Baba's Shop!",
         "id": 2000,
         "image_suffix_number": 2000,
         "name": "Battlefield Memory",
         "rarity": 2,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "龍石購入時に入手できるアイテム",
         "id": 3000,
         "image_suffix_number": 30,
         "name": "劇戦の書 第一巻",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "龍石購入時に入手できるアイテム",
         "id": 3001,
         "image_suffix_number": 31,
         "name": "劇戦の書 第二巻",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "龍石購入時に入手できるアイテム",
         "id": 3002,
         "image_suffix_number": 3002,
         "name": "劇戦の書 第三巻",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "龍石購入時に入手できるアイテム",
         "id": 3003,
         "image_suffix_number": 3003,
         "name": "劇戦の書 第四巻",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item available only for a limited time.",
         "id": 3100,
         "image_suffix_number": 3100,
         "name": "Book of War: Son Family",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A special Treasure available during a limited period.\nCan be used at Baba's Shop.",
         "id": 3200,
         "image_suffix_number": 3200,
         "name": "Royal Family Crest of Vegeta",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A treasure you can acquire in \n\"Supreme Kai's Trial.\"",
         "id": 4001,
         "image_suffix_number": 4001,
         "name": "Supreme Kai Stone",
         "rarity": 2,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A treasure you can acquire through specified Summons. \nCan be used at Baba's Shop.",
         "id": 7000,
         "image_suffix_number": 7000,
         "name": "Dokkan Festival Coin",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A treasure you can acquire through specified Summons. \nCan be used at Baba's Shop.",
         "id": 7001,
         "image_suffix_number": 7001,
         "name": "Legendary Summon Coin",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A treasure you can acquire through specified Summons. \nCan be used at Baba's Shop.",
         "id": 7002,
         "image_suffix_number": 7002,
         "name": "Summon Coin",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item you can acquire \nwhen purchasing \"Opening Celebration Pack\".\nValid until 2019/4/21 21:59 PST.",
         "id": 9101,
         "image_suffix_number": 9101,
         "name": "Opening Celebration SSR Ticket",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item you can acquire \nwhen purchasing \"Beginner’s Pack\".",
         "id": 9102,
         "image_suffix_number": 9102,
         "name": "Beginner’s Ticket",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Blue Dragon Stones you can acquire \nwhen purchasing \"Appreciation Pack\".",
         "id": 9103,
         "image_suffix_number": 21,
         "name": "Super Dragon Stone 2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stones available \nfor a limited time.",
         "id": 9104,
         "image_suffix_number": 20,
         "name": "God Dragon Stone 2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item you can acquire \nwhen purchasing \"Kamehameha Special Pack\".",
         "id": 9105,
         "image_suffix_number": 9105,
         "name": "Kamehameha Special Ticket",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item you can acquire \nwhen purchasing \"Beginner’s Pack\".",
         "id": 9106,
         "image_suffix_number": 9106,
         "name": "Beginner’s Ticket",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure that can be acquired \nduring \"Dokkan Thank-You Celebration\".\nExchange it for a powerful character at Baba's Shop.",
         "id": 9107,
         "image_suffix_number": 9107,
         "name": "Dokkan Thank-You Celebration Gift Card",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "A Treasure that can be acquired \nduring \"Dokkan Thank-You Celebration\".\nExchange it for a powerful character at Baba's Shop.\nValid until 2019/12/15 15:59 PST.",
         "id": 9108,
         "image_suffix_number": 9108,
         "name": "Dokkan Thank-You Celebration Gift Card 2",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "An item you can acquire \nwhen purchasing \"Beginner’s Pack\".",
         "id": 9109,
         "image_suffix_number": 9109,
         "name": "Beginner’s Ticket",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stone available for a limited time.\nValid until 2020/01/07 15:59 PST.",
         "id": 9110,
         "image_suffix_number": 9110,
         "name": "God Dragon Stone 8",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Blue Dragon Stone valid\nuntil 2019/1/7 21:59 PST.",
         "id": 91001,
         "image_suffix_number": 21,
         "name": "Super Dragon Stone 4",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     },
     {
-        "created_at": "2019-12-09 02:05:49.124437",
+        "created_at": "2019-12-27 02:40:24.188762",
         "description": "Red Dragon Stones available \nfor a limited time. \nValid until 2019/1/7 21:59 PST.",
         "id": 91002,
         "image_suffix_number": 20,
         "name": "God Dragon Stone 5",
         "rarity": 2,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-09 02:05:49.124437"
+        "updated_at": "2019-12-27 02:40:24.188762"
     }
 ]

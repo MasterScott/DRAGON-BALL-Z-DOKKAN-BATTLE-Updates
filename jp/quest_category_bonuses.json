@@ -2383,5 +2383,122 @@
         "quest_id": 372006,
         "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
         "updated_at": "2019-11-28 02:06:30"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 289,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374001,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 290,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374002,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 291,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374003,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 292,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374004,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 293,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374005,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 294,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374006,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 295,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374007,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 296,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374008,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 297,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374009,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 3,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 298,
+        "quest_category_bonus_rarity_table_id": 48,
+        "quest_id": 374010,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 38,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 299,
+        "quest_category_bonus_rarity_table_id": 49,
+        "quest_id": 605001,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 38,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 300,
+        "quest_category_bonus_rarity_table_id": 49,
+        "quest_id": 605002,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
+    },
+    {
+        "card_category_id": 38,
+        "created_at": "2019-12-24 02:04:18",
+        "id": 301,
+        "quest_category_bonus_rarity_table_id": 49,
+        "quest_id": 605003,
+        "type": "QuestCategoryBonus::SugorokuStart::AdditionalDrop",
+        "updated_at": "2019-12-24 02:04:18"
     }
 ]

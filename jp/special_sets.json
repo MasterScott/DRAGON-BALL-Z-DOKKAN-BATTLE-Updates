@@ -19901,6 +19901,116 @@
     },
     {
         "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2158,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ファイナルスピリッツキャノン",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2159,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ダブルサンデー",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2160,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "龍翔拳",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2161,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "乙女バースト",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2162,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "気合砲",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2163,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "オーガブラスター",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2164,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ギャリック砲",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2165,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ギャリック砲",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2166,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "フィニッシュバスター",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2167,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "パパのギャリック砲",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2168,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ビクトリーラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
         "created_at": "2019-12-10 21:11:33",
         "description": "ATKとDEFが上昇し、\n相手に超特大ダメージを与える",
         "id": 2169,
@@ -19941,6 +20051,156 @@
     },
     {
         "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンATKが上昇し、\n相手に超絶特大ダメージを与える",
+        "id": 2173,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンATKが上昇し、\n相手に超絶特大ダメージを与える",
+        "id": 2174,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンATKが大幅上昇し、\n相手に超絶特大ダメージを与え、\n高確率で気絶させる",
+        "id": 2175,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンDEFが上昇し、\n相手に超絶特大ダメージを与える",
+        "id": 2176,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "ファイナルフラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンDEFが上昇し、\n相手に超絶特大ダメージを与える",
+        "id": 2177,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "ファイナルフラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "1ターンDEFが大幅上昇し、\n相手に超絶特大ダメージを与え、\n高確率で気絶させる",
+        "id": 2178,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "ファイナルフラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与え、\nDEFを低下させる",
+        "id": 2179,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "ATKが上昇し、\n相手に超特大ダメージを与え、\nDEFを大幅に低下させる",
+        "id": 2180,
+        "increase_rate": 120,
+        "lv_bonus": 20,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与え、\nDEFを低下させる",
+        "id": 2181,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "エビルインパルス",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "DEFが上昇し、\n相手に超特大ダメージを与え、\nDEFを大幅に低下させる",
+        "id": 2182,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "エビルインパルス",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2183,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "豪速球",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2184,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "豪速球",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与え、\nATKとDEFを低下させる",
+        "id": 2185,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ジャスティスラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2186,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "クラッシュランチャー",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与え、\nHPを7%回復する",
+        "id": 2187,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "エネルギードレイン",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
         "created_at": "2019-12-10 21:11:33",
         "description": "DEFが上昇し、\n相手に超特大ダメージを与える",
         "id": 2188,
@@ -19958,6 +20218,66 @@
         "lv_bonus": 20,
         "name": "フィニッシュバスター(極限)",
         "updated_at": "2019-12-10 21:11:33"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2190,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2191,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2192,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ファイナルフラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2193,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ファイナルフラッシュ",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2202,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "超かめはめ波",
+        "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2019-12-24 02:05:05",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2203,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "気円斬",
+        "updated_at": "2019-12-24 02:05:05"
     },
     {
         "aim_target": 0,

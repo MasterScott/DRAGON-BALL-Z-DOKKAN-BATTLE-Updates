@@ -3877,5 +3877,95 @@
         "created_at": "2019-12-10 21:11:03",
         "id": 460,
         "updated_at": "2019-12-10 21:11:03"
+    },
+    {
+        "cau_val1": 63,
+        "cau_val2": 3,
+        "cau_val3": 0,
+        "causality_type": 42,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 461,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 63,
+        "cau_val2": 6,
+        "cau_val3": 0,
+        "causality_type": 42,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 462,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 63,
+        "cau_val2": 3,
+        "cau_val3": 0,
+        "causality_type": 42,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 463,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 63,
+        "cau_val2": 6,
+        "cau_val3": 0,
+        "causality_type": 42,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 464,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 1,
+        "cau_val2": 4,
+        "cau_val3": 1,
+        "causality_type": 34,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 468,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 1,
+        "cau_val2": 33,
+        "cau_val3": 1,
+        "causality_type": 34,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 469,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 16,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 470,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 80,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 17,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 471,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 16,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 472,
+        "updated_at": "2019-12-24 02:04:50"
+    },
+    {
+        "cau_val1": 80,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 17,
+        "created_at": "2019-12-24 02:04:50",
+        "id": 473,
+        "updated_at": "2019-12-24 02:04:50"
     }
 ]

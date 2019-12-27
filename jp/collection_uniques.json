@@ -4538,5 +4538,25 @@
         "name": "孫悟空\n(サンタクロース)",
         "priority": 80950,
         "updated_at": "2019-12-10 21:01:45"
+    },
+    {
+        "background_id": 3,
+        "card_id": 1018581,
+        "collection_category_id": 2,
+        "created_at": "2019-12-24 02:02:03",
+        "id": 462,
+        "name": "グレート\nサイヤマン\n(SS)",
+        "priority": 95650,
+        "updated_at": "2019-12-24 02:02:03"
+    },
+    {
+        "background_id": 5,
+        "card_id": 1018701,
+        "collection_category_id": 8,
+        "created_at": "2019-12-24 02:02:03",
+        "id": 463,
+        "name": "ヤムー\n&スポポビッチ",
+        "priority": 62550,
+        "updated_at": "2019-12-24 02:02:03"
     }
 ]

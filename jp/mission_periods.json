@@ -11828,5 +11828,45 @@
         "wday": null,
         "wday_hours_to_end": null,
         "wday_start_at": null
+    },
+    {
+        "created_at": "2019-12-24 02:03:25",
+        "id": 1196,
+        "mission_id": 12860,
+        "type": "MissionPeriod::DailyMissionPeriod",
+        "updated_at": "2019-12-24 02:03:25",
+        "wday": null,
+        "wday_hours_to_end": null,
+        "wday_start_at": null
+    },
+    {
+        "created_at": "2019-12-24 02:03:25",
+        "id": 1197,
+        "mission_id": 12874,
+        "type": "MissionPeriod::DailyMissionPeriod",
+        "updated_at": "2019-12-24 02:03:25",
+        "wday": null,
+        "wday_hours_to_end": null,
+        "wday_start_at": null
+    },
+    {
+        "created_at": "2019-12-24 02:03:25",
+        "id": 1198,
+        "mission_id": 12875,
+        "type": "MissionPeriod::DailyMissionPeriod",
+        "updated_at": "2019-12-24 02:03:25",
+        "wday": null,
+        "wday_hours_to_end": null,
+        "wday_start_at": null
+    },
+    {
+        "created_at": "2019-12-24 02:03:25",
+        "id": 1199,
+        "mission_id": 12876,
+        "type": "MissionPeriod::DailyMissionPeriod",
+        "updated_at": "2019-12-24 02:03:25",
+        "wday": null,
+        "wday_hours_to_end": null,
+        "wday_start_at": null
     }
 ]

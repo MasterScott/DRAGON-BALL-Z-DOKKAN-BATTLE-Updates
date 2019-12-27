@@ -702,5 +702,53 @@
         "skill_id": 4001964,
         "skill_type": "PassiveSkill",
         "updated_at": "2019-11-28 02:11:07"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "バトル開始から3ターン目以降、\n敵が1体で敵のHP80%以上のとき変身する",
+        "id": 102,
+        "skill_id": 4001986,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "バトル開始から3ターン目以降、\n敵が1体で敵のHP80%以上のとき変身する",
+        "id": 103,
+        "skill_id": 4001987,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "バトル開始から3ターン目以降、\n敵が1体で敵のHP80%以上のとき\nバビディの魔術で強化される",
+        "id": 104,
+        "skill_id": 4001990,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "バトル開始から3ターン目以降、\n敵が1体で敵のHP80%以上のとき\nバビディの魔術で強化される",
+        "id": 105,
+        "skill_id": 4001991,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "攻撃参加ターンになると変身する",
+        "id": 106,
+        "skill_id": 1998,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
+    },
+    {
+        "created_at": "2019-12-24 02:08:50",
+        "description": "攻撃参加ターンになると変身する",
+        "id": 107,
+        "skill_id": 1999,
+        "skill_type": "PassiveSkill",
+        "updated_at": "2019-12-24 02:08:50"
     }
 ]
