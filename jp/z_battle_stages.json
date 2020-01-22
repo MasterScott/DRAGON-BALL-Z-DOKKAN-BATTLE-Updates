@@ -446,5 +446,33 @@
         "priority": 0,
         "start_at": "2019-12-05 08:00:00",
         "z_battle_stage_effect_escalation_type": 32
+    },
+    {
+        "announcement_id": 200442,
+        "banner_image_path": "images/event/eve_banner/zbattle_list_banner_33.png",
+        "danger_line_hp": 35000,
+        "end_at": "2020-01-29 07:59:59",
+        "eventkagi_end_at": null,
+        "eventkagi_start_at": null,
+        "id": 33,
+        "listbutton_image_path": "images/home/myp_banner_event_zbattle_033.png",
+        "locked_by": null,
+        "priority": 0,
+        "start_at": "2020-01-07 08:00:00",
+        "z_battle_stage_effect_escalation_type": 33
+    },
+    {
+        "announcement_id": 200458,
+        "banner_image_path": "images/event/eve_banner/zbattle_list_banner_34.png",
+        "danger_line_hp": 35000,
+        "end_at": "2020-03-03 07:59:59",
+        "eventkagi_end_at": null,
+        "eventkagi_start_at": null,
+        "id": 34,
+        "listbutton_image_path": "images/home/myp_banner_event_zbattle_034.png",
+        "locked_by": null,
+        "priority": 0,
+        "start_at": "2020-01-14 08:00:00",
+        "z_battle_stage_effect_escalation_type": 34
     }
 ]

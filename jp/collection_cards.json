@@ -10701,6 +10701,24 @@
         "updated_at": "2019-12-10 21:01:44"
     },
     {
+        "card_id": 1015211,
+        "collection_unique_id": 249,
+        "created_at": "2020-01-14 00:07:39",
+        "event_id": 325,
+        "id": 1015211,
+        "priority": 930,
+        "updated_at": "2020-01-14 00:07:39"
+    },
+    {
+        "card_id": 1015221,
+        "collection_unique_id": 254,
+        "created_at": "2020-01-14 00:07:39",
+        "event_id": 341,
+        "id": 1015221,
+        "priority": 980,
+        "updated_at": "2020-01-14 00:07:39"
+    },
+    {
         "card_id": 1015231,
         "collection_unique_id": 152,
         "created_at": "2019-12-10 21:01:44",

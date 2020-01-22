@@ -9439,5 +9439,563 @@
         "updated_at": "2019-11-08 03:20:20",
         "z_battle_first_reward_set_id": 1050,
         "z_battle_stage_id": 32
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1117,
+        "level": 1,
+        "main_reward_id": 3888,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1051,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1118,
+        "level": 2,
+        "main_reward_id": 3892,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1052,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1119,
+        "level": 3,
+        "main_reward_id": 3895,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1053,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1120,
+        "level": 4,
+        "main_reward_id": 3898,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1054,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1121,
+        "level": 5,
+        "main_reward_id": 3902,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1055,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1122,
+        "level": 6,
+        "main_reward_id": 3905,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1056,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1123,
+        "level": 7,
+        "main_reward_id": 3908,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1057,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1124,
+        "level": 8,
+        "main_reward_id": 3911,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1058,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1125,
+        "level": 9,
+        "main_reward_id": 3914,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1059,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1126,
+        "level": 10,
+        "main_reward_id": 3920,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1060,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1127,
+        "level": 11,
+        "main_reward_id": 3922,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1061,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1128,
+        "level": 12,
+        "main_reward_id": 3926,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1062,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1129,
+        "level": 13,
+        "main_reward_id": 3929,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1063,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1130,
+        "level": 14,
+        "main_reward_id": 3932,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1064,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1131,
+        "level": 15,
+        "main_reward_id": 3936,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1065,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1132,
+        "level": 16,
+        "main_reward_id": 3939,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1066,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1133,
+        "level": 17,
+        "main_reward_id": 3942,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1067,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1134,
+        "level": 18,
+        "main_reward_id": 3945,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1068,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1135,
+        "level": 19,
+        "main_reward_id": 3948,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1069,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1136,
+        "level": 20,
+        "main_reward_id": 3954,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1070,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1137,
+        "level": 21,
+        "main_reward_id": 3956,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1071,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1138,
+        "level": 22,
+        "main_reward_id": 3960,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1072,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1139,
+        "level": 23,
+        "main_reward_id": 3963,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1073,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1140,
+        "level": 24,
+        "main_reward_id": 3966,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1074,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1141,
+        "level": 25,
+        "main_reward_id": 3970,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1075,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1142,
+        "level": 26,
+        "main_reward_id": 3972,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1076,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1143,
+        "level": 27,
+        "main_reward_id": 3976,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1077,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1144,
+        "level": 28,
+        "main_reward_id": 3979,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1078,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1145,
+        "level": 29,
+        "main_reward_id": 3982,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1079,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1146,
+        "level": 30,
+        "main_reward_id": 3988,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1080,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "id": 1147,
+        "level": 31,
+        "main_reward_id": 3989,
+        "updated_at": "2019-11-26 03:44:04",
+        "z_battle_first_reward_set_id": 1081,
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1148,
+        "level": 1,
+        "main_reward_id": 3991,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1082,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1149,
+        "level": 2,
+        "main_reward_id": 3997,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1083,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1150,
+        "level": 3,
+        "main_reward_id": 4001,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1084,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1151,
+        "level": 4,
+        "main_reward_id": 4005,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1085,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1152,
+        "level": 5,
+        "main_reward_id": 4010,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1086,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1153,
+        "level": 6,
+        "main_reward_id": 4014,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1087,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1154,
+        "level": 7,
+        "main_reward_id": 4018,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1088,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1155,
+        "level": 8,
+        "main_reward_id": 4022,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1089,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1156,
+        "level": 9,
+        "main_reward_id": 4026,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1090,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1157,
+        "level": 10,
+        "main_reward_id": 4033,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1091,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1158,
+        "level": 11,
+        "main_reward_id": 4035,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1092,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1159,
+        "level": 12,
+        "main_reward_id": 4041,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1093,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1160,
+        "level": 13,
+        "main_reward_id": 4045,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1094,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1161,
+        "level": 14,
+        "main_reward_id": 4049,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1095,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1162,
+        "level": 15,
+        "main_reward_id": 4054,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1096,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1163,
+        "level": 16,
+        "main_reward_id": 4058,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1097,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1164,
+        "level": 17,
+        "main_reward_id": 4062,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1098,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1165,
+        "level": 18,
+        "main_reward_id": 4066,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1099,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1166,
+        "level": 19,
+        "main_reward_id": 4070,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1100,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1167,
+        "level": 20,
+        "main_reward_id": 4077,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1101,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1168,
+        "level": 21,
+        "main_reward_id": 4079,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1102,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1169,
+        "level": 22,
+        "main_reward_id": 4086,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1103,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1170,
+        "level": 23,
+        "main_reward_id": 4091,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1104,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1171,
+        "level": 24,
+        "main_reward_id": 4096,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1105,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1172,
+        "level": 25,
+        "main_reward_id": 4103,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1106,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1173,
+        "level": 26,
+        "main_reward_id": 4106,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1107,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1174,
+        "level": 27,
+        "main_reward_id": 4113,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1108,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1175,
+        "level": 28,
+        "main_reward_id": 4118,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1109,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1176,
+        "level": 29,
+        "main_reward_id": 4123,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1110,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1177,
+        "level": 30,
+        "main_reward_id": 4134,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1111,
+        "z_battle_stage_id": 34
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "id": 1178,
+        "level": 31,
+        "main_reward_id": 4136,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_first_reward_set_id": 1112,
+        "z_battle_stage_id": 34
     }
 ]

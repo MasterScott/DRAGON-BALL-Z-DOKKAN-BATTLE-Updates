@@ -2548,5 +2548,185 @@
         "quantity": 4,
         "updated_at": "2019-11-08 03:20:19",
         "z_battle_normal_reward_table_id": 268
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 293,
+        "item_id": 100421,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 269
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 294,
+        "item_id": 100421,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 270
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 295,
+        "item_id": 100422,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 271
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 296,
+        "item_id": 100422,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 272
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 297,
+        "item_id": 100423,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 273
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-11-26 03:44:04",
+        "id": 298,
+        "item_id": 100424,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-11-26 06:39:58",
+        "z_battle_normal_reward_table_id": 274
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 299,
+        "item_id": 100431,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 275
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 300,
+        "item_id": 100441,
+        "item_type": "AwakeningItem",
+        "quantity": 1,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 276
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 301,
+        "item_id": 100431,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 277
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 302,
+        "item_id": 100441,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 278
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 303,
+        "item_id": 100432,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 279
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 304,
+        "item_id": 100442,
+        "item_type": "AwakeningItem",
+        "quantity": 2,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 280
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 305,
+        "item_id": 100432,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 281
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 306,
+        "item_id": 100442,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 282
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 307,
+        "item_id": 100433,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 283
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 308,
+        "item_id": 100443,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 284
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 309,
+        "item_id": 100434,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 285
+    },
+    {
+        "card_exp_init": 0,
+        "created_at": "2019-12-20 07:03:07",
+        "id": 310,
+        "item_id": 100444,
+        "item_type": "AwakeningItem",
+        "quantity": 4,
+        "updated_at": "2019-12-20 07:03:07",
+        "z_battle_normal_reward_table_id": 286
     }
 ]

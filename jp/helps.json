@@ -594,6 +594,42 @@
         "updated_at": "2019-12-10 21:08:15"
     },
     {
+        "created_at": "2020-01-21 00:03:27",
+        "description": null,
+        "help_category_id": 12,
+        "id": 67,
+        "num": 470,
+        "title": "スキル玉とは",
+        "updated_at": "2020-01-21 00:03:27"
+    },
+    {
+        "created_at": "2020-01-21 00:03:27",
+        "description": null,
+        "help_category_id": 12,
+        "id": 68,
+        "num": 450,
+        "title": "枠開放条件",
+        "updated_at": "2020-01-21 00:03:27"
+    },
+    {
+        "created_at": "2020-01-21 00:03:27",
+        "description": null,
+        "help_category_id": 12,
+        "id": 69,
+        "num": 460,
+        "title": "スキル玉装着方法",
+        "updated_at": "2020-01-21 00:03:27"
+    },
+    {
+        "created_at": "2020-01-21 00:03:27",
+        "description": null,
+        "help_category_id": 4,
+        "id": 70,
+        "num": 440,
+        "title": "スペシャルステッカー",
+        "updated_at": "2020-01-21 00:03:27"
+    },
+    {
         "created_at": "2019-12-10 21:08:15",
         "description": null,
         "help_category_id": 9,

@@ -960,6 +960,286 @@
         "value": 100
     },
     {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 621,
+        "lv": 21,
+        "potential_skill_id": 1,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 42
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 622,
+        "lv": 22,
+        "potential_skill_id": 1,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 44
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 623,
+        "lv": 23,
+        "potential_skill_id": 1,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 46
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 624,
+        "lv": 24,
+        "potential_skill_id": 1,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 48
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 625,
+        "lv": 25,
+        "potential_skill_id": 1,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 50
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 626,
+        "lv": 21,
+        "potential_skill_id": 2,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 42
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 627,
+        "lv": 22,
+        "potential_skill_id": 2,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 44
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 628,
+        "lv": 23,
+        "potential_skill_id": 2,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 46
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 629,
+        "lv": 24,
+        "potential_skill_id": 2,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 48
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 630,
+        "lv": 25,
+        "potential_skill_id": 2,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 50
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 631,
+        "lv": 21,
+        "potential_skill_id": 3,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 21
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 632,
+        "lv": 22,
+        "potential_skill_id": 3,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 22
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 633,
+        "lv": 23,
+        "potential_skill_id": 3,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 23
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 634,
+        "lv": 24,
+        "potential_skill_id": 3,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 24
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 635,
+        "lv": 25,
+        "potential_skill_id": 3,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 25
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 636,
+        "lv": 21,
+        "potential_skill_id": 4,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 105
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 637,
+        "lv": 22,
+        "potential_skill_id": 4,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 110
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 638,
+        "lv": 23,
+        "potential_skill_id": 4,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 115
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 639,
+        "lv": 24,
+        "potential_skill_id": 4,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 120
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 640,
+        "lv": 25,
+        "potential_skill_id": 4,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 125
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 641,
+        "lv": 21,
+        "potential_skill_id": 5,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 21
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 642,
+        "lv": 22,
+        "potential_skill_id": 5,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 22
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 643,
+        "lv": 23,
+        "potential_skill_id": 5,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 23
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 644,
+        "lv": 24,
+        "potential_skill_id": 5,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 24
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 645,
+        "lv": 25,
+        "potential_skill_id": 5,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 25
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 646,
+        "lv": 21,
+        "potential_skill_id": 6,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 105
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 647,
+        "lv": 22,
+        "potential_skill_id": 6,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 110
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 648,
+        "lv": 23,
+        "potential_skill_id": 6,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 115
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 649,
+        "lv": 24,
+        "potential_skill_id": 6,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 120
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 650,
+        "lv": 25,
+        "potential_skill_id": 6,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 125
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 651,
+        "lv": 21,
+        "potential_skill_id": 7,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 105
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 652,
+        "lv": 22,
+        "potential_skill_id": 7,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 110
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 653,
+        "lv": 23,
+        "potential_skill_id": 7,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 115
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 654,
+        "lv": 24,
+        "potential_skill_id": 7,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 120
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "id": 655,
+        "lv": 25,
+        "potential_skill_id": 7,
+        "updated_at": "2020-01-21 00:03:49",
+        "value": 125
+    },
+    {
         "created_at": "2016-11-29 03:06:41",
         "id": 701,
         "lv": 1,

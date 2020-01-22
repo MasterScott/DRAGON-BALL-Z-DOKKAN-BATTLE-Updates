@@ -3915,6 +3915,33 @@
         "updated_at": "2019-12-24 02:04:50"
     },
     {
+        "cau_val1": 300,
+        "cau_val2": 0,
+        "cau_val3": 0,
+        "causality_type": 3,
+        "created_at": "2020-01-07 02:04:03",
+        "id": 465,
+        "updated_at": "2020-01-07 02:04:03"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 45,
+        "cau_val3": 2,
+        "causality_type": 34,
+        "created_at": "2020-01-07 02:04:03",
+        "id": 466,
+        "updated_at": "2020-01-07 02:04:03"
+    },
+    {
+        "cau_val1": 2,
+        "cau_val2": 45,
+        "cau_val3": 3,
+        "causality_type": 34,
+        "created_at": "2020-01-07 02:04:03",
+        "id": 467,
+        "updated_at": "2020-01-07 02:04:03"
+    },
+    {
         "cau_val1": 1,
         "cau_val2": 4,
         "cau_val3": 1,

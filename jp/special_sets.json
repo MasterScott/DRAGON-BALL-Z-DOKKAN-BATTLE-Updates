@@ -20261,6 +20261,86 @@
     },
     {
         "aim_target": 0,
+        "created_at": "2020-01-07 02:04:16",
+        "description": "相手に超絶特大ダメージを与え、\nDEFを大幅に低下させる\n&1ターン極系の仲間ATK30%UP",
+        "id": 2194,
+        "increase_rate": 150,
+        "lv_bonus": 25,
+        "name": "悪を滅せぬ弱き神は不要なり！(極限)",
+        "updated_at": "2020-01-07 02:04:16"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-07 02:04:16",
+        "description": "1ターンATKとDEFが上昇し、\n相手に超絶特大ダメージを与える",
+        "id": 2195,
+        "increase_rate": 180,
+        "lv_bonus": 25,
+        "name": "超かめはめ波(極限)",
+        "updated_at": "2020-01-07 02:04:16"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-07 02:04:16",
+        "description": "超特大ダメージを与え、6ターンATKが上昇",
+        "id": 2196,
+        "increase_rate": 100,
+        "lv_bonus": 20,
+        "name": "超かめはめ波(極限)",
+        "updated_at": "2020-01-07 02:04:16"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-07 02:04:16",
+        "description": "相手に超特大ダメージを与え、\n6ターンDEFが30%上昇",
+        "id": 2197,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "超かめはめ波(極限)",
+        "updated_at": "2020-01-07 02:04:16"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "1ターンATKとDEFが大幅上昇し、\n相手に超特大ダメージを与える",
+        "id": 2198,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "メテオブラスト(極限)",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "1ターンATKとDEFが大幅上昇し、\n相手に超特大ダメージを与える",
+        "id": 2199,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ダークインパクト(極限)",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "超特大ダメージを与え、\n9ターンATKとDEFを30%UP",
+        "id": 2200,
+        "increase_rate": 120,
+        "lv_bonus": 20,
+        "name": "ギャリックキャノン",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "DEFが上昇し、\n相手に超特大ダメージを与え、\n中確率で気絶させる",
+        "id": 2201,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "時とばし",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
         "created_at": "2019-12-24 02:05:05",
         "description": "相手に超特大ダメージを与える",
         "id": 2202,
@@ -20278,6 +20358,56 @@
         "lv_bonus": 20,
         "name": "気円斬",
         "updated_at": "2019-12-24 02:05:05"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-07 02:04:16",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2220,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "超かめはめ波",
+        "updated_at": "2020-01-07 02:04:16"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2221,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "メテオブラスト",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2222,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ダークインパクト",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2223,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "メテオブラスト",
+        "updated_at": "2020-01-14 00:10:24"
+    },
+    {
+        "aim_target": 0,
+        "created_at": "2020-01-14 00:10:24",
+        "description": "相手に超特大ダメージを与える",
+        "id": 2224,
+        "increase_rate": 150,
+        "lv_bonus": 20,
+        "name": "ダークインパクト",
+        "updated_at": "2020-01-14 00:10:24"
     },
     {
         "aim_target": 0,

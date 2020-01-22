@@ -1,731 +1,740 @@
 [
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket rewarded at the World Tournament. \n5 tickets are required to perform one \nWorld Tournament Ticket Summon.",
         "id": 1,
         "name": "World Tournament Ticket",
         "rarity": 2,
         "selling_exchange_point": 2,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket rewarded at the World Tournament. \n1 ticket is required to perform one \nWorld Tournament Ticket Summon.",
         "id": 2,
         "name": "World Tournament Ticket",
         "rarity": 3,
         "selling_exchange_point": 10,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "An SSR Guaranteed Ticket. \nCollect 5 to claim one SSR 100% Summon.",
         "id": 3,
         "name": "SSR Guaranteed Ticket",
         "rarity": 2,
         "selling_exchange_point": 200,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "An SSR Guaranteed Ticket. \nCollect 1 to claim one SSR 100% Summon.",
         "id": 4,
         "name": "SSR Guaranteed Ticket",
         "rarity": 3,
         "selling_exchange_point": 1000,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "An SR or higher guaranteed Summon Ticket.\nUse one to claim one SR or higher guaranteed Summon.",
         "id": 5,
         "name": "SR or Higher Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "\"Returning Exclusive\" SSR Guaranteed Ticket.\nOne SSR character guaranteed for a Single-Summon.",
         "id": 6,
         "name": "SSR Guaranteed Ticket",
         "rarity": 3,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "\"Ranking No.1 Celebration\" SSR Guaranteed Ticket.\nOne SSR character guaranteed for a Single-Summon.",
         "id": 7,
         "name": "SSR Guaranteed Ticket",
         "rarity": 3,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "7777フィギュアプレゼントキャンペーンに↵応募していることを証明するもの。↵30thコインと交換で入手することが可能。",
         "id": 8,
         "name": "応募証明書",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "第13回天下一武道会100位入賞の報酬↵コラボプレミアムver.",
         "id": 9,
         "name": "フィギュア獲得権",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"150M Global DLs Celebration.\" \nIt allows you to perform a single Special Summon. \nValid until 5/22 21:59 PST.",
         "id": 10,
         "name": "Special Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/07 (16:00) to 7/08 (15:59).\"",
         "id": 11,
         "name": "2nd Anniversary Daily Summon Ticket (Day 1)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/08 (16:00) to 7/09 (15:59).\"",
         "id": 12,
         "name": "2nd Anniversary Daily Summon Ticket (Day 2)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/09 (16:00) to 7/10 (15:59).\"",
         "id": 13,
         "name": "2nd Anniversary Daily Summon Ticket (Day 3)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/10 (16:00) to 7/11 (15:59).\"",
         "id": 14,
         "name": "2nd Anniversary Daily Summon Ticket (Day 4)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/11 (16:00) to 7/12 (15:59).\"",
         "id": 15,
         "name": "2nd Anniversary Daily Summon Ticket (Day 5)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/12 (16:00) to 7/13 (15:59).\"",
         "id": 16,
         "name": "2nd Anniversary Daily Summon Ticket (Day 6)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/13 (16:00) to 7/14 (15:59).\"",
         "id": 17,
         "name": "2nd Anniversary Daily Summon Ticket (Day 7)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/14 (16:00) to 7/15 (15:59).\"",
         "id": 18,
         "name": "2nd Anniversary Daily Summon Ticket (Day 8)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/15 (16:00) to 7/16 (15:59).\"",
         "id": 19,
         "name": "2nd Anniversary Daily Summon Ticket (Day 9)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/16 (16:00) to 7/17 (15:59).\"",
         "id": 20,
         "name": "2nd Anniversary Daily Summon Ticket (Day 10)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/17 (16:00) to 7/18 (15:59).\"",
         "id": 21,
         "name": "2nd Anniversary Daily Summon Ticket (Day 11)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/18 (16:00) to 7/19 (15:59).\"",
         "id": 22,
         "name": "2nd Anniversary Daily Summon Ticket (Day 12)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/19 (16:00) to 7/20 (15:59).\"",
         "id": 23,
         "name": "2nd Anniversary Daily Summon Ticket (Day 13)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/20 (16:00) to 7/21 (15:59).\"",
         "id": 24,
         "name": "2nd Anniversary Daily Summon Ticket (Day 14)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/21 (16:00) to 7/22 (15:59).\"",
         "id": 25,
         "name": "2nd Anniversary Daily Summon Ticket (Day 15)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/22 (16:00) to 7/23 (15:59).\"",
         "id": 26,
         "name": "2nd Anniversary Daily Summon Ticket (Day 16)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/23 (16:00) to 7/24 (15:59).\"",
         "id": 27,
         "name": "2nd Anniversary Daily Summon Ticket (Day 17)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/24 (16:00) to 7/25 (15:59).\"",
         "id": 28,
         "name": "2nd Anniversary Daily Summon Ticket (Day 18)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/25 (16:00) to 7/26 (15:59).\"",
         "id": 29,
         "name": "2nd Anniversary Daily Summon Ticket (Day 19)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A daily Summon ticket to mark our 2nd Anniversary Celebration.\nThis ticket allows you to perform a single \n\"2nd Anniversary Celebration Daily Summon\".\nValid from 7/26 (16:00) to 7/27 (15:59).\"",
         "id": 30,
         "name": "2nd Anniversary Daily Summon Ticket (Day 20)",
         "rarity": 2,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"200M Global DLs Celebration.\" \n1 ticket is required to perform one Single Summon. \nValid until 8/31 23:59 PST.",
         "id": 43,
         "name": "Special Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"1000 Days Celebration.\" \n1 ticket is required to perform one Single Summon. \nValid until 4/27 21:59 PST.",
         "id": 44,
         "name": "Celebration Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket for our 3rd Anniversary Celebration!\nOne ticket allows you to perform a Single Summon\nin the \"3rd Anniversary Ticket Summon\".\nValid until 8/16 15:59 PST.",
         "id": 45,
         "name": "3rd Anniversary Ticket",
         "rarity": 3,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"New Summon Animation Celebration.\"\n1 ticket is required to perform a summon\nin the \"Celebration Ticket Summon.\"\nValid until 9/3 (Mon) 21:59 PST.",
         "id": 46,
         "name": "Celebration Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"New Summon Animation Celebration.\"\n1 ticket is required to perform a summon\nin the \"SSR Guaranteed Celebration Ticket Summon.\"\nValid until 9/3 (Mon) 21:59 PST.",
         "id": 47,
         "name": "SSR Guaranteed Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 10000,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"250 Million Global DLs Reached Celebration.\"\n1 ticket is required to perform one Single Summon \nin the \"Dokkan Festival Ticket Summon.\"\nValid until 10/3 (Wed) 23:59 PST.",
         "id": 48,
         "name": "Celebration Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket for \"Weekend Summon.\"\n1 ticket is required to perform one summon\nin the \"Weekend Summon\".",
         "id": 49,
         "name": "Weekend Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"4th Anniversary! Ticket Summon\". \nValid until 2019/8/16 21:59 PST.",
         "id": 51,
         "name": "4th Anniversary Ticket",
         "rarity": 3,
         "selling_exchange_point": 500,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket obtainable from \nthe event \"Fighting Legend: Goku\". \nOne ticket is required to perform a summon \nin the \"Fighting Legend: Goku Ticket Summon\".",
         "id": 52,
         "name": "Fighting Legend: Goku Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"300 Million Global DLs Reached \nCelebration Dokkan Festival Ticket Summon\".\nValid until 2019/10/2 23:59 PST.",
         "id": 53,
         "name": "Celebration Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "An item to verify one's achievement in the \n\"Tricks Won't Work! Tile Breaking Challenge\".",
         "id": 54,
         "name": "Broken Tile",
         "rarity": 3,
         "selling_exchange_point": 1,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Hercule's Fortune Summon.\" \n1 ticket is required to perform one Single Summon.",
         "id": 701,
         "name": "Hercule's Fortune Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "\"Returning Exclusive\" SSR Guaranteed Ticket.\nA ticket for a Multi-Summon in the \nReturning Exclusive Summon Event.",
         "id": 901,
         "name": "Returning Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon ticket for “2nd Anniversary Legendary Summon.” \n10 tickets are required to perform one Single Summon. \nValid until 7/15 06:59 PST.",
         "id": 911,
         "name": "2nd Anniversary Legendary Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Festival-Exclusive Character \nGuaranteed Ticket Summon A\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
         "id": 921,
         "name": "Festival-Exclusive Character Guaranteed Ticket A",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Festival-Exclusive Character \nGuaranteed Ticket Summon B\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
         "id": 922,
         "name": "Festival-Exclusive Character Guaranteed Ticket B",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Thank-You Ticket Summon A\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
         "id": 931,
         "name": "Thank-You Summon Ticket A",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Thank-You Ticket Summon B\". \n1 ticket is required to perform one Single Summon. \nValid until 12/24 23:59 PST.",
         "id": 932,
         "name": "Thank-You Summon Ticket B",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Christmas Ticket Summon\". \n1 ticket is required to perform one Single Summon. \nValid until 2018/1/13 21:59 PST.",
         "id": 941,
         "name": "Christmas Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"\"Combat Power Reinforcement\" \nSummon\". \nValid until 2018/5/6 21:59 PST.",
         "id": 951,
         "name": "\"Combat Power\" Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/3/27 21:59 PST.",
         "id": 961,
         "name": "Extreme Z Dokkan Fes Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Super Dokkan Festival \nTicket Summon\". \nValid until 2018/5/10 21:59 PST.",
         "id": 971,
         "name": "Super Dokkan Fes. Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Dokkan Festival \nTicket Summon\". \nValid until 2018/5/10 21:59 PST.",
         "id": 972,
         "name": "Extreme Dokkan Fes. Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2018/8/12 21:59 PST.",
         "id": 981,
         "name": "Dokkan Festival Ticket (A)",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2018/8/12 21:59 PST.",
         "id": 982,
         "name": "Dokkan Festival Ticket (B)",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Super Dokkan Festival \nTicket Summon\". \nValid until 2019/12/8 21:59 PST.",
         "id": 991,
         "name": "Super Dokkan Fes. Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Dokkan Festival \nTicket Summon\". \nValid until 2019/12/8 21:59 PST.",
         "id": 992,
         "name": "Extreme Dokkan Fes. Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Thank-You Dokkan Festival  \nTicket Summon\". \nValid until 2018/12/21 21:59 PST.",
         "id": 9001,
         "name": "Thank-You Dokkan Fest Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "A Summon Ticket for \"Weekend Summon.\"\n1 ticket is required to perform one summon\nin the \"Weekend Summon\".",
         "id": 9002,
         "name": "Weekend Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Dokkan Festival Ticket Summon\". \nValid until 2019/10/28 21:59 PST.",
         "id": 9003,
         "name": "Dokkan Festival Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon Ticket for the \"Legendary Summon\" released \nduring the Halloween Campaign. \nValid until 2019/11/18 21:59 PST.",
         "id": 9004,
         "name": "Halloween Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon Ticket for \"Merry Christmas! \nDokkan Festival Ticket Summon\". \nValid until 2020/1/5 21:59 PST.",
         "id": 9005,
         "name": "Christmas Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon Ticket for \"Merry Christmas! \nPremium Dokkan Festival Ticket Summon\". \nValid until 2020/1/5 21:59 PST.",
         "id": 9006,
         "name": "Premium Christmas Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 0,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/5/2 21:59 PST.",
         "id": 9602,
         "name": "Extreme Z Dokkan Fes Ticket 2",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/10/25 21:59 PST.",
         "id": 9603,
         "name": "Extreme Z Dokkan Fes Ticket 3",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/11/15 21:59 PST.",
         "id": 9604,
         "name": "Extreme Z Dokkan Fes Ticket 4",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2018/12/19 21:59 PST.",
         "id": 9605,
         "name": "Extreme Z Dokkan Fes Ticket 5",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/01/07 21:59 PST.",
         "id": 9606,
         "name": "Extreme Z Dokkan Fes Ticket 6",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/02/05 21:59 PST.",
         "id": 9607,
         "name": "Extreme Z Dokkan Fes Ticket 7",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/03/13 21:59 PST.",
         "id": 9608,
         "name": "Extreme Z Dokkan Fes Ticket 8",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/04/25 21:59 PST.",
         "id": 9609,
         "name": "Extreme Z Dokkan Fes Ticket 9",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/05/14 21:59 PST.",
         "id": 9610,
         "name": "Extreme Z Dokkan Fes Ticket 10",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/06/30 21:59 PST.",
         "id": 9611,
         "name": "Extreme Z Dokkan Fes Ticket 11",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/08/29 21:59 PST.",
         "id": 9612,
         "name": "Extreme Z Dokkan Fes Ticket 12",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/10/30 21:59 PST.",
         "id": 9613,
         "name": "Extreme Z Dokkan Fes Ticket 13",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/11/14 21:59 PST.",
         "id": 9614,
         "name": "Extreme Z Dokkan Fes Ticket 14",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2019/12/09 21:59 PST.",
         "id": 9615,
         "name": "Extreme Z Dokkan Fes Ticket 15",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/01/05 21:59 PST.",
         "id": 9616,
         "name": "Extreme Z Dokkan Fes Ticket 16",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
+        "description": "Summon ticket for \"Extreme Z Dokkan Festival \nTicket Summon\". \nValid until 2020/01/29 21:59 PST.",
+        "id": 9617,
+        "name": "Extreme Z Dokkan Fes Ticket 17",
+        "rarity": 3,
+        "selling_exchange_point": 50,
+        "updated_at": "2020-01-17 02:37:34.513663"
+    },
+    {
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Dokkan Festival Ticket Summon (A)\". \nValid until 2019/8/12 21:59 PST.",
         "id": 9701,
         "name": "Dokkan Festival Ticket (A)",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "Summon ticket for \"Dokkan Festival Ticket Summon (B)\". \nValid until 2019/8/12 21:59 PST.",
         "id": 9702,
         "name": "Dokkan Festival Ticket (B)",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     },
     {
-        "created_at": "2019-12-27 02:40:13.088603",
+        "created_at": "2020-01-17 02:37:34.513663",
         "description": "SSR guaranteed summon ticket for \"Power UP! \nSSR Force Summon\". 1 ticket is required to \nperform one Single Summon in the \"Power UP! \nSSR Force Summon\".",
         "id": 9999,
         "name": "SSR Force Summon Ticket",
         "rarity": 3,
         "selling_exchange_point": 50,
-        "updated_at": "2019-12-27 02:40:13.088603"
+        "updated_at": "2020-01-17 02:37:34.513663"
     }
 ]

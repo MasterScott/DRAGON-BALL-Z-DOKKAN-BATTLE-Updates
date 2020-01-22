@@ -140,6 +140,10 @@
         "seq": 45
     },
     {
+        "name": "card_decorations",
+        "seq": 146
+    },
+    {
         "name": "card_exps",
         "seq": 2340
     },
@@ -161,7 +165,15 @@
     },
     {
         "name": "card_specials",
-        "seq": 6207
+        "seq": 6257
+    },
+    {
+        "name": "card_sticker_decoration_relations",
+        "seq": 9155
+    },
+    {
+        "name": "card_sticker_items",
+        "seq": 10
     },
     {
         "name": "card_training_skill_lvs",
@@ -205,7 +217,7 @@
     },
     {
         "name": "enemy_skills",
-        "seq": 1000354
+        "seq": 1000383
     },
     {
         "name": "eventkagi_items",
@@ -217,7 +229,7 @@
     },
     {
         "name": "related_card_categories",
-        "seq": 1000248
+        "seq": 1000270
     },
     {
         "name": "related_passive_skill_sets",
@@ -237,7 +249,7 @@
     },
     {
         "name": "help_categories",
-        "seq": 11
+        "seq": 12
     },
     {
         "name": "leader_skills",
@@ -253,7 +265,7 @@
     },
     {
         "name": "marquees",
-        "seq": 104
+        "seq": 108
     },
     {
         "name": "mission_categories",
@@ -265,7 +277,7 @@
     },
     {
         "name": "mission_rewards",
-        "seq": 18041
+        "seq": 18069
     },
     {
         "name": "mission_campaigns",
@@ -273,11 +285,11 @@
     },
     {
         "name": "mission_periods",
-        "seq": 1199
+        "seq": 1213
     },
     {
         "name": "optimal_awakening_growths",
-        "seq": 455
+        "seq": 497
     },
     {
         "name": "passive_skills",
@@ -285,11 +297,11 @@
     },
     {
         "name": "passive_skill_sets",
-        "seq": 2002
+        "seq": 2010
     },
     {
         "name": "passive_skill_set_relations",
-        "seq": 4414
+        "seq": 4445
     },
     {
         "name": "points",
@@ -413,7 +425,7 @@
     },
     {
         "name": "specials",
-        "seq": 1002182
+        "seq": 1002201
     },
     {
         "name": "special_bonuses",
@@ -421,7 +433,7 @@
     },
     {
         "name": "special_items",
-        "seq": 54
+        "seq": 55
     },
     {
         "name": "special_scripts",
@@ -433,7 +445,7 @@
     },
     {
         "name": "special_views",
-        "seq": 6207
+        "seq": 6257
     },
     {
         "name": "status_extensions",
@@ -441,11 +453,11 @@
     },
     {
         "name": "sub_target_type_sets",
-        "seq": 108
+        "seq": 109
     },
     {
         "name": "sub_target_types",
-        "seq": 129
+        "seq": 130
     },
     {
         "name": "sugoroku_maps",
@@ -461,7 +473,7 @@
     },
     {
         "name": "tips",
-        "seq": 103
+        "seq": 110
     },
     {
         "name": "title_screens",
@@ -497,47 +509,47 @@
     },
     {
         "name": "z_battle_check_points",
-        "seq": 217
+        "seq": 229
     },
     {
         "name": "z_battle_enemies",
-        "seq": 36
+        "seq": 39
     },
     {
         "name": "z_battle_enemy_card_escalations",
-        "seq": 103
+        "seq": 112
     },
     {
         "name": "z_battle_enemy_skill_escalations",
-        "seq": 860
+        "seq": 922
     },
     {
         "name": "z_battle_enemy_status_escalations",
-        "seq": 972
+        "seq": 1036
     },
     {
         "name": "z_battle_first_rewards",
-        "seq": 3886
+        "seq": 4136
     },
     {
         "name": "z_battle_first_reward_level_ranges",
-        "seq": 1116
+        "seq": 1178
     },
     {
         "name": "z_battle_normal_reward_tables",
-        "seq": 268
+        "seq": 286
     },
     {
         "name": "z_battle_normal_rewards",
-        "seq": 292
+        "seq": 310
     },
     {
         "name": "z_battle_stages",
-        "seq": 32
+        "seq": 34
     },
     {
         "name": "z_battle_powerup_thresholds",
-        "seq": 35
+        "seq": 37
     },
     {
         "name": "z_battle_powerup_views",
@@ -549,6 +561,6 @@
     },
     {
         "name": "z_battle_stage_views",
-        "seq": 35
+        "seq": 37
     }
 ]

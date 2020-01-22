@@ -29440,5 +29440,222 @@
         "passive_skill_id": 3002002,
         "passive_skill_set_id": 2002,
         "updated_at": "2019-12-24 02:03:49"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4415,
+        "passive_skill_id": 2003,
+        "passive_skill_set_id": 2003,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4416,
+        "passive_skill_id": 1002003,
+        "passive_skill_set_id": 2003,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4417,
+        "passive_skill_id": 2002003,
+        "passive_skill_set_id": 2003,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4418,
+        "passive_skill_id": 3002003,
+        "passive_skill_set_id": 2003,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4419,
+        "passive_skill_id": 2004,
+        "passive_skill_set_id": 2004,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4420,
+        "passive_skill_id": 1002004,
+        "passive_skill_set_id": 2004,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4421,
+        "passive_skill_id": 2002004,
+        "passive_skill_set_id": 2004,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4422,
+        "passive_skill_id": 3002004,
+        "passive_skill_set_id": 2004,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4423,
+        "passive_skill_id": 2005,
+        "passive_skill_set_id": 2005,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4424,
+        "passive_skill_id": 1002005,
+        "passive_skill_set_id": 2005,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4425,
+        "passive_skill_id": 2002005,
+        "passive_skill_set_id": 2005,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4426,
+        "passive_skill_id": 3002005,
+        "passive_skill_set_id": 2005,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4427,
+        "passive_skill_id": 2006,
+        "passive_skill_set_id": 2006,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4428,
+        "passive_skill_id": 1002006,
+        "passive_skill_set_id": 2006,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4429,
+        "passive_skill_id": 2002006,
+        "passive_skill_set_id": 2006,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-07 02:03:04",
+        "id": 4430,
+        "passive_skill_id": 3002006,
+        "passive_skill_set_id": 2006,
+        "updated_at": "2020-01-07 02:03:04"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4431,
+        "passive_skill_id": 2007,
+        "passive_skill_set_id": 2007,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4432,
+        "passive_skill_id": 1002007,
+        "passive_skill_set_id": 2007,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4433,
+        "passive_skill_id": 2002007,
+        "passive_skill_set_id": 2007,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4434,
+        "passive_skill_id": 3002007,
+        "passive_skill_set_id": 2007,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4435,
+        "passive_skill_id": 2008,
+        "passive_skill_set_id": 2008,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4436,
+        "passive_skill_id": 1002008,
+        "passive_skill_set_id": 2008,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4437,
+        "passive_skill_id": 2002008,
+        "passive_skill_set_id": 2008,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4438,
+        "passive_skill_id": 2009,
+        "passive_skill_set_id": 2009,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4439,
+        "passive_skill_id": 1002009,
+        "passive_skill_set_id": 2009,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4440,
+        "passive_skill_id": 2002009,
+        "passive_skill_set_id": 2009,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4441,
+        "passive_skill_id": 3002009,
+        "passive_skill_set_id": 2009,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4442,
+        "passive_skill_id": 2010,
+        "passive_skill_set_id": 2010,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4443,
+        "passive_skill_id": 1002010,
+        "passive_skill_set_id": 2010,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4444,
+        "passive_skill_id": 2002010,
+        "passive_skill_set_id": 2010,
+        "updated_at": "2020-01-14 00:09:15"
+    },
+    {
+        "created_at": "2020-01-14 00:09:15",
+        "id": 4445,
+        "passive_skill_id": 3002010,
+        "passive_skill_set_id": 2010,
+        "updated_at": "2020-01-14 00:09:15"
     }
 ]

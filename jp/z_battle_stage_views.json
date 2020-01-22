@@ -318,5 +318,25 @@
         "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_start\":{\"x\":-8,\"y\":-178,\"scale\":1.15},\"anime_end\":{\"x\":98,\"y\":-240,\"scale\":1.15},\"shadow\":{\"x\":-172,\"y\":498,\"scale\":0.65},\"start_chara\":{\"x\":0,\"y\":-8,\"scale\":1.17}}}",
         "updated_at": "2019-11-20 06:12:20",
         "z_battle_stage_id": 32
+    },
+    {
+        "created_at": "2019-11-26 03:44:04",
+        "enemy_name": "合体ザマス",
+        "enemy_nickname": "絶対神の憤怒",
+        "enemy_resource_id": 1009791,
+        "id": 36,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"anime_start\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"anime_end\":{\"x\":-32,\"y\":-6,\"scale\":0.9},\"shadow\":{\"x\":-1000,\"y\":1000,\"scale\":0.0},\"start_chara\":{\"x\":-30,\"y\":0,\"scale\":1.14}}}",
+        "updated_at": "2019-12-09 03:13:41",
+        "z_battle_stage_id": 33
+    },
+    {
+        "created_at": "2019-12-20 07:03:07",
+        "enemy_name": "宿命のライバル編",
+        "enemy_nickname": "極限Zバトル",
+        "enemy_resource_id": 1019180,
+        "id": 37,
+        "params": "{\"lwf\":{\"event_top_chara\":{\"x\":6,\"y\":78,\"scale\":0.76},\"anime_start\":{\"x\":6,\"y\":78,\"scale\":0.76},\"anime_end\":{\"x\":6,\"y\":78,\"scale\":0.76},\"shadow\":{\"x\":10000,\"y\":10000,\"scale\":0.0},\"start_chara\":{\"x\":0,\"y\":14,\"scale\":1.07}}}",
+        "updated_at": "2019-12-27 07:36:03",
+        "z_battle_stage_id": 34
     }
 ]

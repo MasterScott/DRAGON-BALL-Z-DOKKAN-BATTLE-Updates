@@ -705,5 +705,33 @@
         "id": 104,
         "scene_name": "ExchangeOtherItemScene",
         "updated_at": "2019-12-10 21:08:52"
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "description": "タップで詳細を確認できます。",
+        "id": 105,
+        "scene_name": "EquipmentItemScene",
+        "updated_at": "2020-01-21 00:03:49"
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "description": "所持しているスキル玉を交換ptに替えることができます。アイテムによってレートが異なります。",
+        "id": 106,
+        "scene_name": "ExchangeEquipmentItemScene",
+        "updated_at": "2020-01-21 00:03:49"
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "description": "タップで詳細を確認できます。",
+        "id": 107,
+        "scene_name": "CardStickerItemScene",
+        "updated_at": "2020-01-21 00:03:49"
+    },
+    {
+        "created_at": "2020-01-21 00:03:49",
+        "description": "スペシャルステッカーを使用するキャラクターを選択してください。",
+        "id": 108,
+        "scene_name": "CardStickerCharacterListScene",
+        "updated_at": "2020-01-21 00:03:49"
     }
 ]

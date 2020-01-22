@@ -33,7 +33,7 @@
     },
     {
         "name": "battle_params",
-        "seq": 1563
+        "seq": 1652
     },
     {
         "name": "beginners_guides",
@@ -141,7 +141,7 @@
     },
     {
         "name": "card_categories",
-        "seq": 40
+        "seq": 42
     },
     {
         "name": "card_exps",
@@ -341,7 +341,7 @@
     },
     {
         "name": "quest_category_bonus_rarity_tables",
-        "seq": 42
+        "seq": 49
     },
     {
         "name": "quest_category_bonuses",
@@ -397,7 +397,7 @@
     },
     {
         "name": "skill_causalities",
-        "seq": 460
+        "seq": 473
     },
     {
         "name": "skill_groups",
@@ -425,7 +425,7 @@
     },
     {
         "name": "special_scripts",
-        "seq": 515
+        "seq": 519
     },
     {
         "name": "special_sets",
@@ -437,7 +437,7 @@
     },
     {
         "name": "specials",
-        "seq": 1002065
+        "seq": 1002116
     },
     {
         "name": "status_extensions",
@@ -445,11 +445,11 @@
     },
     {
         "name": "sub_target_type_sets",
-        "seq": 99
+        "seq": 108
     },
     {
         "name": "sub_target_types",
-        "seq": 117
+        "seq": 129
     },
     {
         "name": "sugoroku_map_puzzle_colors",
@@ -493,7 +493,7 @@
     },
     {
         "name": "wallpaper_items",
-        "seq": 4
+        "seq": 5
     },
     {
         "name": "worlds",

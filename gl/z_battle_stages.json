@@ -317,7 +317,7 @@
         "id": 23,
         "listbutton_image_path": "banners/en/event/eve_listbutton/myp_banner_event_zbattle_023.png",
         "locked_by": null,
-        "priority": 1,
+        "priority": 0,
         "start_at": "2019-11-25 06:30:00",
         "z_battle_stage_effect_escalation_type": 23
     },
@@ -362,6 +362,20 @@
         "priority": 0,
         "start_at": "2019-10-31 06:30:00",
         "z_battle_stage_effect_escalation_type": 26
+    },
+    {
+        "announcement_id": 101636,
+        "banner_image_path": "banners/en/event/eve_banner/zbattle_list_banner_28.png",
+        "danger_line_hp": 35000,
+        "end_at": "2020-01-30 05:59:59",
+        "eventkagi_end_at": null,
+        "eventkagi_start_at": null,
+        "id": 28,
+        "listbutton_image_path": "banners/en/event/eve_listbutton/myp_banner_event_zbattle_028.png",
+        "locked_by": null,
+        "priority": 1,
+        "start_at": "2020-01-13 06:30:00",
+        "z_battle_stage_effect_escalation_type": 28
     },
     {
         "announcement_id": 101490,
